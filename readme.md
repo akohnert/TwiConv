@@ -11,7 +11,7 @@ This is an instruction on how to reproduce the TwiConv Corpus as described in (T
 
 ### Make CoNLL-format files
 
-After downloading all the tweets and authors via their Tweet IDs, the text of each tweet should be saved in an individual text file, with the tweet ID as the name and the .txt extension (e.g. ``0123456789.txt``). In a different directory, the authors should be stored in the same way, using the same file name (in this case ``0123456789.txt`` as well)
+After downloading all the tweets and authors via their Tweet IDs, the text of each tweet should be saved in an individual text file, with the tweet ID as the name and the .txt extension (e.g. ``0123456789.txt``). In a different directory, the authors should be stored in the same way, using the same file name (in this case ``0123456789.txt`` as well).
 
  Example tweet: ``This is just a test. Hi Twitter!``
 
