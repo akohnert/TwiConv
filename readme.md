@@ -1,8 +1,9 @@
-## TwiCon Corpus
+## 
+TwiConv Corpus
 
-This is an instruction on how to reproduce the TwiCon Corpus as described in (TODO), which is an annotated corpus for nominal coreference in Twitter conversations (Twitter threads). To conform with Twitter's Developer Policy, we only share our annotations as text files without including the full tweet contents and authors. Instead we provide the tweet IDs and also share an additional script and data to map our tokenization and annotations to the original tweets.
+This is an instruction on how to reproduce the TwiConv Corpus as described in (TODO), which is an annotated corpus for nominal coreference in Twitter conversations (Twitter threads). To conform with Twitter's Developer Policy, we only share our annotations as text files without including the full tweet contents and authors. Instead we provide the tweet IDs and also share an additional script and data to map our tokenization and annotations to the original tweets.
 
-### Required
+### Required Data
 - CoNLL skeleton files in which the words and tweet authors are anonymized (one file for each conversation/thread, provided in ``conll_skeleton``)
 - files with token differences to re-create the tokenization (one file per tweet, provided in ``diff``)
 - text files containing the message of each tweet. The tweets can be downloaded via their tweet ID through the Twitter API (all IDs are listed in ``tweet_ids.txt``).
