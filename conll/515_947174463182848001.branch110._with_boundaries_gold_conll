@@ -1,0 +1,146 @@
+#begin document (515_947174463182848001.branch110.); part 172
+515_947174463182848001.branch110.	172	0	I	PRP	(ROOT(S(NP*)	laurenxjessica	representative_men	-	ppers/exophora	(2)	CL0	NP_S()	NP_L()	sbj	specific	0_0_0
+515_947174463182848001.branch110.	172	1	was	VBD	(VP*	laurenxjessica	-	-	-	-	-	-	-	-	-	0_0_1
+515_947174463182848001.branch110.	172	2	playing	VBG	(VP*	laurenxjessica	-	-	-	-	-	-	-	-	-	0_0_2
+515_947174463182848001.branch110.	172	3	Mic	NNP	(S(NP*	laurenxjessica	representative_men	other	ne/none	(1003	-	NP_S(	NP_L(	-	-	0_0_3
+515_947174463182848001.branch110.	172	4	Drop	NNP	*)	laurenxjessica	-	-	-	1003)	-	)NP_S	)NP_L	-	-	0_0_4
+515_947174463182848001.branch110.	172	5	really	RB	(ADJP*	laurenxjessica	-	-	-	-	-	-	-	-	-	0_0_5
+515_947174463182848001.branch110.	172	6	loud	JJ	*	laurenxjessica	-	-	-	-	-	-	-	-	-	0_0_6
+515_947174463182848001.branch110.	172	7	in	IN	(PP*	laurenxjessica	-	-	-	-	-	-	-	-	-	0_0_7
+515_947174463182848001.branch110.	172	8	my	PRP$	(NP(NP*	laurenxjessica	representative_men	phys_obj	defnp/none|ppos/anaphora	(1006|(2)	-	NP_S(	NP_L(	prep_phrase	not_assigned	0_0_8
+515_947174463182848001.branch110.	172	9	car	NN	*)	laurenxjessica	-	-	-	1006)	-	)NP_S	)NP_L	-	-	0_0_9
+515_947174463182848001.branch110.	172	10	and	CC	*	laurenxjessica	-	-	-	-	CL0	-	-	-	-	0_0_10
+515_947174463182848001.branch110.	172	11	the	DT	(NP(NP*	laurenxjessica	representative_men	phys_obj	defnp/none	(1005	CL1	NP_S(	NP_L(	-	-	0_0_11
+515_947174463182848001.branch110.	172	12	car	NN	*)	laurenxjessica	-	-	-	-	-	)NP_S	)NP_L	-	-	0_0_12
+515_947174463182848001.branch110.	172	13	next	JJ	(VP(ADVP*	laurenxjessica	-	-	-	-	-	-	-	-	-	0_0_13
+515_947174463182848001.branch110.	172	14	to	TO	(PP*	laurenxjessica	-	-	-	-	-	-	-	-	-	0_0_14
+515_947174463182848001.branch110.	172	15	me	PRP	(NP*)))	laurenxjessica	-	-	ppers/anaphora	(2)|1005)	-	NP_S()	NP_L()	prep_phrase	not_assigned	0_0_15
+515_947174463182848001.branch110.	172	16	goes	VBZ	*	laurenxjessica	-	-	-	-	-	-	-	-	-	0_0_16
+515_947174463182848001.branch110.	172	17	``	``	(NP*	laurenxjessica	-	-	-	-	-	-	-	-	-	0_0_17
+515_947174463182848001.branch110.	172	18	AYYYYYYYE	NNP	(S(NP*	laurenxjessica	-	-	-	-	-	NP_S(	NP_L(	-	-	0_0_18
+515_947174463182848001.branch110.	172	19	BTS	NNP	*)	laurenxjessica	representative_men	-	ne/none	(3)	-	)NP_S	)NP_L	other/vocative	specific	0_0_19
+515_947174463182848001.branch110.	172	20	!!!!	.	(VP*))	laurenxjessica	-	-	-	-	-	-	-	-	-	0_0_20
+515_947174463182848001.branch110.	172	21	''	''	*	laurenxjessica	-	-	-	-	-	-	-	-	-	0_0_21
+515_947174463182848001.branch110.	172	22	@BTS_twt	NN	*)))))))))))	laurenxjessica	-	-	ne/none	(3)	CL1	NP_S()	NP_L()	none	not_assigned	0_0_22
+
+515_947174463182848001.branch110.	172	0	@laurenxjessica	NN	(ROOT(NP(NP*	AyyyRee	-	-	-	-	-	NP_S(	NP_L(	-	-	1_0_0
+515_947174463182848001.branch110.	172	1	@BTSRequest	NN	*)	AyyyRee	-	-	-	-	-	-	-	-	-	1_0_1
+515_947174463182848001.branch110.	172	2	@BTS_twt	NN	(NP*	AyyyRee	-	-	-	-	-	)NP_S	)NP_L	-	-	1_0_2
+515_947174463182848001.branch110.	172	3	%emoji	FW	*	AyyyRee	-	-	-	-	-	-	-	-	-	1_0_3
+515_947174463182848001.branch110.	172	4	%emoji	FW	*	AyyyRee	-	-	-	-	-	-	-	-	-	1_0_4
+515_947174463182848001.branch110.	172	5	%emoji	FW	*	AyyyRee	-	-	-	-	-	-	-	-	-	1_0_5
+515_947174463182848001.branch110.	172	6	%emoji	FW	*	AyyyRee	-	-	-	-	-	-	-	-	-	1_0_6
+515_947174463182848001.branch110.	172	7	%emoji	FW	*	AyyyRee	-	-	-	-	-	-	-	-	-	1_0_7
+515_947174463182848001.branch110.	172	8	%emoji	FW	*	AyyyRee	-	-	-	-	-	-	-	-	-	1_0_8
+515_947174463182848001.branch110.	172	9	ayyyyyyyyy	FW	*)	AyyyRee	-	-	-	-	-	-	-	-	-	1_0_9
+515_947174463182848001.branch110.	172	10	https://t.co/MIwoJPs0qL	NN	(NP*)))	AyyyRee	-	-	-	-	-	-	-	-	-	1_0_10
+
+515_947174463182848001.branch110.	172	0	@AyyyRee	NN	(ROOT(FRAG(NP*	taani98	-	-	-	-	-	NP_S(	NP_L(	-	-	2_0_0
+515_947174463182848001.branch110.	172	1	@laurenxjessica	NN	*	taani98	-	-	-	-	-	-	-	-	-	2_0_1
+515_947174463182848001.branch110.	172	2	@BTSRequest	NN	*	taani98	-	-	-	-	-	-	-	-	-	2_0_2
+515_947174463182848001.branch110.	172	3	@BTS_twt	NN	*)	taani98	-	-	-	-	-	)NP_S	)NP_L	-	-	2_0_3
+515_947174463182848001.branch110.	172	4	Can	MD	(VP*	taani98	-	-	-	-	CL3	-	-	-	-	2_0_4
+515_947174463182848001.branch110.	172	5	u	VB	(VP*	taani98	representative_men	-	ppers/exophora	(6)	-	NP_S()	NP_L()	sbj	specific	2_0_5
+515_947174463182848001.branch110.	172	6	send	VB	(VP*	taani98	-	-	-	-	-	-	-	-	-	2_0_6
+515_947174463182848001.branch110.	172	7	this	DT	(NP(NP(NP*)	taani98	-	-	pds/exophora	(9)	-	NP_S()	NP_L(	dir_obj	not_assigned	2_0_7
+515_947174463182848001.branch110.	172	8	to	TO	(PP*	taani98	-	-	-	-	-	-	-	-	-	2_0_8
+515_947174463182848001.branch110.	172	9	me	PRP	(NP*)))	taani98	representative_men	-	ppers/exophora	(4)	-	NP_S()	-	prep_phrase	specific	2_0_9
+515_947174463182848001.branch110.	172	10	!?	SYM	(X*)))))))	taani98	-	-	-	-	CL3	-	)NP_L	-	-	2_0_10
+
+515_947174463182848001.branch110.	172	0	I	PRP	(ROOT(S(NP*)	taani98	-	-	ppers/anaphora	(4)	CL4	NP_S()	NP_L()	sbj	not_assigned	2_1_0
+515_947174463182848001.branch110.	172	1	love	VBP	(VP*	taani98	-	-	-	-	-	-	-	-	-	2_1_1
+515_947174463182848001.branch110.	172	2	it	PRP	(NP*))	taani98	-	-	ppers/exophora	(9)	-	NP_S()	NP_L()	dir_obj	not_assigned	2_1_2
+515_947174463182848001.branch110.	172	3	!	.	*))	taani98	-	-	-	-	CL4	-	-	-	-	2_1_3
+
+515_947174463182848001.branch110.	172	0	@taani98	NN	(ROOT(FRAG(NP*	AyyyRee	-	-	-	-	-	NP_S(	NP_L(	-	-	3_0_0
+515_947174463182848001.branch110.	172	1	@laurenxjessica	NN	*	AyyyRee	-	-	-	-	-	-	-	-	-	3_0_1
+515_947174463182848001.branch110.	172	2	@BTSRequest	NN	*	AyyyRee	-	-	-	-	-	-	-	-	-	3_0_2
+515_947174463182848001.branch110.	172	3	@BTS_twt	NN	*)	AyyyRee	-	-	-	-	-	)NP_S	)NP_L	-	-	3_0_3
+515_947174463182848001.branch110.	172	4	The	DT	(NP*	AyyyRee	representative_men	abstract	defnp/none	(9	CL5	NP_S(	NP_L(	other/other	specific	3_0_4
+515_947174463182848001.branch110.	172	5	gif	NN	*)	AyyyRee	-	-	-	9)	-	)NP_S	)NP_L	-	-	3_0_5
+515_947174463182848001.branch110.	172	6	?	.	*))	AyyyRee	-	-	-	-	CL5	-	-	-	-	3_0_6
+
+515_947174463182848001.branch110.	172	0	It	PRP	(ROOT(S(NP*)	AyyyRee	-	-	ppers/anaphora	(9)	CL6	NP_S()	NP_L()	sbj	not_assigned	3_1_0
+515_947174463182848001.branch110.	172	1	's	VBZ	(VP*	AyyyRee	-	-	-	-	-	-	-	-	-	3_1_1
+515_947174463182848001.branch110.	172	2	in	IN	(PP*	AyyyRee	-	-	-	-	-	-	-	-	-	3_1_2
+515_947174463182848001.branch110.	172	3	the	DT	(NP*	AyyyRee	representative_men	other	defnp/none	(1007	-	NP_S(	NP_L(	-	-	3_1_3
+515_947174463182848001.branch110.	172	4	gif	NN	*	AyyyRee	-	-	-	-	-	-	-	-	-	3_1_4
+515_947174463182848001.branch110.	172	5	search	NN	*))	AyyyRee	-	-	-	1007)	CL6	)NP_S	)NP_L	-	-	3_1_5
+515_947174463182848001.branch110.	172	6	but	CC	(SBAR*	AyyyRee	-	-	-	-	CL7	-	-	-	-	3_1_6
+515_947174463182848001.branch110.	172	7	I	PRP	(S(NP*)	AyyyRee	-	-	ppers/anaphora	(6)	-	NP_S()	NP_L()	sbj	not_assigned	3_1_7
+515_947174463182848001.branch110.	172	8	'll	MD	(VP*	AyyyRee	-	-	-	-	-	-	-	-	-	3_1_8
+515_947174463182848001.branch110.	172	9	just	RB	(ADVP*)	AyyyRee	-	-	-	-	-	-	-	-	-	3_1_9
+515_947174463182848001.branch110.	172	10	give	VB	(VP*	AyyyRee	-	-	-	-	-	-	-	-	-	3_1_10
+515_947174463182848001.branch110.	172	11	you	PRP	(NP*)	AyyyRee	-	-	ppers/anaphora	(4)	-	NP_S()	NP_L()	dir_obj	not_assigned	3_1_11
+515_947174463182848001.branch110.	172	12	the	DT	(NP*	AyyyRee	representative_men	other	defnp/none	(7	-	NP_S(	NP_L(	dir_obj	specific	3_1_12
+515_947174463182848001.branch110.	172	13	link	NN	(ADJP*	AyyyRee	-	-	-	7)	-	)NP_S	)NP_L	-	-	3_1_13
+515_947174463182848001.branch110.	172	14	%emoji	FW	*)	AyyyRee	-	-	-	-	CL7	-	-	-	-	3_1_14
+515_947174463182848001.branch110.	172	15	https://t.co/wklMz4wdTY	NN	*))))))))	AyyyRee	-	-	-	-	-	-	-	-	-	3_1_15
+
+515_947174463182848001.branch110.	172	0	@AyyyRee	NN	(ROOT(S(SBAR(X(X(SBARQ(WHNP(WHNP*)	q_sera83	-	-	-	-	-	NP_S(	NP_L(	-	-	4_0_0
+515_947174463182848001.branch110.	172	1	@taani98	CD	(NP(NP*	q_sera83	-	-	-	-	-	-	-	-	-	4_0_1
+515_947174463182848001.branch110.	172	2	@laurenxjessica	NN	*	q_sera83	-	-	-	-	-	-	-	-	-	4_0_2
+515_947174463182848001.branch110.	172	3	@BTSRequest	NN	*)	q_sera83	-	-	-	-	-	-	-	-	-	4_0_3
+515_947174463182848001.branch110.	172	4	@BTS_twt	NN	(NP*	q_sera83	-	-	-	-	-	)NP_S	)NP_L	-	-	4_0_4
+515_947174463182848001.branch110.	172	5	Excuse	NN	*	q_sera83	-	-	-	-	CL8	-	-	-	-	4_0_5
+515_947174463182848001.branch110.	172	6	fam	NN	*)))	q_sera83	-	-	defnp/none	(6)	-	-	-	other/vocative	not_assigned	4_0_6
+515_947174463182848001.branch110.	172	7	.	.	*)	q_sera83	-	-	-	-	-	-	-	-	-	4_0_7
+515_947174463182848001.branch110.	172	8	.	.	*)	q_sera83	-	-	-	-	CL8	-	-	-	-	4_0_8
+515_947174463182848001.branch110.	172	9	just	RB	(NP(NP*	q_sera83	-	-	-	-	CL9	NP_S(	NP_L(	-	-	4_0_9
+515_947174463182848001.branch110.	172	10	curious	JJ	*)	q_sera83	-	-	-	-	-	)NP_S	)NP_L	-	-	4_0_10
+515_947174463182848001.branch110.	172	11	about	IN	(PP*	q_sera83	-	-	-	-	-	-	-	-	-	4_0_11
+515_947174463182848001.branch110.	172	12	the	DT	(NP(NP*	q_sera83	-	-	defnp/none	(9	-	NP_S(	NP_L(	prep_phrase	not_assigned	4_0_12
+515_947174463182848001.branch110.	172	13	gif	NN	*	q_sera83	-	-	-	-	CL9	)NP_S	-	-	-	4_0_13
+515_947174463182848001.branch110.	172	14	vkook	NN	*	q_sera83	representative_men	-	ne/none	(10)	CLX	NP_S()	-	sbj	specific	4_0_14
+515_947174463182848001.branch110.	172	15	kissing	NN	*)	q_sera83	-	-	-	-	-	-	-	-	-	4_0_15
+515_947174463182848001.branch110.	172	16	in	IN	(PP*	q_sera83	-	-	-	-	-	-	-	-	-	4_0_16
+515_947174463182848001.branch110.	172	17	the	DT	(NP*	q_sera83	-	-	defnp/none	(7	-	NP_S(	-	prep_phrase	not_assigned	4_0_17
+515_947174463182848001.branch110.	172	18	link	NN	*))))))	q_sera83	-	-	-	-	CLX	)NP_S	-	-	-	4_0_18
+515_947174463182848001.branch110.	172	19	your	PRP$	(S(NP*)	q_sera83	representative_men	-	ppers/anaphora	(1002)	CLX	NP_S()	-	-	-	4_0_19
+515_947174463182848001.branch110.	172	20	are	VBP	(VP*	q_sera83	-	-	-	-	-	-	-	-	-	4_0_20
+515_947174463182848001.branch110.	172	21	giving	VBG	(VP*))))	q_sera83	-	-	-	7)|9)	-	-	)NP_L	-	-	4_0_21
+515_947174463182848001.branch110.	172	22	,	,	*	q_sera83	-	-	-	-	CLX	-	-	-	-	4_0_22
+515_947174463182848001.branch110.	172	23	it	PRP	(NP*)	q_sera83	representative_men	-	ppers/exophora	(1000)	CLX	NP_S()	NP_L()	-	-	4_0_23
+515_947174463182848001.branch110.	172	24	's	VBZ	(VP*	q_sera83	-	-	-	-	-	-	-	-	-	4_0_24
+515_947174463182848001.branch110.	172	25	that	IN	(UCP(ADJP(WHADVP*)	q_sera83	-	-	-	-	-	-	-	-	-	4_0_25
+515_947174463182848001.branch110.	172	26	real	JJ	*)	q_sera83	-	-	-	-	-	-	-	-	-	4_0_26
+515_947174463182848001.branch110.	172	27	or	CC	*	q_sera83	-	-	-	-	CLX	-	-	-	-	4_0_27
+515_947174463182848001.branch110.	172	28	planted	VBN	(VP*)))	q_sera83	-	-	-	-	CLX	-	-	-	-	4_0_28
+515_947174463182848001.branch110.	172	29	?	.	*))	q_sera83	-	-	-	-	CLX	-	-	-	-	4_0_29
+
+515_947174463182848001.branch110.	172	0	@q_sera83	NN	(ROOT(NP(NP*	AyyyRee	-	-	-	-	-	NP_S(	NP_L(	-	-	5_0_0
+515_947174463182848001.branch110.	172	1	@taani98	CD	*	AyyyRee	-	-	-	-	-	-	-	-	-	5_0_1
+515_947174463182848001.branch110.	172	2	@laurenxjessica	NN	*	AyyyRee	-	-	-	-	-	-	-	-	-	5_0_2
+515_947174463182848001.branch110.	172	3	@BTSRequest	NN	*)	AyyyRee	-	-	-	-	-	-	-	-	-	5_0_3
+515_947174463182848001.branch110.	172	4	@BTS_twt	NN	(NP*)	AyyyRee	-	-	-	-	-	)NP_S	)NP_L	-	-	5_0_4
+515_947174463182848001.branch110.	172	5	?????	.	*))	AyyyRee	-	-	-	-	-	-	-	-	-	5_0_5
+
+515_947174463182848001.branch110.	172	0	What	WP	(ROOT(SBARQ(WHNP*)	AyyyRee	-	-	-	-	CL11	-	-	-	-	5_1_0
+515_947174463182848001.branch110.	172	1	are	VBP	(SQ*	AyyyRee	-	-	-	-	-	-	-	-	-	5_1_1
+515_947174463182848001.branch110.	172	2	you	PRP	(NP*)	AyyyRee	representative_men	-	ppers/exophora	(1001)	-	NP_S()	NP_L()	-	-	5_1_2
+515_947174463182848001.branch110.	172	3	talking	VBG	(VP*	AyyyRee	-	-	-	-	-	-	-	-	-	5_1_3
+515_947174463182848001.branch110.	172	4	about	IN	*))	AyyyRee	-	-	-	-	-	-	-	-	-	5_1_4
+515_947174463182848001.branch110.	172	5	?	.	*))	AyyyRee	-	-	-	-	CL11	-	-	-	-	5_1_5
+
+515_947174463182848001.branch110.	172	0	This	DT	(ROOT(S(NP*)	AyyyRee	-	-	pds/exophora	(9)	CL12	NP_S()	NP_L()	sbj	not_assigned	5_2_0
+515_947174463182848001.branch110.	172	1	is	VBZ	(VP*	AyyyRee	-	-	-	-	-	-	-	-	-	5_2_1
+515_947174463182848001.branch110.	172	2	the	DT	(NP(NP*	AyyyRee	-	-	defnp/none	(9	-	NP_S(	NP_L(	copula_rel	not_assigned	5_2_2
+515_947174463182848001.branch110.	172	3	Yasss	NNP	*	AyyyRee	-	-	-	-	-	-	-	-	-	5_2_3
+515_947174463182848001.branch110.	172	4	ARMY	NNP	*)	AyyyRee	-	-	-	-	-	)NP_S	-	-	-	5_2_4
+515_947174463182848001.branch110.	172	5	one	CD	(NP*)))	AyyyRee	-	-	-	9)	-	NP_S()	)NP_L	-	-	5_2_5
+515_947174463182848001.branch110.	172	6	.	.	*))	AyyyRee	-	-	-	-	CL12	-	-	-	-	5_2_6
+
+515_947174463182848001.branch110.	172	0	@AyyyRee	NN	(ROOT(NP(NP(NP*)	q_sera83	-	-	-	-	-	NP_S(	NP_L(	-	-	6_0_0
+515_947174463182848001.branch110.	172	1	@taani98	CD	(SBAR(S(NP*	q_sera83	-	-	-	-	-	-	-	-	-	6_0_1
+515_947174463182848001.branch110.	172	2	@laurenxjessica	NN	*	q_sera83	-	-	-	-	-	-	-	-	-	6_0_2
+515_947174463182848001.branch110.	172	3	@BTSRequest	NN	*	q_sera83	-	-	-	-	-	-	-	-	-	6_0_3
+515_947174463182848001.branch110.	172	4	@BTS_twt	NN	*)	q_sera83	-	-	-	-	-	)NP_S	)NP_L	-	-	6_0_4
+515_947174463182848001.branch110.	172	5	thank	VB	(VP*	q_sera83	-	-	-	-	CL13	-	-	-	-	6_0_5
+515_947174463182848001.branch110.	172	6	god	NN	(NP(NP*)	q_sera83	-	-	-	-	CL13	NP_S()	NP_L()	-	-	6_0_6
+515_947174463182848001.branch110.	172	7	that	WDT	(SBAR(WHNP*)	q_sera83	representative_men	-	pds/exophora	(1004)	CL14	NP_S()	NP_L()	-	-	6_0_7
+515_947174463182848001.branch110.	172	8	's	VBZ	(S(VP*	q_sera83	-	-	-	-	-	-	-	-	-	6_0_8
+515_947174463182848001.branch110.	172	9	not	RB	*	q_sera83	-	-	-	-	-	-	-	-	-	6_0_9
+515_947174463182848001.branch110.	172	10	them	PRP	(NP*)))))))))	q_sera83	-	-	ppers/anaphora	(10)	-	NP_S()	NP_L()	dir_obj	not_assigned	6_0_10
+515_947174463182848001.branch110.	172	11	...	:	*))	q_sera83	-	-	-	-	CL14	-	-	-	-	6_0_11
+
+#end document

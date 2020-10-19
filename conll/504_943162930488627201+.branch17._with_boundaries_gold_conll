@@ -1,0 +1,55 @@
+#begin document (504_943162930488627201+.branch17.); part 164
+504_943162930488627201+.branch17.	164	0	--	:	(ROOT(PRN*	infinitejaysee	-	-	-	-	CL0	-	-	-	-	0_0_0
+504_943162930488627201+.branch17.	164	1	truth	NN	(S(VP*	infinitejaysee	representative_men	-	defnp/none	(1003)	-	NP_S()	NP_L()	-	-	0_0_1
+504_943162930488627201+.branch17.	164	2	be	VB	(VP(VP*	infinitejaysee	-	-	-	-	-	-	-	-	-	0_0_2
+504_943162930488627201+.branch17.	164	3	told	VBN	(VP*))	infinitejaysee	-	-	-	-	-	-	-	-	-	0_0_3
+504_943162930488627201+.branch17.	164	4	,	,	(PRN*	infinitejaysee	-	-	-	-	CL0	-	-	-	-	0_0_4
+504_943162930488627201+.branch17.	164	5	i	FW	(S(NP*)	infinitejaysee	representative_men	-	ppers/exophora	(1001)	CLX	NP_S()	NP_L()	-	-	0_0_5
+504_943162930488627201+.branch17.	164	6	never	RB	(ADVP*)	infinitejaysee	-	-	-	-	-	-	-	-	-	0_0_6
+504_943162930488627201+.branch17.	164	7	was	VBD	(VP*	infinitejaysee	-	-	-	-	-	-	-	-	-	0_0_7
+504_943162930488627201+.branch17.	164	8	yours	PRP$	(NP*))	infinitejaysee	representative_men	-	ppos/none	(1000)	-	NP_S()	NP_L()	-	-	0_0_8
+504_943162930488627201+.branch17.	164	9	.	.	*))	infinitejaysee	-	-	-	-	-	-	-	-	-	0_0_9
+504_943162930488627201+.branch17.	164	10	%emoji	FW	(NP*))))))	infinitejaysee	-	-	-	-	CLX	-	-	-	-	0_0_10
+
+504_943162930488627201+.branch17.	164	0	~	NN	(ROOT(FRAG(NP(NP*	infinitejaysee	-	-	-	-	CL1	-	-	-	-	0_1_0
+504_943162930488627201+.branch17.	164	1	astaghfurallah	NN	*)	infinitejaysee	-	-	-	-	-	-	-	-	-	0_1_1
+504_943162930488627201+.branch17.	164	2	this	DT	(SBAR(S(NP*	infinitejaysee	representative_men	phys_obj	defnp/none	(3	-	NP_S(	NP_L(	sbj	specific	0_1_2
+504_943162930488627201+.branch17.	164	3	drawing	VBG	*)	infinitejaysee	-	-	-	3)	-	)NP_S	)NP_L	-	-	0_1_3
+504_943162930488627201+.branch17.	164	4	took	VBD	(VP*	infinitejaysee	-	-	-	-	-	-	-	-	-	0_1_4
+504_943162930488627201+.branch17.	164	5	forever	RB	(ADVP*)	infinitejaysee	-	-	-	-	CL1	-	-	-	-	0_1_5
+504_943162930488627201+.branch17.	164	6	but	CC	(SBAR*	infinitejaysee	-	-	-	-	CL3	-	-	-	-	0_1_6
+504_943162930488627201+.branch17.	164	7	i	FW	(S(NP*)	infinitejaysee	representative_men	-	ppers/exophora	(1002)	-	NP_S()	NP_L()	-	-	0_1_7
+504_943162930488627201+.branch17.	164	8	hope	VBP	(VP*	infinitejaysee	-	-	-	-	-	-	-	-	-	0_1_8
+504_943162930488627201+.branch17.	164	9	you	PRP	(S(NP*)	infinitejaysee	-	-	-	-	CL4	NP_S()	NP_L()	-	-	0_1_9
+504_943162930488627201+.branch17.	164	10	enjoy	VB	(VP*	infinitejaysee	-	-	-	-	-	-	-	-	-	0_1_10
+504_943162930488627201+.branch17.	164	11	it	PRP	(S(NP*)	infinitejaysee	-	-	ppers/anaphora	(3)	CL4	NP_S()	NP_L()	dir_obj	not_assigned	0_1_11
+504_943162930488627201+.branch17.	164	12	%smiley	VB	(VP*)))))))))))))	infinitejaysee	-	-	-	-	CL3	-	-	-	-	0_1_12
+
+504_943162930488627201+.branch17.	164	0	tag	NN	(ROOT(NP(NP(NP*)	infinitejaysee	-	-	-	-	CL6	-	-	-	-	0_2_0
+504_943162930488627201+.branch17.	164	1	ethan	NN	(SBAR(S(VP(NP(INTJ*	infinitejaysee	representative_men	-	ne/none	(2)	-	NP_S()	NP_L()	dir_obj	specific	0_2_1
+504_943162930488627201+.branch17.	164	2	?	.	*)	infinitejaysee	-	-	-	-	-	-	-	-	-	0_2_2
+504_943162930488627201+.branch17.	164	3	%emoji	FW	(NP*	infinitejaysee	-	-	-	-	CL6	-	-	-	-	0_2_3
+504_943162930488627201+.branch17.	164	4	@EthanDolan	FW	*))))))	infinitejaysee	-	-	-	-	-	NP_S()	NP_L()	-	-	0_2_4
+504_943162930488627201+.branch17.	164	5	https://t.co/dN8vpTRROe	NN	(NP*)))	infinitejaysee	-	-	-	-	-	-	-	-	-	0_2_5
+
+504_943162930488627201+.branch17.	164	0	@EthanDolan	JJ	(ROOT(NP(NP*	infinitejaysee	-	-	-	-	-	NP_S(	NP_L(	-	-	1_0_0
+504_943162930488627201+.branch17.	164	1	@EthanDolan	NN	*)	infinitejaysee	-	-	-	-	-	)NP_S	)NP_L	-	-	1_0_1
+504_943162930488627201+.branch17.	164	2	heya	NN	(NP*	infinitejaysee	-	-	-	-	CL7	-	-	-	-	1_0_2
+504_943162930488627201+.branch17.	164	3	boy	NN	*)))	infinitejaysee	-	-	defnp/none	(2)	CL7	NP_S()	NP_L()	other/vocative	not_assigned	1_0_3
+
+504_943162930488627201+.branch17.	164	0	@infinitejaysee	NN	(ROOT(S(NP*	KinkyEthanD	-	-	-	-	-	NP_S(	NP_L(	-	-	2_0_0
+504_943162930488627201+.branch17.	164	1	@EthanDolan	NN	*)	KinkyEthanD	-	-	-	-	-	)NP_S	)NP_L	-	-	2_0_1
+504_943162930488627201+.branch17.	164	2	It	PRP	(NP*)	KinkyEthanD	-	-	ppers/anaphora	(3)	CL8	NP_S()	NP_L()	sbj	not_assigned	2_0_2
+504_943162930488627201+.branch17.	164	3	's	VBZ	(VP*	KinkyEthanD	-	-	-	-	-	-	-	-	-	2_0_3
+504_943162930488627201+.branch17.	164	4	awesome	JJ	(ADJP*)	KinkyEthanD	-	-	-	-	-	-	-	-	-	2_0_4
+504_943162930488627201+.branch17.	164	5	,	,	*	KinkyEthanD	-	-	-	-	CL8	-	-	-	-	2_0_5
+504_943162930488627201+.branch17.	164	6	@EthanDolan	JJ	(S(ADJP*)	KinkyEthanD	-	-	-	-	CL9	NP_S()	NP_L()	-	-	2_0_6
+504_943162930488627201+.branch17.	164	7	you	PRP	(SBAR(S(NP*)	KinkyEthanD	-	-	ppers/exophora	(2)	-	NP_S()	NP_L()	sbj	not_assigned	2_0_7
+504_943162930488627201+.branch17.	164	8	're	VBP	(VP*	KinkyEthanD	-	-	-	-	-	-	-	-	-	2_0_8
+504_943162930488627201+.branch17.	164	9	gon	VBG	(VP*	KinkyEthanD	-	-	-	-	-	-	-	-	-	2_0_9
+504_943162930488627201+.branch17.	164	10	na	TO	(S(VP*))	KinkyEthanD	-	-	-	-	CL10	-	-	-	-	2_0_10
+504_943162930488627201+.branch17.	164	11	like	IN	(PP*	KinkyEthanD	-	-	-	-	-	-	-	-	-	2_0_11
+504_943162930488627201+.branch17.	164	12	this	DT	(NP*))))))))	KinkyEthanD	-	-	pds/anaphora	(3)	CL10	NP_S()	NP_L()	dir_obj	not_assigned	2_0_12
+504_943162930488627201+.branch17.	164	13	!	.	*))	KinkyEthanD	-	-	-	-	CL9	-	-	-	-	2_0_13
+
+#end document

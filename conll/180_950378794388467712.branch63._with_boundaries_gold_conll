@@ -1,0 +1,46 @@
+#begin document (180_950378794388467712.branch63.); part 144
+180_950378794388467712.branch63.	144	0	The	DT	(ROOT(FRAG(NP(NP*	enews	representative_men	abstract	defnp/none	(1005	CL0	NP_S(	NP_L(	-	-	0_0_0
+180_950378794388467712.branch63.	144	1	Internet	NNP	*	enews	-	-	-	1005)	-	)NP_S	)NP_L	-	-	0_0_1
+180_950378794388467712.branch63.	144	2	Wants	NNP	*	enews	-	-	-	-	-	-	-	-	-	0_0_2
+180_950378794388467712.branch63.	144	3	Oprah	NNP	*)	enews	representative_men	-	ne/none	(2)	-	NP_S()	NP_L()	dir_obj	specific	0_0_3
+180_950378794388467712.branch63.	144	4	to	TO	(PP*	enews	-	-	-	-	CLX	-	-	-	-	0_0_4
+180_950378794388467712.branch63.	144	5	Run	NNP	(NP*))	enews	-	-	-	-	-	NP_S()	NP_L()	-	-	0_0_5
+180_950378794388467712.branch63.	144	6	for	IN	(PP*	enews	-	-	-	-	-	-	-	-	-	0_0_6
+180_950378794388467712.branch63.	144	7	President	NNP	(NP*)))	enews	representative_men	-	defnp/none	(1001)	-	NP_S()	NP_L()	-	-	0_0_7
+180_950378794388467712.branch63.	144	8	in	IN	(PP*	enews	-	-	-	-	-	-	-	-	-	0_0_8
+180_950378794388467712.branch63.	144	9	2020	CD	(NP*))	enews	representative_men	-	ne/none	(1000)	CLX	NP_S()	NP_L()	-	-	0_0_9
+180_950378794388467712.branch63.	144	10	After	IN	(PP*	enews	-	-	-	-	-	-	-	-	-	0_0_10
+180_950378794388467712.branch63.	144	11	Golden	NNP	(NP*	enews	representative_men	event	defnp/none	(1002	-	NP_S(	NP_L(	-	-	0_0_11
+180_950378794388467712.branch63.	144	12	Globes	NNP	*	enews	-	-	-	-	-	-	-	-	-	0_0_12
+180_950378794388467712.branch63.	144	13	Speech	NNP	*	enews	-	-	-	1002)	CL0	)NP_S	)NP_L	-	-	0_0_13
+180_950378794388467712.branch63.	144	14	https://t.co/SiCRWSdDGx	NN	*))))	enews	-	-	-	-	-	-	-	-	-	0_0_14
+
+180_950378794388467712.branch63.	144	0	@enews	NNS	(ROOT(S(NP(NP*)	sissylynn42	-	-	-	-	-	NP_S()	NP_L()	-	-	1_0_0
+180_950378794388467712.branch63.	144	1	#HarveyWeinstein	NN	(NP*	sissylynn42	representative_men	-	ne/none	(0)	-	NP_S()	NP_L()	sbj	specific	1_0_1
+180_950378794388467712.branch63.	144	2	#OprahWinfrey	NN	*))	sissylynn42	-	-	ne/none	(2)	CL1	NP_S()	NP_L()	sbj	not_assigned	1_0_2
+180_950378794388467712.branch63.	144	3	was	VBD	(VP*	sissylynn42	-	-	-	-	-	-	-	-	-	1_0_3
+180_950378794388467712.branch63.	144	4	basically	RB	(ADVP*)	sissylynn42	-	-	-	-	-	-	-	-	-	1_0_4
+180_950378794388467712.branch63.	144	5	his	PRP$	(NP*	sissylynn42	-	-	defnp/none|ppos/anaphora	(2|(0)	-	NP_S(	NP_L(	copula_rel|copula_rel	not_assigned|not_assigned	1_0_5
+180_950378794388467712.branch63.	144	6	#pimp	NN	*)	sissylynn42	-	-	-	2)	-	)NP_S	)NP_L	-	-	1_0_6
+180_950378794388467712.branch63.	144	7	up	IN	(ADVP*)	sissylynn42	-	-	-	-	CL1	-	-	-	-	1_0_7
+180_950378794388467712.branch63.	144	8	until	IN	(SBAR*	sissylynn42	-	-	-	-	CL2	-	-	-	-	1_0_8
+180_950378794388467712.branch63.	144	9	they	PRP	(S(NP*)	sissylynn42	representative_men	-	ppers/anaphora	(1004)	-	NP_S()	NP_L(	-	-	1_0_9
+180_950378794388467712.branch63.	144	10	all	DT	(ADVP*)	sissylynn42	-	-	-	-	-	NP_S()	)NP_L	-	-	1_0_10
+180_950378794388467712.branch63.	144	11	got	VBD	(VP*	sissylynn42	-	-	-	-	-	-	-	-	-	1_0_11
+180_950378794388467712.branch63.	144	12	caught	VBN	(VP*)))))	sissylynn42	-	-	-	-	-	-	-	-	-	1_0_12
+180_950378794388467712.branch63.	144	13	...	:	*	sissylynn42	-	-	-	-	-	-	-	-	-	1_0_13
+180_950378794388467712.branch63.	144	14	.	.	*))	sissylynn42	-	-	-	-	CL2	-	-	-	-	1_0_14
+
+180_950378794388467712.branch63.	144	0	this	DT	(ROOT(S(NP*)	sissylynn42	representative_men	-	pds/anaphora	(1003)	CL3	NP_S()	NP_L()	-	-	1_1_0
+180_950378794388467712.branch63.	144	1	does	VBZ	(VP*	sissylynn42	-	-	-	-	-	-	-	-	-	1_1_1
+180_950378794388467712.branch63.	144	2	n't	RB	*	sissylynn42	-	-	-	-	-	-	-	-	-	1_1_2
+180_950378794388467712.branch63.	144	3	pass	VB	(VP*	sissylynn42	-	-	-	-	-	-	-	-	-	1_1_3
+180_950378794388467712.branch63.	144	4	the	DT	(NP*	sissylynn42	representative_men	other	defnp/none	(1006	-	NP_S(	NP_L(	-	-	1_1_4
+180_950378794388467712.branch63.	144	5	#smelltest	JJS	*	sissylynn42	-	-	-	1006)	CL3	)NP_S	)NP_L	-	-	1_1_5
+180_950378794388467712.branch63.	144	6	https://t.co/SUl1nQQ9aM	NN	*)))))	sissylynn42	-	-	-	-	-	-	-	-	-	1_1_6
+
+180_950378794388467712.branch63.	144	0	@sissylynn42	NN	(ROOT(NP(NP*	lightnlove	-	-	-	-	-	NP_S(	NP_L(	-	-	2_0_0
+180_950378794388467712.branch63.	144	1	@enews	NNS	*)	lightnlove	-	-	-	-	-	)NP_S	)NP_L	-	-	2_0_1
+180_950378794388467712.branch63.	144	2	#FakeNews	NNS	(NP*)))	lightnlove	-	-	-	-	CL4|CL4	NP_S()	NP_L()	-	-	2_0_2
+
+#end document

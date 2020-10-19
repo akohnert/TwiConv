@@ -1,0 +1,64 @@
+#begin document (087_950252512493359104.branch2.); part 66
+087_950252512493359104.branch2.	66	0	I	PRP	(ROOT(S(NP*)	_Tamsey	representative_men	-	ppers/exophora	(1004)	CL0	NP_S()	NP_L()	-	-	0_0_0
+087_950252512493359104.branch2.	66	1	honestly	RB	(ADVP*)	_Tamsey	-	-	-	-	-	-	-	-	-	0_0_1
+087_950252512493359104.branch2.	66	2	ca	MD	(VP*	_Tamsey	-	-	-	-	-	-	-	-	-	0_0_2
+087_950252512493359104.branch2.	66	3	n't	RB	*	_Tamsey	-	-	-	-	-	-	-	-	-	0_0_3
+087_950252512493359104.branch2.	66	4	get	VB	(VP*	_Tamsey	-	-	-	-	-	-	-	-	-	0_0_4
+087_950252512493359104.branch2.	66	5	enough	RB	(NP(NP*)	_Tamsey	-	-	-	-	-	NP_S()	NP_L(	-	-	0_0_5
+087_950252512493359104.branch2.	66	6	of	IN	(PP*	_Tamsey	-	-	-	-	-	-	-	-	-	0_0_6
+087_950252512493359104.branch2.	66	7	this	DT	(NP*	_Tamsey	representative_men	human	defnp/none	(0	-	NP_S(	-	prep_phrase	specific	0_0_7
+087_950252512493359104.branch2.	66	8	girl	NN	*)))))	_Tamsey	-	-	-	0)	-	)NP_S	)NP_L	-	-	0_0_8
+087_950252512493359104.branch2.	66	9	.	.	*))	_Tamsey	-	-	-	-	CL0	-	-	-	-	0_0_9
+
+087_950252512493359104.branch2.	66	0	Baby	NNP	(ROOT(S(NP*	_Tamsey	-	-	defnp/none	(0	CL1	NP_S(	NP_L(	sbj	not_assigned	0_1_0
+087_950252512493359104.branch2.	66	1	girl	NN	*)	_Tamsey	-	-	-	0)	-	)NP_S	)NP_L	-	-	0_1_1
+087_950252512493359104.branch2.	66	2	is	VBZ	(VP*	_Tamsey	-	-	-	-	-	-	-	-	-	0_1_2
+087_950252512493359104.branch2.	66	3	a	DT	(NP*	_Tamsey	-	-	indefnp/none	(0	-	NP_S(	NP_L(	copula_rel	not_assigned	0_1_3
+087_950252512493359104.branch2.	66	4	star	NN	*	_Tamsey	-	-	-	0)	-	)NP_S	)NP_L	-	-	0_1_4
+087_950252512493359104.branch2.	66	5	%emoji	FW	(ADJP*	_Tamsey	-	-	-	-	-	-	-	-	-	0_1_5
+087_950252512493359104.branch2.	66	6	#djaeazy	FW	*)	_Tamsey	-	-	-	-	CL1	NP_S()	NP_L()	-	-	0_1_6
+087_950252512493359104.branch2.	66	7	https://t.co/YkpbqKKLwp	NN	*))))	_Tamsey	-	-	-	-	-	-	-	-	-	0_1_7
+
+087_950252512493359104.branch2.	66	0	@_Tamsey	NN	(ROOT(FRAG(NP(NP*)	belle_noire	-	-	-	-	-	NP_S()	NP_L()	-	-	1_0_0
+087_950252512493359104.branch2.	66	1	I	PRP	(SBAR(S(NP*)	belle_noire	representative_men	-	ppers/exophora	(1)	CL3	NP_S()	NP_L()	sbj	specific	1_0_1
+087_950252512493359104.branch2.	66	2	love	VBP	(VP*))))	belle_noire	-	-	-	-	-	-	-	-	-	1_0_2
+087_950252512493359104.branch2.	66	3	that	IN	(X(X*)	belle_noire	representative_men	other	defnp/none	(1003	-	-	NP_L(	-	-	1_0_3
+087_950252512493359104.branch2.	66	4	look	NN	(NP(NP*)	belle_noire	-	-	-	-	-	NP_S()	-	-	-	1_0_4
+087_950252512493359104.branch2.	66	5	of	IN	(PP*	belle_noire	-	-	-	-	-	-	-	-	-	1_0_5
+087_950252512493359104.branch2.	66	6	satisfaction	NN	(NP(NP*)	belle_noire	representative_men	-	defnp/none	1003)|(1007)	-	NP_S()	-	-	-	1_0_6
+087_950252512493359104.branch2.	66	7	on	IN	(PP*	belle_noire	-	-	-	-	-	-	-	-	-	1_0_7
+087_950252512493359104.branch2.	66	8	her	PRP$	(NP*	belle_noire	representative_men	other	ppos/anaphora|defnp/none	(0)|(1006	-	NP_S(	-	prep_phrase	not_assigned	1_0_8
+087_950252512493359104.branch2.	66	9	face	NN	*))))	belle_noire	-	-	-	1006)	-	)NP_S	-	-	-	1_0_9
+087_950252512493359104.branch2.	66	10	when	WRB	(SBAR(WHADVP*)	belle_noire	-	-	-	-	CL4	-	-	-	-	1_0_10
+087_950252512493359104.branch2.	66	11	she	PRP	(S(NP*)	belle_noire	-	-	ppers/anaphora	(0)	-	NP_S()	-	sbj	not_assigned	1_0_11
+087_950252512493359104.branch2.	66	12	figures	VBZ	(VP*	belle_noire	-	-	-	-	-	-	-	-	-	1_0_12
+087_950252512493359104.branch2.	66	13	something	NN	(NP*)	belle_noire	representative_men	-	indefnp/none	(1005)	-	NP_S()	-	-	-	1_0_13
+087_950252512493359104.branch2.	66	14	out	IN	(PP*	belle_noire	-	-	-	-	-	-	)NP_L	-	-	1_0_14
+087_950252512493359104.branch2.	66	15	!!	.	(NP*)))))))))	belle_noire	-	-	-	-	CL3|CL4	-	-	-	-	1_0_15
+
+087_950252512493359104.branch2.	66	0	I	PRP	(ROOT(S(NP*)	belle_noire	-	-	ppers/anaphora	(1)	CL5	NP_S()	NP_L()	sbj	not_assigned	1_1_0
+087_950252512493359104.branch2.	66	1	love	VBP	(VP*	belle_noire	-	-	-	-	-	-	-	-	-	1_1_1
+087_950252512493359104.branch2.	66	2	that	IN	(SBAR*	belle_noire	-	-	-	-	CL6	-	-	-	-	1_1_2
+087_950252512493359104.branch2.	66	3	she	PRP	(S(NP*)	belle_noire	-	-	ppers/anaphora	(0)	-	NP_S()	NP_L()	sbj	not_assigned	1_1_3
+087_950252512493359104.branch2.	66	4	's	VBZ	(VP*	belle_noire	-	-	-	-	-	-	-	-	-	1_1_4
+087_950252512493359104.branch2.	66	5	experiencing	VBG	(VP*	belle_noire	-	-	-	-	-	-	-	-	-	1_1_5
+087_950252512493359104.branch2.	66	6	that	IN	(SBAR*	belle_noire	representative_men	abstract	defnp/none	(1000	-	-	NP_L(	-	-	1_1_6
+087_950252512493359104.branch2.	66	7	feeling	NN	(S(NP(NP*)	belle_noire	-	-	-	-	-	NP_S()	-	-	-	1_1_7
+087_950252512493359104.branch2.	66	8	of	IN	(PP*	belle_noire	-	-	-	-	-	-	-	-	-	1_1_8
+087_950252512493359104.branch2.	66	9	success	NN	(NP(NP*)	belle_noire	representative_men	-	defnp/none	1000)|(1002)	-	NP_S()	)NP_L	-	-	1_1_9
+087_950252512493359104.branch2.	66	10	at	IN	(PP*	belle_noire	-	-	-	-	-	-	-	-	-	1_1_10
+087_950252512493359104.branch2.	66	11	6	CD	(NP*	belle_noire	representative_men	time	defnp/none	(1001	-	NP_S(	NP_L(	-	-	1_1_11
+087_950252512493359104.branch2.	66	12	years	NNS	*)))))	belle_noire	-	-	-	1001)	-	)NP_S	)NP_L	-	-	1_1_12
+087_950252512493359104.branch2.	66	13	old	JJ	(ADJP*))))))))	belle_noire	-	-	-	-	-	-	-	-	-	1_1_13
+087_950252512493359104.branch2.	66	14	!	.	*))	belle_noire	-	-	-	-	CL6|CL5	-	-	-	-	1_1_14
+
+087_950252512493359104.branch2.	66	0	@belle_noire	JJ	(ROOT(S(ADVP*)	_Tamsey	-	-	-	-	-	NP_S()	NP_L()	-	-	2_0_0
+087_950252512493359104.branch2.	66	1	She	PRP	(NP*)	_Tamsey	-	-	ppers/anaphora	(0)	CL7	NP_S()	NP_L()	sbj	not_assigned	2_0_1
+087_950252512493359104.branch2.	66	2	is	VBZ	(VP*	_Tamsey	-	-	-	-	-	-	-	-	-	2_0_2
+087_950252512493359104.branch2.	66	3	a	DT	(NP*	_Tamsey	-	-	indefnp/none	(0	-	NP_S(	NP_L(	copula_rel	not_assigned	2_0_3
+087_950252512493359104.branch2.	66	4	JOY	NN	*	_Tamsey	-	-	-	-	-	-	-	-	-	2_0_4
+087_950252512493359104.branch2.	66	5	to	TO	(S(VP*	_Tamsey	-	-	-	-	CL8	-	-	-	-	2_0_5
+087_950252512493359104.branch2.	66	6	watch	VB	(VP*)))))	_Tamsey	-	-	-	0)	-	)NP_S	)NP_L	-	-	2_0_6
+087_950252512493359104.branch2.	66	7	!!	.	*))	_Tamsey	-	-	-	-	CL8|CL7	-	-	-	-	2_0_7
+
+#end document

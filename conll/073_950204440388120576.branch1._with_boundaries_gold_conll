@@ -1,0 +1,129 @@
+#begin document (073_950204440388120576.branch1.); part 53
+073_950204440388120576.branch1.	53	0	Shoes	NNS	(ROOT(S(NP*)	ChrisErb	representative_men	-	indefnp/none	(1009)	CL0	NP_S()	NP_L()	-	-	0_0_0
+073_950204440388120576.branch1.	53	1	all	DT	(VP(VP(NP*)	ChrisErb	-	-	-	-	-	-	-	-	-	0_0_1
+073_950204440388120576.branch1.	53	2	over	IN	(PP*	ChrisErb	-	-	-	-	-	-	-	-	-	0_0_2
+073_950204440388120576.branch1.	53	3	the	DT	(NP*	ChrisErb	representative_men	loc	defnp/none	(1001	-	NP_S(	NP_L(	-	-	0_0_3
+073_950204440388120576.branch1.	53	4	place	NN	*)))	ChrisErb	-	-	-	1001)	-	)NP_S	)NP_L	-	-	0_0_4
+073_950204440388120576.branch1.	53	5	and	CC	*	ChrisErb	-	-	-	-	-	-	-	-	-	0_0_5
+073_950204440388120576.branch1.	53	6	was	VBD	(VP*	ChrisErb	-	-	-	-	-	-	-	-	-	0_0_6
+073_950204440388120576.branch1.	53	7	killing	VBG	(VP*	ChrisErb	-	-	-	-	-	-	-	-	-	0_0_7
+073_950204440388120576.branch1.	53	8	my	PRP$	(NP*	ChrisErb	representative_men|representative_men	human	defnp/none|ppos/exophora	(0|(2)	-	NP_S(	NP_L(	dir_obj|dir_obj	specific|specific	0_0_8
+073_950204440388120576.branch1.	53	9	wife	NN	*))))	ChrisErb	-	-	-	0)	-	)NP_S	)NP_L	-	-	0_0_9
+073_950204440388120576.branch1.	53	10	.	.	*))	ChrisErb	-	-	-	-	CL0	-	-	-	-	0_0_10
+
+073_950204440388120576.branch1.	53	0	She	PRP	(ROOT(S(NP*)	ChrisErb	-	-	ppers/anaphora	(0)	CL1	NP_S()	NP_L()	sbj	not_assigned	0_1_0
+073_950204440388120576.branch1.	53	1	asked	VBD	(VP*	ChrisErb	-	-	-	-	-	-	-	-	-	0_1_1
+073_950204440388120576.branch1.	53	2	me	PRP	(S(NP*)	ChrisErb	-	-	ppers/anaphora	(2)	-	NP_S()	NP_L()	dir_obj	not_assigned	0_1_2
+073_950204440388120576.branch1.	53	3	to	TO	(VP*	ChrisErb	-	-	-	-	CL2	-	-	-	-	0_1_3
+073_950204440388120576.branch1.	53	4	pull	VB	(VP*	ChrisErb	-	-	-	-	-	-	-	-	-	0_1_4
+073_950204440388120576.branch1.	53	5	it	PRP	(NP*)	ChrisErb	representative_men	-	ppers/non-referential_pronoun	(1000)	-	NP_S()	NP_L()	-	-	0_1_5
+073_950204440388120576.branch1.	53	6	together	RB	(ADVP*)))))	ChrisErb	-	-	-	-	-	-	-	-	-	0_1_6
+073_950204440388120576.branch1.	53	7	.	.	*))	ChrisErb	-	-	-	-	CL2|CL1	-	-	-	-	0_1_7
+
+073_950204440388120576.branch1.	53	0	So	RB	(ROOT(S*	ChrisErb	-	-	-	-	CL3	-	-	-	-	0_2_0
+073_950204440388120576.branch1.	53	1	moved	VBN	(S(VP*	ChrisErb	-	-	-	-	-	-	-	-	-	0_2_1
+073_950204440388120576.branch1.	53	2	all	DT	(NP*	ChrisErb	representative_men	phys_obj	defnp/none	(1003	-	NP_S(	NP_L(	-	-	0_2_2
+073_950204440388120576.branch1.	53	3	her	PRP$	*	ChrisErb	-	-	ppos/anaphora	(0)	-	-	-	dir_obj	not_assigned	0_2_3
+073_950204440388120576.branch1.	53	4	shoes	NNS	*)	ChrisErb	-	-	-	1003)	-	)NP_S	)NP_L	-	-	0_2_4
+073_950204440388120576.branch1.	53	5	to	TO	(PP*	ChrisErb	-	-	-	-	-	-	-	-	-	0_2_5
+073_950204440388120576.branch1.	53	6	the	DT	(NP(NP*	ChrisErb	representative_men	loc	defnp/none	(1002	-	NP_S(	NP_L(	-	-	0_2_6
+073_950204440388120576.branch1.	53	7	garage	NN	*)	ChrisErb	-	-	-	1002)	CL3	)NP_S	)NP_L	-	-	0_2_7
+073_950204440388120576.branch1.	53	8	and	CC	*	ChrisErb	-	-	-	-	CLX	-	-	-	-	0_2_8
+073_950204440388120576.branch1.	53	9	Jordans	NNP	(NP*)))))	ChrisErb	representative_men	-	defnp/none	(1007)	-	NP_S()	NP_L()	-	-	0_2_9
+073_950204440388120576.branch1.	53	10	took	VBD	(VP*	ChrisErb	-	-	-	-	-	-	-	-	-	0_2_10
+073_950204440388120576.branch1.	53	11	over	RP	(PRT*)	ChrisErb	-	-	-	-	-	-	-	-	-	0_2_11
+073_950204440388120576.branch1.	53	12	the	DT	(NP*	ChrisErb	representative_men	phys_obj	defnp/none	(1006	-	NP_S(	NP_L(	-	-	0_2_12
+073_950204440388120576.branch1.	53	13	closet	NN	*))	ChrisErb	-	-	-	1006)	-	)NP_S	)NP_L	-	-	0_2_13
+073_950204440388120576.branch1.	53	14	!	.	*))	ChrisErb	-	-	-	-	CLX	-	-	-	-	0_2_14
+
+073_950204440388120576.branch1.	53	0	Problem	NNP	(ROOT(S(NP*)	ChrisErb	representative_men	-	defnp/none	(1005)	CL5	NP_S()	NP_L()	-	-	0_3_0
+073_950204440388120576.branch1.	53	1	solved	VBD	(VP*)	ChrisErb	-	-	-	-	-	-	-	-	-	0_3_1
+073_950204440388120576.branch1.	53	2	.	.	*	ChrisErb	-	-	-	-	CL5	-	-	-	-	0_3_2
+073_950204440388120576.branch1.	53	3	https://t.co/bR5dOtxPYG	NN	*))	ChrisErb	-	-	-	-	-	-	-	-	-	0_3_3
+
+073_950204440388120576.branch1.	53	0	@ChrisErb	NN	(ROOT(S(NP*)	milbhatguy	-	-	-	-	-	NP_S()	NP_L()	-	-	1_0_0
+073_950204440388120576.branch1.	53	1	I	PRP	(NP*)	milbhatguy	representative_men	-	ppers/exophora	(8)	CL6	NP_S()	NP_L()	sbj	specific	1_0_1
+073_950204440388120576.branch1.	53	2	'm	VBP	(VP*	milbhatguy	-	-	-	-	-	-	-	-	-	1_0_2
+073_950204440388120576.branch1.	53	3	not	RB	*	milbhatguy	-	-	-	-	-	-	-	-	-	1_0_3
+073_950204440388120576.branch1.	53	4	a	DT	(NP*	milbhatguy	representative_men	human	indefnp/none	(1008	-	NP_S(	NP_L(	-	-	1_0_4
+073_950204440388120576.branch1.	53	5	shoe	NN	*	milbhatguy	-	-	-	-	-	-	-	-	-	1_0_5
+073_950204440388120576.branch1.	53	6	guy	NN	*))	milbhatguy	-	-	-	1008)	-	)NP_S	)NP_L	-	-	1_0_6
+073_950204440388120576.branch1.	53	7	.	.	*))	milbhatguy	-	-	-	-	CL6	-	-	-	-	1_0_7
+
+073_950204440388120576.branch1.	53	0	What	WP	(ROOT(SBARQ(WHNP*)	milbhatguy	-	-	-	-	CL7	-	-	-	-	1_1_0
+073_950204440388120576.branch1.	53	1	's	VBZ	(SQ*	milbhatguy	-	-	-	-	-	-	-	-	-	1_1_1
+073_950204440388120576.branch1.	53	2	the	DT	(NP(NP*	milbhatguy	-	-	defnp/none	(5	-	NP_S(	NP_L(	sbj	not_assigned	1_1_2
+073_950204440388120576.branch1.	53	3	shoe	NN	*)	milbhatguy	-	-	-	5)	-	)NP_S	-	-	-	1_1_3
+073_950204440388120576.branch1.	53	4	that	WDT	(SBAR(WHNP*)	milbhatguy	-	-	pds/anaphora	(5)	CL8	-	-	sbj	not_assigned	1_1_4
+073_950204440388120576.branch1.	53	5	's	VBZ	(S(VP*	milbhatguy	-	-	-	-	-	-	-	-	-	1_1_5
+073_950204440388120576.branch1.	53	6	second	JJ	(NP*	milbhatguy	representative_men	phys_obj	defnp/none	(1010	-	NP_S(	-	-	-	1_1_6
+073_950204440388120576.branch1.	53	7	shelf	NN	*)	milbhatguy	-	-	-	1010)	-	)NP_S	-	-	-	1_1_7
+073_950204440388120576.branch1.	53	8	up	RB	(ADVP*)	milbhatguy	-	-	-	-	-	-	-	-	-	1_1_8
+073_950204440388120576.branch1.	53	9	,	,	*	milbhatguy	-	-	-	-	CL8	-	-	-	-	1_1_9
+073_950204440388120576.branch1.	53	10	stacked	VBN	(S(VP*	milbhatguy	-	-	-	-	CL9	-	-	-	-	1_1_10
+073_950204440388120576.branch1.	53	11	on	IN	(PP*	milbhatguy	-	-	-	-	-	-	-	-	-	1_1_11
+073_950204440388120576.branch1.	53	12	top	NN	(NP(NP*)	milbhatguy	-	-	-	-	-	-	-	-	-	1_1_12
+073_950204440388120576.branch1.	53	13	of	IN	(PP*	milbhatguy	-	-	-	-	-	-	-	-	-	1_1_13
+073_950204440388120576.branch1.	53	14	each	DT	(NP*	milbhatguy	-	-	other/anaphora	(5	-	NP_S(	-	prep_phrase	not_assigned	1_1_14
+073_950204440388120576.branch1.	53	15	other	JJ	*)))))))))))	milbhatguy	-	-	-	5)	-	)NP_S	)NP_L	-	-	1_1_15
+073_950204440388120576.branch1.	53	16	?	.	*))	milbhatguy	-	-	-	-	CL9|CL7	-	-	-	-	1_1_16
+
+073_950204440388120576.branch1.	53	0	@milbhatguy	JJ	(ROOT(NP(NP*	Richie59FIFTY	-	-	-	-	-	NP_S(	NP_L(	-	-	2_0_0
+073_950204440388120576.branch1.	53	1	@ChrisErb	NN	*)	Richie59FIFTY	-	-	-	-	-	)NP_S	)NP_L	-	-	2_0_1
+073_950204440388120576.branch1.	53	2	Rafa	NNP	(NP*	Richie59FIFTY	representative_men	phys_obj	ne/none	(5	CL10	NP_S(	NP_L(	other/other	specific	2_0_2
+073_950204440388120576.branch1.	53	3	Nadal	NNP	*	Richie59FIFTY	-	-	-	-	-	-	-	-	-	2_0_3
+073_950204440388120576.branch1.	53	4	Zoom	NNP	*	Richie59FIFTY	-	-	-	-	-	-	-	-	-	2_0_4
+073_950204440388120576.branch1.	53	5	Vapors	NNP	*)	Richie59FIFTY	-	-	-	5)	CL10	)NP_S	)NP_L	-	-	2_0_5
+073_950204440388120576.branch1.	53	6	https://t.co/kp50zEgWTQ	NN	(NP*)))	Richie59FIFTY	-	-	-	-	-	-	-	-	-	2_0_6
+
+073_950204440388120576.branch1.	53	0	@Richie59FIFTY	NN	(ROOT(NP(NP*)	milbhatguy	-	-	-	-	-	NP_S(	NP_L(	-	-	3_0_0
+073_950204440388120576.branch1.	53	1	@ChrisErb	NN	(NP(NP*)	milbhatguy	-	-	-	-	-	)NP_S	)NP_L	-	-	3_0_1
+073_950204440388120576.branch1.	53	2	Thanks	NNS	(NP*))	milbhatguy	-	-	-	-	-	-	-	-	-	3_0_2
+073_950204440388120576.branch1.	53	3	!	.	*))	milbhatguy	-	-	-	-	-	-	-	-	-	3_0_3
+
+073_950204440388120576.branch1.	53	0	I	PRP	(ROOT(S(NP*)	milbhatguy	-	-	ppers/anaphora	(8)	CL12	NP_S()	NP_L()	sbj	not_assigned	3_1_0
+073_950204440388120576.branch1.	53	1	like	VBP	(VP*	milbhatguy	-	-	-	-	-	-	-	-	-	3_1_1
+073_950204440388120576.branch1.	53	2	the	DT	(NP*	milbhatguy	representative_men	other	defnp/none	(1012	-	NP_S(	NP_L(	-	-	3_1_2
+073_950204440388120576.branch1.	53	3	heel	NN	*))	milbhatguy	-	-	-	1012)	-	)NP_S	)NP_L	-	-	3_1_3
+073_950204440388120576.branch1.	53	4	.	.	*))	milbhatguy	-	-	-	-	CL12	-	-	-	-	3_1_4
+
+073_950204440388120576.branch1.	53	0	Not	RB	(ROOT(FRAG(ADJP*	milbhatguy	-	-	-	-	CL13	-	-	-	-	3_2_0
+073_950204440388120576.branch1.	53	1	sure	JJ	*)	milbhatguy	-	-	-	-	-	-	-	-	-	3_2_1
+073_950204440388120576.branch1.	53	2	how	WRB	(SBAR(WHADVP*)	milbhatguy	-	-	-	-	CL14	-	-	-	-	3_2_2
+073_950204440388120576.branch1.	53	3	I	PRP	(S(NP*)	milbhatguy	-	-	ppers/anaphora	(8)	-	NP_S()	NP_L()	sbj	not_assigned	3_2_3
+073_950204440388120576.branch1.	53	4	feel	VBP	(VP*	milbhatguy	-	-	-	-	-	-	-	-	-	3_2_4
+073_950204440388120576.branch1.	53	5	about	IN	(PP*	milbhatguy	-	-	-	-	-	-	-	-	-	3_2_5
+073_950204440388120576.branch1.	53	6	the	DT	(NP*	milbhatguy	representative_men	other	defnp/none	(1011	-	NP_S(	NP_L(	-	-	3_2_6
+073_950204440388120576.branch1.	53	7	fish	NN	*	milbhatguy	-	-	-	-	-	-	-	-	-	3_2_7
+073_950204440388120576.branch1.	53	8	gills	NNS	*)))))	milbhatguy	-	-	-	1011)	-	)NP_S	)NP_L	-	-	3_2_8
+073_950204440388120576.branch1.	53	9	.	.	*))	milbhatguy	-	-	-	-	CL13|CL14	-	-	-	-	3_2_9
+
+073_950204440388120576.branch1.	53	0	But	CC	(ROOT(S*	milbhatguy	-	-	-	-	CL15	-	-	-	-	3_3_0
+073_950204440388120576.branch1.	53	1	I	PRP	(NP*)	milbhatguy	-	-	ppers/anaphora	(8)	-	NP_S()	NP_L()	sbj	not_assigned	3_3_1
+073_950204440388120576.branch1.	53	2	've	VBP	(VP*	milbhatguy	-	-	-	-	-	-	-	-	-	3_3_2
+073_950204440388120576.branch1.	53	3	always	RB	(ADVP*)	milbhatguy	-	-	-	-	-	-	-	-	-	3_3_3
+073_950204440388120576.branch1.	53	4	been	VBN	(VP*	milbhatguy	-	-	-	-	-	-	-	-	-	3_3_4
+073_950204440388120576.branch1.	53	5	a	DT	(NP(NP*	milbhatguy	-	-	indefnp/none	(8	-	NP_S(	NP_L(	copula_rel	not_assigned	3_3_5
+073_950204440388120576.branch1.	53	6	sucker	NN	*)	milbhatguy	-	-	-	-	-	)NP_S	-	-	-	3_3_6
+073_950204440388120576.branch1.	53	7	for	IN	(PP*	milbhatguy	-	-	-	-	-	-	-	-	-	3_3_7
+073_950204440388120576.branch1.	53	8	those	DT	(NP(NP*	milbhatguy	-	-	defnp/none	(5	-	-	-	prep_phrase	not_assigned	3_3_8
+073_950204440388120576.branch1.	53	9	Bulls	NNPS	*)	milbhatguy	-	-	-	-	-	-	-	-	-	3_3_9
+073_950204440388120576.branch1.	53	10	colored	VBN	(VP*	milbhatguy	-	-	-	-	-	-	-	-	-	3_3_10
+073_950204440388120576.branch1.	53	11	Nike	NNP	(S(NP*	milbhatguy	-	-	-	-	-	NP_S(	-	-	-	3_3_11
+073_950204440388120576.branch1.	53	12	's	POS	*))))))))	milbhatguy	-	-	-	5)|8)	-	)NP_S	)NP_L	-	-	3_3_12
+073_950204440388120576.branch1.	53	13	.	.	*))	milbhatguy	-	-	-	-	CL15	-	-	-	-	3_3_13
+
+073_950204440388120576.branch1.	53	0	@milbhatguy	JJ	(ROOT(S(NP(NP*	Richie59FIFTY	-	-	-	-	-	NP_S(	NP_L(	-	-	4_0_0
+073_950204440388120576.branch1.	53	1	@ChrisErb	NN	*)	Richie59FIFTY	-	-	-	-	-	)NP_S	)NP_L	-	-	4_0_1
+073_950204440388120576.branch1.	53	2	Yeah	UH	(SBAR(S(INTJ*)	Richie59FIFTY	-	-	-	-	CL17	-	-	-	-	4_0_2
+073_950204440388120576.branch1.	53	3	I	PRP	(NP*)	Richie59FIFTY	representative_men	-	ppers/exophora	(9)	-	NP_S()	NP_L()	sbj	specific	4_0_3
+073_950204440388120576.branch1.	53	4	sold	VBD	(VP*	Richie59FIFTY	-	-	-	-	-	-	-	-	-	4_0_4
+073_950204440388120576.branch1.	53	5	my	PRP$	(NP*	Richie59FIFTY	representative_men	phys_obj	defnp/none|ppos/anaphora	(1004|(9)	-	NP_S(	NP_L(	dir_obj	not_assigned	4_0_5
+073_950204440388120576.branch1.	53	6	pair	NN	*)	Richie59FIFTY	-	-	-	1004)	CL17	)NP_S	)NP_L	-	-	4_0_6
+073_950204440388120576.branch1.	53	7	but	CC	(PP*	Richie59FIFTY	-	-	-	-	CLX	-	-	-	-	4_0_7
+073_950204440388120576.branch1.	53	8	they	PRP	(NP*))))))	Richie59FIFTY	-	-	ppers/anaphora	(5)	-	NP_S()	NP_L()	sbj	not_assigned	4_0_8
+073_950204440388120576.branch1.	53	9	're	VBP	(VP*	Richie59FIFTY	-	-	-	-	-	-	-	-	-	4_0_9
+073_950204440388120576.branch1.	53	10	nice	JJ	(ADJP*))	Richie59FIFTY	-	-	-	-	-	-	-	-	-	4_0_10
+073_950204440388120576.branch1.	53	11	.	.	*))	Richie59FIFTY	-	-	-	-	CLX	-	-	-	-	4_0_11
+
+#end document

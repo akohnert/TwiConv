@@ -1,0 +1,215 @@
+#begin document (511_946486444713021440.branch6.); part 169
+511_946486444713021440.branch6.	169	0	Get	VB	(ROOT(S(VP*	AppleSupport	-	-	-	-	CL0	-	-	-	-	0_0_0
+511_946486444713021440.branch6.	169	1	the	DT	(NP*	AppleSupport	representative_men	other	defnp/none	(1014	-	NP_S(	NP_L(	-	-	0_0_1
+511_946486444713021440.branch6.	169	2	right	JJ	*	AppleSupport	-	-	-	-	-	-	-	-	-	0_0_2
+511_946486444713021440.branch6.	169	3	GIF	NN	*)	AppleSupport	-	-	-	1014)	-	)NP_S	)NP_L	-	-	0_0_3
+511_946486444713021440.branch6.	169	4	every	DT	(NP*	AppleSupport	representative_men	time	indefnp/none	(1017	-	NP_S(	NP_L(	-	-	0_0_4
+511_946486444713021440.branch6.	169	5	time	NN	*))	AppleSupport	-	-	-	1017)	-	)NP_S	)NP_L	-	-	0_0_5
+511_946486444713021440.branch6.	169	6	.	.	*))	AppleSupport	-	-	-	-	CL0	-	-	-	-	0_0_6
+
+511_946486444713021440.branch6.	169	0	In	IN	(ROOT(S(PP*	AppleSupport	-	-	-	-	CL1	-	-	-	-	0_1_0
+511_946486444713021440.branch6.	169	1	iOS	NNP	(NP*	AppleSupport	representative_men	other	ne/none	(1012	-	NP_S(	NP_L(	-	-	0_1_1
+511_946486444713021440.branch6.	169	2	11	CD	*))	AppleSupport	-	-	-	1012)	-	)NP_S	)NP_L	-	-	0_1_2
+511_946486444713021440.branch6.	169	3	you	PRP	(NP*)	AppleSupport	representative_men	-	ppers/exophora	(1011)	-	NP_S()	NP_L()	-	-	0_1_3
+511_946486444713021440.branch6.	169	4	can	MD	(VP*	AppleSupport	-	-	-	-	-	-	-	-	-	0_1_4
+511_946486444713021440.branch6.	169	5	play	VB	(VP(VP*)	AppleSupport	-	-	-	-	CL1	-	-	-	-	0_1_5
+511_946486444713021440.branch6.	169	6	and	CC	*	AppleSupport	-	-	-	-	CL2	-	-	-	-	0_1_6
+511_946486444713021440.branch6.	169	7	share	VB	(VP*	AppleSupport	-	-	-	-	-	-	-	-	-	0_1_7
+511_946486444713021440.branch6.	169	8	them	PRP	(NP*)	AppleSupport	representative_men	-	ppers/exophora	(15)	-	NP_S()	NP_L()	dir_obj	specific	0_1_8
+511_946486444713021440.branch6.	169	9	all	DT	(FRAG(NP*)	AppleSupport	-	-	other/anaphora	(15)	-	NP_S()	NP_L()	other/appositive	not_assigned	0_1_9
+511_946486444713021440.branch6.	169	10	,	,	*	AppleSupport	-	-	-	-	-	-	-	-	-	0_1_10
+511_946486444713021440.branch6.	169	11	right	RB	(PP*	AppleSupport	-	-	-	-	-	-	-	-	-	0_1_11
+511_946486444713021440.branch6.	169	12	from	IN	*	AppleSupport	-	-	-	-	-	-	-	-	-	0_1_12
+511_946486444713021440.branch6.	169	13	Photos	NNPS	(NP*))	AppleSupport	representative_men	-	ne/none	(1018)	-	NP_S()	NP_L()	-	-	0_1_13
+511_946486444713021440.branch6.	169	14	.	.	*))	AppleSupport	-	-	-	-	CL2	-	-	-	-	0_1_14
+511_946486444713021440.branch6.	169	15	https://t.co/jo615y45bG	NN	(NP*)))))	AppleSupport	-	-	-	-	-	-	-	-	-	0_1_15
+
+511_946486444713021440.branch6.	169	0	@AppleSupport	NN	(ROOT(NP(NP*)	Medimiguell	-	-	-	-	-	NP_S()	NP_L()	-	-	1_0_0
+511_946486444713021440.branch6.	169	1	Hi	UH	(SBAR(S(INTJ*)	Medimiguell	-	-	-	-	CL3	-	-	-	-	1_0_1
+511_946486444713021440.branch6.	169	2	,	,	*	Medimiguell	-	-	-	-	-	-	-	-	-	1_0_2
+511_946486444713021440.branch6.	169	3	Safari	NNP	(NP*)	Medimiguell	representative_men	-	ne/none	(0)	-	NP_S()	NP_L()	sbj	specific	1_0_3
+511_946486444713021440.branch6.	169	4	is	VBZ	(VP*	Medimiguell	-	-	-	-	-	-	-	-	-	1_0_4
+511_946486444713021440.branch6.	169	5	going	VBG	(VP*	Medimiguell	-	-	-	-	-	-	-	-	-	1_0_5
+511_946486444713021440.branch6.	169	6	from	IN	(PP*	Medimiguell	-	-	-	-	-	-	-	-	-	1_0_6
+511_946486444713021440.branch6.	169	7	bad	JJ	(ADJP*	Medimiguell	-	-	-	-	-	-	-	-	-	1_0_7
+511_946486444713021440.branch6.	169	8	to	TO	(PP*	Medimiguell	-	-	-	-	-	-	-	-	-	1_0_8
+511_946486444713021440.branch6.	169	9	worse	JJR	(ADJP*))))))))	Medimiguell	-	-	-	-	-	-	-	-	-	1_0_9
+511_946486444713021440.branch6.	169	10	.	.	*))	Medimiguell	-	-	-	-	CL3	-	-	-	-	1_0_10
+
+511_946486444713021440.branch6.	169	0	Youtube	NNP	(ROOT(S(NP*)	Medimiguell	representative_men	org	ne/none	(14	CL4	NP_S()	NP_L(	sbj	specific	1_1_0
+511_946486444713021440.branch6.	169	1	plays	VBZ	(VP*	Medimiguell	-	-	-	14)	-	-	)NP_L	-	-	1_1_1
+511_946486444713021440.branch6.	169	2	do	VBP	(SBAR(S(VP*	Medimiguell	-	-	-	-	-	-	-	-	-	1_1_2
+511_946486444713021440.branch6.	169	3	not	RB	*	Medimiguell	-	-	-	-	-	-	-	-	-	1_1_3
+511_946486444713021440.branch6.	169	4	go	VB	(VP*	Medimiguell	-	-	-	-	-	-	-	-	-	1_1_4
+511_946486444713021440.branch6.	169	5	without	IN	(PP*	Medimiguell	-	-	-	-	-	-	-	-	-	1_1_5
+511_946486444713021440.branch6.	169	6	first	JJ	(NP(NP*	Medimiguell	-	-	-	-	-	NP_S(	NP_L(	-	-	1_1_6
+511_946486444713021440.branch6.	169	7	pause	NN	*)	Medimiguell	-	-	-	-	-	)NP_S	)NP_L	-	-	1_1_7
+511_946486444713021440.branch6.	169	8	+	CC	*	Medimiguell	-	-	-	-	-	-	-	-	-	1_1_8
+511_946486444713021440.branch6.	169	9	play	NN	(NP*))))))))	Medimiguell	-	-	-	-	-	NP_S()	NP_L()	-	-	1_1_9
+511_946486444713021440.branch6.	169	10	.	.	*))	Medimiguell	-	-	-	-	CL4	-	-	-	-	1_1_10
+
+511_946486444713021440.branch6.	169	0	Safari	NNP	(ROOT(S(NP*)	Medimiguell	-	-	ne/none	(0)	CL6	NP_S()	NP_L()	sbj	not_assigned	1_2_0
+511_946486444713021440.branch6.	169	1	does	VBZ	(VP*	Medimiguell	-	-	-	-	-	-	-	-	-	1_2_1
+511_946486444713021440.branch6.	169	2	not	RB	*	Medimiguell	-	-	-	-	-	-	-	-	-	1_2_2
+511_946486444713021440.branch6.	169	3	load	VB	(VP*	Medimiguell	-	-	-	-	-	-	-	-	-	1_2_3
+511_946486444713021440.branch6.	169	4	images	NNS	(NP*)	Medimiguell	representative_men	-	defnp/none	(1016)	-	NP_S()	NP_L()	-	-	1_2_4
+511_946486444713021440.branch6.	169	5	sometimes	RB	(ADVP*)))	Medimiguell	-	-	-	-	-	-	-	-	-	1_2_5
+511_946486444713021440.branch6.	169	6	.	.	*))	Medimiguell	-	-	-	-	CL6	-	-	-	-	1_2_6
+
+511_946486444713021440.branch6.	169	0	it	PRP	(ROOT(S(NP*)	Medimiguell	-	-	ppers/anaphora	(0)	CL7	NP_S()	NP_L()	sbj	not_assigned	1_3_0
+511_946486444713021440.branch6.	169	1	reinitializes	VBZ	(VP*	Medimiguell	-	-	-	-	-	-	-	-	-	1_3_1
+511_946486444713021440.branch6.	169	2	itself	PRP	(NP*))	Medimiguell	-	-	prefl/anaphora	(0)	-	NP_S()	NP_L()	dir_obj	not_assigned	1_3_2
+511_946486444713021440.branch6.	169	3	.	.	*))	Medimiguell	-	-	-	-	CL7	-	-	-	-	1_3_3
+
+511_946486444713021440.branch6.	169	0	The	DT	(ROOT(S(NP*	Medimiguell	representative_men	other	defnp/none	(1005	CL8	NP_S(	NP_L(	-	-	1_4_0
+511_946486444713021440.branch6.	169	1	Extensions	NNS	*)	Medimiguell	-	-	-	1005)	-	)NP_S	)NP_L	-	-	1_4_1
+511_946486444713021440.branch6.	169	2	do	VBP	(VP*	Medimiguell	-	-	-	-	-	-	-	-	-	1_4_2
+511_946486444713021440.branch6.	169	3	not	RB	*	Medimiguell	-	-	-	-	-	-	-	-	-	1_4_3
+511_946486444713021440.branch6.	169	4	go	VB	(VP*))	Medimiguell	-	-	-	-	-	-	-	-	-	1_4_4
+511_946486444713021440.branch6.	169	5	.	.	*))	Medimiguell	-	-	-	-	CL8	-	-	-	-	1_4_5
+
+511_946486444713021440.branch6.	169	0	Many	JJ	(ROOT(S(NP*	Medimiguell	representative_men	other	indefnp/none	(1006	-	NP_S(	NP_L(	-	-	1_5_0
+511_946486444713021440.branch6.	169	1	websites	NNS	*)	Medimiguell	-	-	-	1006)	-	)NP_S	)NP_L	-	-	1_5_1
+511_946486444713021440.branch6.	169	2	do	VBP	(VP*	Medimiguell	-	-	-	-	-	-	-	-	-	1_5_2
+511_946486444713021440.branch6.	169	3	not	RB	*	Medimiguell	-	-	-	-	-	-	-	-	-	1_5_3
+511_946486444713021440.branch6.	169	4	load	VB	(VP*	Medimiguell	-	-	-	-	-	-	-	-	-	1_5_4
+511_946486444713021440.branch6.	169	5	on	IN	(PP*	Medimiguell	-	-	-	-	-	-	-	-	-	1_5_5
+511_946486444713021440.branch6.	169	6	safari	JJ	(NP*))))	Medimiguell	-	-	ne/none	(0)	-	NP_S()	NP_L()	prep_phrase	not_assigned	1_5_6
+511_946486444713021440.branch6.	169	7	.	.	*))	Medimiguell	-	-	-	-	-	-	-	-	-	1_5_7
+
+511_946486444713021440.branch6.	169	0	why	WRB	(ROOT(FRAG*	Medimiguell	-	-	-	-	-	-	-	-	-	1_6_0
+511_946486444713021440.branch6.	169	1	?	.	*))	Medimiguell	-	-	-	-	-	-	-	-	-	1_6_1
+
+511_946486444713021440.branch6.	169	0	What	WP	(ROOT(SBAR(WHNP*)	Medimiguell	-	-	-	-	CL11	-	-	-	-	1_7_0
+511_946486444713021440.branch6.	169	1	is	VBZ	(S(VP*	Medimiguell	-	-	-	-	-	-	-	-	-	1_7_1
+511_946486444713021440.branch6.	169	2	happening	VBG	(NP(SBAR(FRAG(ADJP*)	Medimiguell	-	-	-	-	-	-	-	-	-	1_7_2
+511_946486444713021440.branch6.	169	3	?	.	*))))	Medimiguell	-	-	-	-	-	-	-	-	-	1_7_3
+511_946486444713021440.branch6.	169	4	@AppleSupport	NN	(NP*))))	Medimiguell	-	-	-	-	CL11	NP_S()	NP_L()	-	-	1_7_4
+
+511_946486444713021440.branch6.	169	0	@Medimiguell	NNP	(ROOT(S(NP*	AppleSupport	-	-	-	-	-	NP_S()	NP_L()	-	-	2_0_0
+511_946486444713021440.branch6.	169	1	You	PRP	*)	AppleSupport	representative_men	-	ppers/exophora	(9)	CL13	-	-	sbj	specific	2_0_1
+511_946486444713021440.branch6.	169	2	're	VBP	(VP*	AppleSupport	-	-	-	-	-	-	-	-	-	2_0_2
+511_946486444713021440.branch6.	169	3	in	IN	(PP*	AppleSupport	-	-	-	-	-	-	-	-	-	2_0_3
+511_946486444713021440.branch6.	169	4	the	DT	(NP*	AppleSupport	representative_men	other	defnp/none	(1007	-	NP_S(	NP_L(	-	-	2_0_4
+511_946486444713021440.branch6.	169	5	right	JJ	*	AppleSupport	-	-	-	-	-	-	-	-	-	2_0_5
+511_946486444713021440.branch6.	169	6	spot	NN	*))	AppleSupport	-	-	-	1007)	CL13	)NP_S	)NP_L	-	-	2_0_6
+511_946486444713021440.branch6.	169	7	to	TO	(S(VP*	AppleSupport	-	-	-	-	CL14	-	-	-	-	2_0_7
+511_946486444713021440.branch6.	169	8	get	VB	(VP*	AppleSupport	-	-	-	-	-	-	-	-	-	2_0_8
+511_946486444713021440.branch6.	169	9	help	VB	(VP*	AppleSupport	-	-	-	-	-	NP_S()	NP_L()	-	-	2_0_9
+511_946486444713021440.branch6.	169	10	with	IN	(PP*	AppleSupport	-	-	-	-	-	-	-	-	-	2_0_10
+511_946486444713021440.branch6.	169	11	Safari	NNP	(NP*)))))))	AppleSupport	-	-	ne/none	(0)	-	NP_S()	NP_L()	prep_phrase	not_assigned	2_0_11
+511_946486444713021440.branch6.	169	12	.	.	*))	AppleSupport	-	-	-	-	CL14	-	-	-	-	2_0_12
+
+511_946486444713021440.branch6.	169	0	First	RB	(ROOT(S(ADVP*	AppleSupport	-	-	-	-	CL15	-	-	-	-	2_1_0
+511_946486444713021440.branch6.	169	1	up	RB	*)	AppleSupport	-	-	-	-	-	-	-	-	-	2_1_1
+511_946486444713021440.branch6.	169	2	,	,	(PRN*	AppleSupport	-	-	-	-	-	-	-	-	-	2_1_2
+511_946486444713021440.branch6.	169	3	can	MD	(SINV*	AppleSupport	-	-	-	-	-	-	-	-	-	2_1_3
+511_946486444713021440.branch6.	169	4	you	PRP	(NP*)	AppleSupport	-	-	ppers/anaphora	(9)	-	NP_S()	NP_L()	sbj	not_assigned	2_1_4
+511_946486444713021440.branch6.	169	5	let	VB	(VP*	AppleSupport	-	-	-	-	-	-	-	-	-	2_1_5
+511_946486444713021440.branch6.	169	6	us	PRP	(S(NP*)	AppleSupport	-	-	ppers/exophora	(14)	-	NP_S()	NP_L()	dir_obj	not_assigned	2_1_6
+511_946486444713021440.branch6.	169	7	know	VB	(VP*	AppleSupport	-	-	-	-	CL15	-	-	-	-	2_1_7
+511_946486444713021440.branch6.	169	8	which	WDT	(S(NP*)	AppleSupport	-	-	-	-	CLX	-	-	-	-	2_1_8
+511_946486444713021440.branch6.	169	9	device	NN	(NP(NP*)	AppleSupport	representative_men|representative_men	other	defnp/none|defnp/none	(1009)|(1015	-	NP_S()	NP_L(	-	-	2_1_9
+511_946486444713021440.branch6.	169	10	and	CC	*	AppleSupport	-	-	-	-	-	-	-	-	-	2_1_10
+511_946486444713021440.branch6.	169	11	software	NN	(NP*	AppleSupport	representative_men	other	defnp/none	(1008	-	NP_S(	-	-	-	2_1_11
+511_946486444713021440.branch6.	169	12	version	NN	*))))))))	AppleSupport	-	-	-	1008)	-	)NP_S	)NP_L	-	-	2_1_12
+511_946486444713021440.branch6.	169	13	you	PRP	(NP*)	AppleSupport	-	-	ppers/anaphora	(9)	-	NP_S()	NP_L()	sbj	not_assigned	2_1_13
+511_946486444713021440.branch6.	169	14	're	VBP	(VP*	AppleSupport	-	-	-	-	-	-	-	-	-	2_1_14
+511_946486444713021440.branch6.	169	15	using	VBG	(VP*	AppleSupport	-	-	-	1015)	CLX	-	-	-	-	2_1_15
+511_946486444713021440.branch6.	169	16	so	IN	(SBAR*	AppleSupport	-	-	-	-	CL16	-	-	-	-	2_1_16
+511_946486444713021440.branch6.	169	17	we	PRP	(S(NP*)	AppleSupport	-	-	ppers/anaphora	(14)	-	NP_S()	NP_L()	sbj	not_assigned	2_1_17
+511_946486444713021440.branch6.	169	18	can	MD	(VP*	AppleSupport	-	-	-	-	-	-	-	-	-	2_1_18
+511_946486444713021440.branch6.	169	19	plan	VB	(VP*	AppleSupport	-	-	-	-	-	-	-	-	-	2_1_19
+511_946486444713021440.branch6.	169	20	our	PRP$	(NP*	AppleSupport	representative_men	other	defnp/none|ppos/anaphora	(1000|(14)	-	NP_S(	NP_L(	dir_obj	not_assigned	2_1_20
+511_946486444713021440.branch6.	169	21	next	JJ	*	AppleSupport	-	-	-	-	-	-	-	-	-	2_1_21
+511_946486444713021440.branch6.	169	22	steps	NNS	*)))))))	AppleSupport	-	-	-	1000)	-	)NP_S	)NP_L	-	-	2_1_22
+511_946486444713021440.branch6.	169	23	?	.	*))	AppleSupport	-	-	-	-	CL16	-	-	-	-	2_1_23
+
+511_946486444713021440.branch6.	169	0	@AppleSupport	NN	(ROOT(NP(NP*)	Medimiguell	-	-	-	-	-	NP_S()	NP_L()	-	-	3_0_0
+511_946486444713021440.branch6.	169	1	Hi	UH	(SBAR(S(INTJ*)	Medimiguell	-	-	-	-	CL17	-	-	-	-	3_0_1
+511_946486444713021440.branch6.	169	2	,	,	*	Medimiguell	-	-	-	-	-	-	-	-	-	3_0_2
+511_946486444713021440.branch6.	169	3	I	PRP	(NP*)	Medimiguell	-	-	ppers/anaphora	(9)	-	NP_S()	NP_L()	sbj	not_assigned	3_0_3
+511_946486444713021440.branch6.	169	4	'm	VBP	(VP*	Medimiguell	-	-	-	-	-	-	-	-	-	3_0_4
+511_946486444713021440.branch6.	169	5	using	VBG	(VP*	Medimiguell	-	-	-	-	-	-	-	-	-	3_0_5
+511_946486444713021440.branch6.	169	6	Macbook	NNP	(NP(NP*)	Medimiguell	representative_men	phys_obj	ne/none	(1003	-	NP_S()	NP_L(	-	-	3_0_6
+511_946486444713021440.branch6.	169	7	Pro	FW	(NP(NP*)	Medimiguell	-	-	-	-	-	-	-	-	-	3_0_7
+511_946486444713021440.branch6.	169	8	13	CD	(NP*)))	Medimiguell	-	-	-	-	-	-	)NP_L	-	-	3_0_8
+511_946486444713021440.branch6.	169	9	''	''	*	Medimiguell	-	-	-	-	-	-	-	-	-	3_0_9
+511_946486444713021440.branch6.	169	10	early	JJ	(NP*	Medimiguell	representative_men	time	ne/none	(1002	-	NP_S(	NP_L(	-	-	3_0_10
+511_946486444713021440.branch6.	169	11	2011	CD	*)))))	Medimiguell	-	-	-	1002)|1003)	-	)NP_S	)NP_L	-	-	3_0_11
+511_946486444713021440.branch6.	169	12	.	.	*))	Medimiguell	-	-	-	-	CL17	-	-	-	-	3_0_12
+
+511_946486444713021440.branch6.	169	0	Software	NNP	(ROOT(NP(NP*	Medimiguell	representative_men	other	ne/none	(1001	CL18	NP_S(	NP_L(	-	-	3_1_0
+511_946486444713021440.branch6.	169	1	OS	NNP	*	Medimiguell	-	-	-	-	-	-	-	-	-	3_1_1
+511_946486444713021440.branch6.	169	2	X	NNP	*	Medimiguell	-	-	-	-	-	-	-	-	-	3_1_2
+511_946486444713021440.branch6.	169	3	El	NNP	*	Medimiguell	-	-	-	-	-	-	-	-	-	3_1_3
+511_946486444713021440.branch6.	169	4	Capitan	NNP	*	Medimiguell	-	-	-	-	-	)NP_S	-	-	-	3_1_4
+511_946486444713021440.branch6.	169	5	Version	NNP	*)	Medimiguell	-	-	-	-	-	-	-	-	-	3_1_5
+511_946486444713021440.branch6.	169	6	10.11.4	CD	(NP*)	Medimiguell	-	-	-	1001)	-	NP_S()	)NP_L	-	-	3_1_6
+511_946486444713021440.branch6.	169	7	.	.	*))	Medimiguell	-	-	-	-	CL18	-	-	-	-	3_1_7
+
+511_946486444713021440.branch6.	169	0	Note	VB	(ROOT(S(VP*	Medimiguell	-	-	-	-	CL19	-	-	-	-	3_2_0
+511_946486444713021440.branch6.	169	1	that	IN	(SBAR*	Medimiguell	-	-	-	-	-	-	-	-	-	3_2_1
+511_946486444713021440.branch6.	169	2	I	PRP	(S(NP*)	Medimiguell	-	-	ppers/anaphora	(9)	-	NP_S()	NP_L()	sbj	not_assigned	3_2_2
+511_946486444713021440.branch6.	169	3	literally	RB	(ADVP*)	Medimiguell	-	-	-	-	-	-	-	-	-	3_2_3
+511_946486444713021440.branch6.	169	4	refuse	VBP	(VP*	Medimiguell	-	-	-	-	CL19	-	-	-	-	3_2_4
+511_946486444713021440.branch6.	169	5	to	TO	(S(VP*	Medimiguell	-	-	-	-	CL21	-	-	-	-	3_2_5
+511_946486444713021440.branch6.	169	6	update	VB	(VP*	Medimiguell	-	-	-	-	-	-	-	-	-	3_2_6
+511_946486444713021440.branch6.	169	7	the	DT	(NP*	Medimiguell	representative_men	other	defnp/none	(1022	-	NP_S(	NP_L(	-	-	3_2_7
+511_946486444713021440.branch6.	169	8	software	NN	*)	Medimiguell	-	-	-	1022)	-	)NP_S	)NP_L	-	-	3_2_8
+511_946486444713021440.branch6.	169	9	to	TO	(PP*	Medimiguell	-	-	-	-	-	-	-	-	-	3_2_9
+511_946486444713021440.branch6.	169	10	any	DT	(NP*	Medimiguell	representative_men	other	indefnp/none	(1021	-	NP_S(	NP_L(	-	-	3_2_10
+511_946486444713021440.branch6.	169	11	recent	JJ	*	Medimiguell	-	-	-	-	-	-	-	-	-	3_2_11
+511_946486444713021440.branch6.	169	12	version	NN	*))	Medimiguell	-	-	-	1021)	-	)NP_S	)NP_L	-	-	3_2_12
+511_946486444713021440.branch6.	169	13	,	,	*	Medimiguell	-	-	-	-	CL21	-	-	-	-	3_2_13
+511_946486444713021440.branch6.	169	14	as	IN	(PP*	Medimiguell	-	-	-	-	CLX	-	-	-	-	3_2_14
+511_946486444713021440.branch6.	169	15	every	DT	(NP(NP*	Medimiguell	-	-	-	-	-	NP_S(	NP_L(	-	-	3_2_15
+511_946486444713021440.branch6.	169	16	time	NN	*)	Medimiguell	-	-	-	-	-	)NP_S	-	-	-	3_2_16
+511_946486444713021440.branch6.	169	17	I	PRP	(SBAR(S(NP*)	Medimiguell	-	-	ppers/anaphora	(9)	-	NP_S()	-	sbj	not_assigned	3_2_17
+511_946486444713021440.branch6.	169	18	did	VBD	(VP*	Medimiguell	-	-	-	-	CLX	-	-	-	-	3_2_18
+511_946486444713021440.branch6.	169	19	update	VB	(S(VP*	Medimiguell	-	-	-	-	CLX	NP_S()	)NP_L	-	-	3_2_19
+511_946486444713021440.branch6.	169	20	I	PRP	(SBAR(S(NP*)	Medimiguell	-	-	ppers/anaphora	(9)	-	NP_S()	NP_L()	sbj	not_assigned	3_2_20
+511_946486444713021440.branch6.	169	21	finished	VBD	(VP*	Medimiguell	-	-	-	-	-	-	-	-	-	3_2_21
+511_946486444713021440.branch6.	169	22	regretting	VBG	(S(VP*	Medimiguell	-	-	-	-	-	-	-	-	-	3_2_22
+511_946486444713021440.branch6.	169	23	much	RB	(NP*))))))))))))))))))))	Medimiguell	representative_men	-	indefnp/none	(1013)	-	-	-	-	-	3_2_23
+511_946486444713021440.branch6.	169	24	.	.	*))	Medimiguell	-	-	-	-	CLX	-	-	-	-	3_2_24
+
+511_946486444713021440.branch6.	169	0	Apple	NNP	(ROOT(S(NP*)	Medimiguell	representative_men	-	ne/none	(1020)	CL26	NP_S()	NP_L()	-	-	3_3_0
+511_946486444713021440.branch6.	169	1	spoils	VBZ	(VP*	Medimiguell	-	-	-	-	-	-	-	-	-	3_3_1
+511_946486444713021440.branch6.	169	2	our	PRP$	(NP*	Medimiguell	representative_men|representative_men	phys_obj	ppos/exophora|defnp/none	(1004)|(1019	-	NP_S(	NP_L(	-	-	3_3_2
+511_946486444713021440.branch6.	169	3	devices	NNS	*)	Medimiguell	-	-	-	1019)	-	)NP_S	)NP_L	-	-	3_3_3
+511_946486444713021440.branch6.	169	4	with	IN	(PP*	Medimiguell	-	-	-	-	-	-	-	-	-	3_3_4
+511_946486444713021440.branch6.	169	5	updates	NNS	(NP*)))	Medimiguell	representative_men	-	defnp/none	(1024)	-	NP_S()	NP_L()	-	-	3_3_5
+511_946486444713021440.branch6.	169	6	!	.	*))	Medimiguell	-	-	-	-	CL26	-	-	-	-	3_3_6
+
+511_946486444713021440.branch6.	169	0	Sad	JJ	(ROOT(FRAG(NP*	Medimiguell	representative_men	other	defnp/none	(1023	CL27	-	-	-	-	3_4_0
+511_946486444713021440.branch6.	169	1	reality	NN	*	Medimiguell	-	-	-	1023)	-	-	-	-	-	3_4_1
+511_946486444713021440.branch6.	169	2	@AppleSupport	NN	*)))	Medimiguell	-	-	ne/none	(14)	CL27	NP_S()	NP_L()	none	not_assigned	3_4_2
+
+511_946486444713021440.branch6.	169	0	@Medimiguell	NNP	(ROOT(S(NP*	AppleSupport	-	-	-	-	-	NP_S()	NP_L()	-	-	4_0_0
+511_946486444713021440.branch6.	169	1	Let	NNP	(NX*	AppleSupport	-	-	-	-	CL28	-	-	-	-	4_0_1
+511_946486444713021440.branch6.	169	2	's	POS	*))	AppleSupport	-	-	ppers/anaphora	(14)	-	-	-	dir_obj	not_assigned	4_0_2
+511_946486444713021440.branch6.	169	3	take	VB	(VP*	AppleSupport	-	-	-	-	-	-	-	-	-	4_0_3
+511_946486444713021440.branch6.	169	4	a	DT	(VP(ADVP*	AppleSupport	representative_men	other	indefnp/none	(1026	-	NP_S(	NP_L(	-	-	4_0_4
+511_946486444713021440.branch6.	169	5	closer	RBR	*)	AppleSupport	-	-	-	-	-	-	-	-	-	4_0_5
+511_946486444713021440.branch6.	169	6	look	VB	*	AppleSupport	-	-	-	1026)	-	)NP_S	)NP_L	-	-	4_0_6
+511_946486444713021440.branch6.	169	7	into	IN	(PP*	AppleSupport	-	-	-	-	-	-	-	-	-	4_0_7
+511_946486444713021440.branch6.	169	8	this	DT	(NP(NP*)	AppleSupport	representative_men	-	pds/anaphora	(1025)	-	NP_S()	NP_L()	-	-	4_0_8
+511_946486444713021440.branch6.	169	9	in	IN	(PP*	AppleSupport	-	-	-	-	-	-	-	-	-	4_0_9
+511_946486444713021440.branch6.	169	10	DM	NN	(NP*))))))	AppleSupport	representative_men	-	defnp/none	(16)	-	NP_S()	NP_L()	prep_phrase	specific	4_0_10
+511_946486444713021440.branch6.	169	11	.	.	*))	AppleSupport	-	-	-	-	CL28	-	-	-	-	4_0_11
+
+511_946486444713021440.branch6.	169	0	Send	VB	(ROOT(SINV(VP*	AppleSupport	-	-	-	-	CL29	-	-	-	-	4_1_0
+511_946486444713021440.branch6.	169	1	us	PRP	(UCP(NP(NP*)	AppleSupport	-	-	ppers/anaphora	(14)	-	NP_S()	NP_L()	dir_obj	not_assigned	4_1_1
+511_946486444713021440.branch6.	169	2	a	DT	(NP*	AppleSupport	representative_men	other	indefnp/none	(1010	-	NP_S(	NP_L(	-	-	4_1_2
+511_946486444713021440.branch6.	169	3	message	NN	*))	AppleSupport	-	-	-	1010)	CL29	)NP_S	)NP_L	-	-	4_1_3
+511_946486444713021440.branch6.	169	4	and	CC	*	AppleSupport	-	-	-	-	CL30	-	-	-	-	4_1_4
+511_946486444713021440.branch6.	169	5	we	PRP	(S(NP*)	AppleSupport	-	-	ppers/anaphora	(14)	-	NP_S()	NP_L()	sbj	not_assigned	4_1_5
+511_946486444713021440.branch6.	169	6	'll	MD	(VP*	AppleSupport	-	-	-	-	-	-	-	-	-	4_1_6
+511_946486444713021440.branch6.	169	7	continue	VB	(VP*	AppleSupport	-	-	-	-	CL30	-	-	-	-	4_1_7
+511_946486444713021440.branch6.	169	8	troubleshooting	VBG	(S(VP*	AppleSupport	-	-	-	-	CL31	-	-	-	-	4_1_8
+511_946486444713021440.branch6.	169	9	there	RB	(ADVP*))))))	AppleSupport	-	-	padv/exophora	(16)	-	NP_S()	NP_L()	adv	not_assigned	4_1_9
+511_946486444713021440.branch6.	169	10	.	.	*))	AppleSupport	-	-	-	-	CL31	-	-	-	-	4_1_10
+511_946486444713021440.branch6.	169	11	https://t.co/GDrqU22YpT	NN	(NP*)))	AppleSupport	-	-	-	-	-	-	-	-	-	4_1_11
+
+#end document

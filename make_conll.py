@@ -11,6 +11,7 @@ def main():
     conll = 'conll/'
     diff = 'diff/'
     tweets = sys.argv[1]
+    authors = sys.argv[2]
 
     if not os.path.isdir(conll):
         os.mkdir(conll)
@@ -31,6 +32,13 @@ def main():
                         t = open(tweets+tweet+'.txt', 'r')
                     except:
                         tweet_missing = True
+
+                    try:
+                        a = open(authors+tweet+'.txt', 'r')
+                        username = a.read().strip('\n')
+                    except:
+                        print('WARNING: The tweet with ID {} is available, but not its author. Make sure that you correctly added the author text file.'.format(tweet))
+                        username = '_'
 
                     if not tweet_missing:
                         d = open(diff+tweet+'.txt', 'r')
@@ -111,7 +119,7 @@ def main():
                     line_copy = copy.deepcopy(line.split())
                     line_copy[3] = tokenized[0]
                     new_line = line_copy[:-1]
-                    #new_line.append(line_copy[12])
+                    new_line[6] = username
                     new_conll.write('\t'.join(new_line)+'\n')
                     tokenized.pop(0)
 

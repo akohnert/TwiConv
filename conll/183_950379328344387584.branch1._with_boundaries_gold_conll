@@ -1,0 +1,52 @@
+#begin document (183_950379328344387584.branch1.); part 147
+183_950379328344387584.branch1.	147	0	still	RB	(ROOT(FRAG(S(ADVP*)	ThePipLad	-	-	-	-	CL0	-	-	-	-	0_0_0
+183_950379328344387584.branch1.	147	1	waiting	VBG	(VP*	ThePipLad	-	-	-	-	-	-	-	-	-	0_0_1
+183_950379328344387584.branch1.	147	2	for	IN	(PP*	ThePipLad	-	-	-	-	-	-	-	-	-	0_0_2
+183_950379328344387584.branch1.	147	3	this	DT	(NP*	ThePipLad	representative_men	phys_obj	defnp/none	(1000	-	NP_S(	NP_L(	-	-	0_0_3
+183_950379328344387584.branch1.	147	4	corker	NN	*	ThePipLad	-	-	-	1000)	CL0	)NP_S	)NP_L	-	-	0_0_4
+183_950379328344387584.branch1.	147	5	https://t.co/PVZmQKnn5H	NN	*))))))	ThePipLad	-	-	-	-	-	-	-	-	-	0_0_5
+
+183_950379328344387584.branch1.	147	0	@ThePipLad	NNP	(ROOT(S(NP*)	TheCincast	-	-	-	-	-	NP_S()	NP_L()	-	-	1_0_0
+183_950379328344387584.branch1.	147	1	Do	VBP	(VP*	TheCincast	-	-	-	-	CL1	-	-	-	-	1_0_1
+183_950379328344387584.branch1.	147	2	you	PRP	(S(NP*)	TheCincast	representative_men	-	ppers/exophora	(1)	-	NP_S()	NP_L()	sbj	specific	1_0_2
+183_950379328344387584.branch1.	147	3	reckon	VB	(VP*	TheCincast	-	-	-	-	-	-	-	-	-	1_0_3
+183_950379328344387584.branch1.	147	4	Brad	NNP	(SBAR(S(NP*)	TheCincast	representative_men	-	ne/none	(0)	CL3	NP_S()	NP_L()	sbj	specific	1_0_4
+183_950379328344387584.branch1.	147	5	will	MD	(VP*	TheCincast	-	-	-	-	-	-	-	-	-	1_0_5
+183_950379328344387584.branch1.	147	6	come	VB	(VP*	TheCincast	-	-	-	-	-	-	-	-	-	1_0_6
+183_950379328344387584.branch1.	147	7	on	IN	(PP*	TheCincast	-	-	-	-	-	-	-	-	-	1_0_7
+183_950379328344387584.branch1.	147	8	Bamboozled	NNP	(NP*)))))))))	TheCincast	representative_men	-	ne/none	(1003)	CL3	NP_S()	NP_L()	-	-	1_0_8
+183_950379328344387584.branch1.	147	9	?	.	*))	TheCincast	-	-	-	-	CL1	-	-	-	-	1_0_9
+
+183_950379328344387584.branch1.	147	0	@TheCincast	NN	(ROOT(S(NP(NP*)	ThePipLad	-	-	-	-	-	NP_S()	NP_L()	-	-	2_0_0
+183_950379328344387584.branch1.	147	1	I	PRP	(RRC(ADJP(NP*)	ThePipLad	-	-	ppers/anaphora	(1)	CL5	NP_S()	NP_L()	sbj	not_assigned	2_0_1
+183_950379328344387584.branch1.	147	2	bloody	JJ	*)	ThePipLad	-	-	-	-	-	-	-	-	-	2_0_2
+183_950379328344387584.branch1.	147	3	well	RB	(ADVP*)))	ThePipLad	-	-	-	-	-	-	-	-	-	2_0_3
+183_950379328344387584.branch1.	147	4	hope	VBP	(VP*	ThePipLad	-	-	-	-	-	-	-	-	-	2_0_4
+183_950379328344387584.branch1.	147	5	so	IN	(ADVP*))))	ThePipLad	-	-	-	-	CL5	-	-	-	-	2_0_5
+
+183_950379328344387584.branch1.	147	0	@ThePipLad	NNP	(ROOT(FRAG(NP(NP*)	TheCincast	-	-	-	-	-	NP_S()	NP_L()	-	-	3_0_0
+183_950379328344387584.branch1.	147	1	He	PRP	(SBAR(S(S(NP*)	TheCincast	-	-	ppers/anaphora	(0)	CL7	NP_S()	NP_L()	sbj	not_assigned	3_0_1
+183_950379328344387584.branch1.	147	2	was	VBD	(VP*	TheCincast	-	-	-	-	-	-	-	-	-	3_0_2
+183_950379328344387584.branch1.	147	3	gon	VBG	(VP*	TheCincast	-	-	-	-	-	-	-	-	-	3_0_3
+183_950379328344387584.branch1.	147	4	na	TO	(S(VP*))	TheCincast	-	-	-	-	CL8	-	-	-	-	3_0_4
+183_950379328344387584.branch1.	147	5	like	IN	(PP*	TheCincast	-	-	-	-	-	-	-	-	-	3_0_5
+183_950379328344387584.branch1.	147	6	1	CD	(NP*)))))	TheCincast	representative_men	time	defnp/none	(1002	-	NP_S()	NP_L(	-	-	3_0_6
+183_950379328344387584.branch1.	147	7	and	CC	*	TheCincast	-	-	-	-	-	-	-	-	-	3_0_7
+183_950379328344387584.branch1.	147	8	half	DT	(ADVP(NP*	TheCincast	-	-	-	-	-	-	-	-	-	3_0_8
+183_950379328344387584.branch1.	147	9	year	NN	*)	TheCincast	-	-	-	1002)	-	-	)NP_L	-	-	3_0_9
+183_950379328344387584.branch1.	147	10	ago	IN	*)	TheCincast	-	-	-	-	CL8|CL7	-	-	-	-	3_0_10
+183_950379328344387584.branch1.	147	11	but	CC	(S*	TheCincast	-	-	-	-	CL9	-	-	-	-	3_0_11
+183_950379328344387584.branch1.	147	12	then	RB	(ADVP*)	TheCincast	-	-	-	-	-	-	-	-	-	3_0_12
+183_950379328344387584.branch1.	147	13	he	PRP	(NP*)	TheCincast	-	-	ppers/anaphora	(0)	-	NP_S()	NP_L()	sbj	not_assigned	3_0_13
+183_950379328344387584.branch1.	147	14	quickscoped	VBD	(VP*	TheCincast	-	-	-	-	-	-	-	-	-	3_0_14
+183_950379328344387584.branch1.	147	15	me	PRP	(NP*))))))))	TheCincast	representative_men	-	ppers/exophora	(1001)	CL9	NP_S()	NP_L()	-	-	3_0_15
+
+183_950379328344387584.branch1.	147	0	@TheCincast	NN	(ROOT(S(NP*)	ThePipLad	-	-	-	-	-	NP_S()	NP_L()	-	-	4_0_0
+183_950379328344387584.branch1.	147	1	could	MD	(VP*	ThePipLad	-	-	-	-	CL10	-	-	-	-	4_0_1
+183_950379328344387584.branch1.	147	2	have	VB	(VP*	ThePipLad	-	-	-	-	-	-	-	-	-	4_0_2
+183_950379328344387584.branch1.	147	3	been	VBN	(VP*	ThePipLad	-	-	-	-	-	-	-	-	-	4_0_3
+183_950379328344387584.branch1.	147	4	the	DT	(NP*	ThePipLad	representative_men	other	defnp/none	(1004	-	NP_S(	NP_L(	-	-	4_0_4
+183_950379328344387584.branch1.	147	5	big	JJ	*	ThePipLad	-	-	-	-	-	-	-	-	-	4_0_5
+183_950379328344387584.branch1.	147	6	break	NN	*))))))	ThePipLad	-	-	-	1004)	CL10	)NP_S	)NP_L	-	-	4_0_6
+
+#end document

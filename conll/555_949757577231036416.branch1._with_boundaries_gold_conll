@@ -1,0 +1,45 @@
+#begin document (555_949757577231036416.branch1.); part 182
+555_949757577231036416.branch1.	182	0	it	PRP	(ROOT(S(NP*)	ningiou	representative_men	-	ppers/exophora	(1006)	CL0	NP_S()	NP_L()	-	-	0_0_0
+555_949757577231036416.branch1.	182	1	begins	VBZ	(VP*	ningiou	-	-	-	-	CL0	-	-	-	-	0_0_1
+555_949757577231036416.branch1.	182	2	https://t.co/WvHOf80rbz	NN	(NP*))))	ningiou	-	-	-	-	-	-	-	-	-	0_0_2
+
+555_949757577231036416.branch1.	182	0	@ningiou	NN	(ROOT(S(NP*	ImFarux	-	-	-	-	-	NP_S(	NP_L(	-	-	1_0_0
+555_949757577231036416.branch1.	182	1	@rrin_reen	NNS	*)	ImFarux	-	-	-	-	-	)NP_S	)NP_L	-	-	1_0_1
+555_949757577231036416.branch1.	182	2	ehh	VBP	(VP*	ImFarux	-	-	-	-	CL2	-	-	-	-	1_0_2
+555_949757577231036416.branch1.	182	3	what	WP	(SBAR(WHNP*)	ImFarux	-	-	-	-	-	-	-	-	-	1_0_3
+555_949757577231036416.branch1.	182	4	manga	NN	(S(NP*)	ImFarux	representative_men	-	indefnp/none	(1002)	-	NP_S()	NP_L()	-	-	1_0_4
+555_949757577231036416.branch1.	182	5	is	VBZ	(VP*	ImFarux	-	-	-	-	-	-	-	-	-	1_0_5
+555_949757577231036416.branch1.	182	6	the	DT	(NP*	ImFarux	representative_men	other	defnp/none	(1005	-	NP_S(	NP_L(	-	-	1_0_6
+555_949757577231036416.branch1.	182	7	second	JJ	*	ImFarux	-	-	-	-	-	-	-	-	-	1_0_7
+555_949757577231036416.branch1.	182	8	image	NN	*)))))	ImFarux	-	-	-	1005)	-	)NP_S	)NP_L	-	-	1_0_8
+555_949757577231036416.branch1.	182	9	?	.	*))	ImFarux	-	-	-	-	CL2	-	-	-	-	1_0_9
+
+555_949757577231036416.branch1.	182	0	im	NN	(ROOT(NP(NP*)	ImFarux	representative_men	-	ppers/exophora	(1004)	CL3	NP_S()	NP_L()	-	-	1_1_0
+555_949757577231036416.branch1.	182	1	curious	JJ	(NP*)))	ImFarux	-	-	-	-	CL3	-	-	-	-	1_1_1
+
+555_949757577231036416.branch1.	182	0	@ImFarux	NN	(ROOT(S(NP*)	rrin_reen	-	-	-	-	-	NP_S(	NP_L(	-	-	2_0_0
+555_949757577231036416.branch1.	182	1	@ningiou	VBZ	(VP*	rrin_reen	-	-	-	-	-	)NP_S	)NP_L	-	-	2_0_1
+555_949757577231036416.branch1.	182	2	it	PRP	(SBAR(S(NP*)	rrin_reen	-	-	ppers/exophora	(3)	CL5	NP_S()	NP_L()	sbj	not_assigned	2_0_2
+555_949757577231036416.branch1.	182	3	's	VBZ	(VP*	rrin_reen	-	-	-	-	-	-	-	-	-	2_0_3
+555_949757577231036416.branch1.	182	4	the	DT	(NP(NP*	rrin_reen	representative_men	other	defnp/none|indefnp/none	(1001|(3	-	NP_S(	NP_L(	copula_rel	not_assigned	2_0_4
+555_949757577231036416.branch1.	182	5	same	JJ	*	rrin_reen	-	-	-	-	-	-	-	-	-	2_0_5
+555_949757577231036416.branch1.	182	6	series	NN	*)	rrin_reen	-	-	-	1001)	-	)NP_S	-	-	-	2_0_6
+555_949757577231036416.branch1.	182	7	,	,	*	rrin_reen	-	-	-	-	-	-	-	-	-	2_0_7
+555_949757577231036416.branch1.	182	8	anime	NN	(NP*	rrin_reen	representative_men	other	defnp/none	(1003	-	NP_S(	-	-	-	2_0_8
+555_949757577231036416.branch1.	182	9	adaption	NN	*)	rrin_reen	-	-	-	1003)	-	)NP_S	-	-	-	2_0_9
+555_949757577231036416.branch1.	182	10	and	CC	*	rrin_reen	-	-	-	-	-	-	-	-	-	2_0_10
+555_949757577231036416.branch1.	182	11	the	DT	(NP*	rrin_reen	representative_men	other	defnp/none	(1000	-	NP_S(	-	-	-	2_0_11
+555_949757577231036416.branch1.	182	12	manga	NN	*))))))	rrin_reen	-	-	-	1000)|3)	-	)NP_S	)NP_L	-	-	2_0_12
+555_949757577231036416.branch1.	182	13	.	.	*))	rrin_reen	-	-	-	-	CL5	-	-	-	-	2_0_13
+
+555_949757577231036416.branch1.	182	0	Citrus	NNP	(ROOT(NP*))	rrin_reen	representative_men	-	ne/none	(3)	CL6|CL6	NP_S()	NP_L()	other/other	specific	2_1_0
+
+555_949757577231036416.branch1.	182	0	@rrin_reen	JJ	(ROOT(S(NP*	ImFarux	-	-	-	-	-	NP_S(	NP_L(	-	-	3_0_0
+555_949757577231036416.branch1.	182	1	@ningiou	NN	*)	ImFarux	-	-	-	-	-	)NP_S	)NP_L	-	-	3_0_1
+555_949757577231036416.branch1.	182	2	thank	VB	(VP*	ImFarux	-	-	-	-	CL7	-	-	-	-	3_0_2
+555_949757577231036416.branch1.	182	3	you	PRP	(NP*)	ImFarux	representative_men	-	ppers/exophora	(1007)	-	NP_S()	NP_L()	-	-	3_0_3
+555_949757577231036416.branch1.	182	4	so	RB	(ADVP*	ImFarux	-	-	-	-	-	-	-	-	-	3_0_4
+555_949757577231036416.branch1.	182	5	much	RB	*))	ImFarux	-	-	-	-	-	-	-	-	-	3_0_5
+555_949757577231036416.branch1.	182	6	!	.	*))	ImFarux	-	-	-	-	CL7	-	-	-	-	3_0_6
+
+#end document

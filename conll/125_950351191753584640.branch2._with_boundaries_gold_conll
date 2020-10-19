@@ -1,0 +1,90 @@
+#begin document (125_950351191753584640.branch2.); part 99
+125_950351191753584640.branch2.	99	0	.	.	(ROOT(SINV(VP*	furoreuropa	-	-	-	-	CL0	-	-	-	-	0_0_0
+125_950351191753584640.branch2.	99	1	@Starbucks	NNPS	(SBAR(S(NP*)	furoreuropa	-	-	ne/none	(7)	-	NP_S()	NP_L()	sbj	not_assigned	0_0_1
+125_950351191753584640.branch2.	99	2	has	VBZ	(VP*	furoreuropa	-	-	-	-	-	-	-	-	-	0_0_2
+125_950351191753584640.branch2.	99	3	some	DT	(NP*	furoreuropa	representative_men	other	indefnp/none	(1001	-	NP_S(	NP_L(	-	-	0_0_3
+125_950351191753584640.branch2.	99	4	splainin	NN	*	furoreuropa	-	-	-	1001)	-	-	-	-	-	0_0_4
+125_950351191753584640.branch2.	99	5	'	''	*	furoreuropa	-	-	-	-	-	-	-	-	-	0_0_5
+125_950351191753584640.branch2.	99	6	to	TO	(S(VP*	furoreuropa	-	-	-	-	CL2	-	-	-	-	0_0_6
+125_950351191753584640.branch2.	99	7	do	VB	(VP*)))))	furoreuropa	-	-	-	-	CL2	)NP_S	)NP_L	-	-	0_0_7
+125_950351191753584640.branch2.	99	8	.	.	*)))	furoreuropa	-	-	-	-	CL0	-	-	-	-	0_0_8
+125_950351191753584640.branch2.	99	9	https://t.co/3GPHU1qGFh	NN	(NP*)))	furoreuropa	-	-	-	-	-	-	-	-	-	0_0_9
+
+125_950351191753584640.branch2.	99	0	@furoreuropa	NN	(ROOT(S(NP(NP*)	Starbucks	-	-	-	-	-	NP_S()	NP_L()	-	-	1_0_0
+125_950351191753584640.branch2.	99	1	This	DT	(NP*	Starbucks	representative_men	other	defnp/none	(3	CL3	NP_S(	NP_L(	sbj	specific	1_0_1
+125_950351191753584640.branch2.	99	2	post	NN	*))	Starbucks	-	-	-	3)	-	)NP_S	)NP_L	-	-	1_0_2
+125_950351191753584640.branch2.	99	3	is	VBZ	(VP*	Starbucks	-	-	-	-	-	-	-	-	-	1_0_3
+125_950351191753584640.branch2.	99	4	completely	RB	(ADJP*	Starbucks	-	-	-	-	-	-	-	-	-	1_0_4
+125_950351191753584640.branch2.	99	5	false	JJ	*))	Starbucks	-	-	-	-	-	-	-	-	-	1_0_5
+125_950351191753584640.branch2.	99	6	.	.	*))	Starbucks	-	-	-	-	CL3	-	-	-	-	1_0_6
+
+125_950351191753584640.branch2.	99	0	Starbucks	NNP	(ROOT(S(NP*)	Starbucks	representative_men	-	ne/none	(7)	CL4	NP_S()	NP_L()	sbj	specific	1_1_0
+125_950351191753584640.branch2.	99	1	does	VBZ	(VP*	Starbucks	-	-	-	-	-	-	-	-	-	1_1_1
+125_950351191753584640.branch2.	99	2	not	RB	*	Starbucks	-	-	-	-	-	-	-	-	-	1_1_2
+125_950351191753584640.branch2.	99	3	have	VB	(VP*	Starbucks	-	-	-	-	-	-	-	-	-	1_1_3
+125_950351191753584640.branch2.	99	4	a	DT	(NP(NP*	Starbucks	representative_men	human	indefnp/none	(2	-	NP_S(	NP_L(	dir_obj	generic	1_1_4
+125_950351191753584640.branch2.	99	5	partner	NN	*)	Starbucks	-	-	-	2)	-	)NP_S	-	-	-	1_1_5
+125_950351191753584640.branch2.	99	6	-LRB-	-LRB-	(PRN*	Starbucks	-	-	-	-	-	-	-	-	-	1_1_6
+125_950351191753584640.branch2.	99	7	employee	NN	(NP*)	Starbucks	-	-	indefnp/none	(2)	-	NP_S()	-	other/appositive	not_assigned	1_1_7
+125_950351191753584640.branch2.	99	8	-RRB-	-RRB-	*))	Starbucks	-	-	-	-	-	-	)NP_L	-	-	1_1_8
+125_950351191753584640.branch2.	99	9	by	IN	(PP*	Starbucks	-	-	-	-	-	-	-	-	-	1_1_9
+125_950351191753584640.branch2.	99	10	the	DT	(NP*	Starbucks	representative_men	other	defnp/none	(1002	-	NP_S(	NP_L(	-	-	1_1_10
+125_950351191753584640.branch2.	99	11	name	NN	*	Starbucks	-	-	-	1002)	-	)NP_S	-	-	-	1_1_11
+125_950351191753584640.branch2.	99	12	Shanell	NNP	*	Starbucks	representative_men	human	ne/none	(0	-	NP_S(	-	dir_obj	specific	1_1_12
+125_950351191753584640.branch2.	99	13	Rivers	NNP	*))))	Starbucks	-	-	-	0)	-	)NP_S	)NP_L	-	-	1_1_13
+125_950351191753584640.branch2.	99	14	.	.	*))	Starbucks	-	-	-	-	CL4	-	-	-	-	1_1_14
+
+125_950351191753584640.branch2.	99	0	We	PRP	(ROOT(S(NP*)	Starbucks	-	-	ppers/anaphora	(3)	CL5	NP_S()	NP_L()	sbj	not_assigned	1_2_0
+125_950351191753584640.branch2.	99	1	are	VBP	(VP*	Starbucks	-	-	-	-	-	-	-	-	-	1_2_1
+125_950351191753584640.branch2.	99	2	working	VBG	(VP*	Starbucks	-	-	-	-	-	-	-	-	-	1_2_2
+125_950351191753584640.branch2.	99	3	with	IN	(PP*	Starbucks	-	-	-	-	-	-	-	-	-	1_2_3
+125_950351191753584640.branch2.	99	4	local	JJ	(NP*	Starbucks	representative_men	org	indefnp/none	(1008	-	NP_S(	NP_L(	-	-	1_2_4
+125_950351191753584640.branch2.	99	5	authorities	NNS	*))))	Starbucks	-	-	-	1008)	-	)NP_S	)NP_L	-	-	1_2_5
+125_950351191753584640.branch2.	99	6	.	.	*))	Starbucks	-	-	-	-	CL5	-	-	-	-	1_2_6
+
+125_950351191753584640.branch2.	99	0	@Starbucks	NNS	(ROOT(S(NP*	sicat2	-	-	-	-	-	NP_S(	NP_L(	-	-	2_0_0
+125_950351191753584640.branch2.	99	1	@furoreuropa	NNS	*)	sicat2	-	-	-	-	-	)NP_S	)NP_L	-	-	2_0_1
+125_950351191753584640.branch2.	99	2	Ever	RB	(ADVP*)	sicat2	-	-	-	-	CL6	-	-	-	-	2_0_2
+125_950351191753584640.branch2.	99	3	think	VBP	(VP*	sicat2	-	-	-	-	-	-	-	-	-	2_0_3
+125_950351191753584640.branch2.	99	4	she	PRP	(SBAR(S(NP*)	sicat2	-	-	ppers/anaphora	(0)	-	NP_S()	NP_L()	sbj	not_assigned	2_0_4
+125_950351191753584640.branch2.	99	5	is	VBZ	(VP*	sicat2	-	-	-	-	-	-	-	-	-	2_0_5
+125_950351191753584640.branch2.	99	6	using	VBG	(VP*	sicat2	-	-	-	-	-	-	-	-	-	2_0_6
+125_950351191753584640.branch2.	99	7	a	DT	(NP*	sicat2	representative_men	other	indefnp/none	(1007	-	NP_S(	NP_L(	-	-	2_0_7
+125_950351191753584640.branch2.	99	8	phony	JJ	*	sicat2	-	-	-	-	-	-	-	-	-	2_0_8
+125_950351191753584640.branch2.	99	9	name	NN	*)	sicat2	-	-	-	1007)	-	)NP_S	)NP_L	-	-	2_0_9
+125_950351191753584640.branch2.	99	10	on	IN	(PP*	sicat2	-	-	-	-	-	-	-	-	-	2_0_10
+125_950351191753584640.branch2.	99	11	FB	NN	(NP*)))))))	sicat2	representative_men	-	ne/none	(1006)	-	NP_S()	NP_L()	-	-	2_0_11
+125_950351191753584640.branch2.	99	12	?	.	*))	sicat2	-	-	-	-	CL6	-	-	-	-	2_0_12
+
+125_950351191753584640.branch2.	99	0	Did	VBD	(ROOT(SINV(VP*	sicat2	-	-	-	-	CL8	-	-	-	-	2_1_0
+125_950351191753584640.branch2.	99	1	that	IN	(SBAR*	sicat2	representative_men	-	pds/anaphora	(1000)	-	NP_S()	NP_L()	-	-	2_1_1
+125_950351191753584640.branch2.	99	2	even	RB	*	sicat2	-	-	-	-	-	-	-	-	-	2_1_2
+125_950351191753584640.branch2.	99	3	occur	VBP	(S(VP*	sicat2	-	-	-	-	-	-	-	-	-	2_1_3
+125_950351191753584640.branch2.	99	4	to	TO	(PP*	sicat2	-	-	-	-	-	-	-	-	-	2_1_4
+125_950351191753584640.branch2.	99	5	you	PRP	(NP*))))))	sicat2	-	-	ppers/anaphora	(7)	-	NP_S()	NP_L()	prep_phrase	not_assigned	2_1_5
+125_950351191753584640.branch2.	99	6	geniuses	NNS	(NP*)	sicat2	-	-	defnp/none	(7)	CL8	NP_S()	NP_L()	other/appositive	not_assigned	2_1_6
+125_950351191753584640.branch2.	99	7	before	IN	(SBAR*	sicat2	-	-	-	-	CL10	-	-	-	-	2_1_7
+125_950351191753584640.branch2.	99	8	you	PRP	(S(NP*)	sicat2	-	-	ppers/anaphora	(7)	-	NP_S()	NP_L()	sbj	not_assigned	2_1_8
+125_950351191753584640.branch2.	99	9	dismiss	VBP	(VP*	sicat2	-	-	-	-	-	-	-	-	-	2_1_9
+125_950351191753584640.branch2.	99	10	this	DT	(NP*)))	sicat2	representative_men	-	pds/anaphora	(1005)	-	NP_S()	NP_L()	-	-	2_1_10
+125_950351191753584640.branch2.	99	11	?	.	*)))	sicat2	-	-	-	-	CL10	-	-	-	-	2_1_11
+
+125_950351191753584640.branch2.	99	0	@sicat2	NN	(ROOT(NP(NP*	FukPolyTix	-	-	-	-	-	NP_S(	NP_L(	-	-	3_0_0
+125_950351191753584640.branch2.	99	1	@Starbucks	NNS	*)	FukPolyTix	-	-	-	-	-	-	-	-	-	3_0_1
+125_950351191753584640.branch2.	99	2	@furoreuropa	JJ	(ADJP*	FukPolyTix	-	-	-	-	-	)NP_S	)NP_L	-	-	3_0_2
+125_950351191753584640.branch2.	99	3	Her	PRP$	(SBAR(S(NP*	FukPolyTix	representative_men	other	ppos/anaphora|defnp/none	(0)|(1004	CL11	NP_S(	NP_L(	sbj	not_assigned	3_0_3
+125_950351191753584640.branch2.	99	4	real	JJ	*	FukPolyTix	-	-	-	-	-	-	-	-	-	3_0_4
+125_950351191753584640.branch2.	99	5	name	NN	*)	FukPolyTix	-	-	-	1004)	-	)NP_S	)NP_L	-	-	3_0_5
+125_950351191753584640.branch2.	99	6	is	VBZ	(VP*	FukPolyTix	-	-	-	-	-	-	-	-	-	3_0_6
+125_950351191753584640.branch2.	99	7	in	IN	(PP*	FukPolyTix	-	-	-	-	-	-	-	-	-	3_0_7
+125_950351191753584640.branch2.	99	8	another	DT	(NP*	FukPolyTix	representative_men	other	indefnp/none	(1003	-	NP_S(	NP_L(	-	-	3_0_8
+125_950351191753584640.branch2.	99	9	post	NN	*))))))	FukPolyTix	-	-	-	1003)	-	)NP_S	)NP_L	-	-	3_0_9
+125_950351191753584640.branch2.	99	10	.	.	*))	FukPolyTix	-	-	-	-	CL11	-	-	-	-	3_0_10
+
+125_950351191753584640.branch2.	99	0	@starbucks	NNS	(ROOT(S(NP(NP*)	FukPolyTix	-	-	ne/none	(7)	-	NP_S()	NP_L()	sbj	not_assigned	3_1_0
+125_950351191753584640.branch2.	99	1	lying	VBG	(VP*	FukPolyTix	-	-	-	-	-	-	-	-	-	3_1_1
+125_950351191753584640.branch2.	99	2	for	IN	(PP*	FukPolyTix	-	-	-	-	-	-	-	-	-	3_1_2
+125_950351191753584640.branch2.	99	3	damage	NN	(NP*	FukPolyTix	representative_men	other	defnp/none	(1009	-	NP_S(	NP_L(	-	-	3_1_3
+125_950351191753584640.branch2.	99	4	control	NN	*))))))	FukPolyTix	-	-	-	1009)	-	)NP_S	)NP_L	-	-	3_1_4
+
+#end document

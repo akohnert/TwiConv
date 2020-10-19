@@ -1,0 +1,56 @@
+#begin document (123_950347793100656640.branch26.); part 98
+123_950347793100656640.branch26.	98	0	Fire	NNP	(ROOT(S(NP*)	Independent	representative_men	-	defnp/none	(1001)	CL0	NP_S()	NP_L()	-	-	0_0_0
+123_950347793100656640.branch26.	98	1	breaks	VBZ	(VP*	Independent	-	-	-	-	-	-	-	-	-	0_0_1
+123_950347793100656640.branch26.	98	2	out	RP	(PRT*)	Independent	-	-	-	-	-	-	-	-	-	0_0_2
+123_950347793100656640.branch26.	98	3	at	IN	(PP*	Independent	-	-	-	-	-	-	-	-	-	0_0_3
+123_950347793100656640.branch26.	98	4	Trump	NNP	(NP*	Independent	representative_men	loc	defnp/none	(1004	-	NP_S(	NP_L(	-	-	0_0_4
+123_950347793100656640.branch26.	98	5	Tower	NNP	*	Independent	-	-	-	1004)	CL0	)NP_S	)NP_L	-	-	0_0_5
+123_950347793100656640.branch26.	98	6	https://t.co/woDafKpen3	NN	*)))))	Independent	-	-	-	-	-	-	-	-	-	0_0_6
+
+123_950347793100656640.branch26.	98	0	@Independent	JJ	(ROOT(S(NP(ADJP*	gianniizzo81	-	-	-	-	-	NP_S()	NP_L()	-	-	1_0_0
+123_950347793100656640.branch26.	98	1	I	PRP	(SBAR(S(NP*)	gianniizzo81	representative_men	-	ppers/exophora	(1003)	CL2	NP_S()	NP_L()	-	-	1_0_1
+123_950347793100656640.branch26.	98	2	'm	VBP	(VP*	gianniizzo81	-	-	-	-	-	-	-	-	-	1_0_2
+123_950347793100656640.branch26.	98	3	sure	JJ	(ADJP*)))))	gianniizzo81	-	-	-	-	-	-	-	-	-	1_0_3
+123_950347793100656640.branch26.	98	4	#HillaryClinton	NN	*)	gianniizzo81	representative_men	-	ne/none	(2)	CL1	NP_S()	NP_L()	sbj	specific	1_0_4
+123_950347793100656640.branch26.	98	5	is	VBZ	(VP*	gianniizzo81	-	-	-	-	-	-	-	-	-	1_0_5
+123_950347793100656640.branch26.	98	6	behind	IN	(ADVP*	gianniizzo81	-	-	-	-	-	-	-	-	-	1_0_6
+123_950347793100656640.branch26.	98	7	this	DT	*)	gianniizzo81	representative_men	-	pds/anaphora	(1002)	-	NP_S()	NP_L()	-	-	1_0_7
+123_950347793100656640.branch26.	98	8	somehow	RB	(ADVP*)	gianniizzo81	-	-	-	-	CL1	-	-	-	-	1_0_8
+123_950347793100656640.branch26.	98	9	now	RB	(SBAR*	gianniizzo81	representative_men	-	defnp/exophora	(1005)	CL3	-	-	-	-	1_0_9
+123_950347793100656640.branch26.	98	10	she	PRP	(S(NP*)	gianniizzo81	-	-	ppers/anaphora	(2)	-	NP_S()	NP_L()	sbj	not_assigned	1_0_10
+123_950347793100656640.branch26.	98	11	's	VBZ	(VP*	gianniizzo81	-	-	-	-	-	-	-	-	-	1_0_11
+123_950347793100656640.branch26.	98	12	being	VBG	(VP*	gianniizzo81	-	-	-	-	-	-	-	-	-	1_0_12
+123_950347793100656640.branch26.	98	13	investigated	VBN	(VP*	gianniizzo81	-	-	-	-	-	-	-	-	-	1_0_13
+123_950347793100656640.branch26.	98	14	for	IN	(SBAR*	gianniizzo81	-	-	-	-	-	-	-	-	-	1_0_14
+123_950347793100656640.branch26.	98	15	been	VBN	(FRAG(VP*	gianniizzo81	-	-	-	-	CL4	-	-	-	-	1_0_15
+123_950347793100656640.branch26.	98	16	the	DT	(NP*	gianniizzo81	-	-	defnp/none	(2	-	NP_S(	NP_L(	dir_obj	not_assigned	1_0_16
+123_950347793100656640.branch26.	98	17	criminal	JJ	(ADJP*	gianniizzo81	-	-	-	2)	CL4|CL3|CL2	)NP_S	-	-	-	1_0_17
+123_950347793100656640.branch26.	98	18	she	PRP	(SBAR(S(NP*)	gianniizzo81	-	-	ppers/anaphora	(2)	CL5	NP_S()	-	sbj	not_assigned	1_0_18
+123_950347793100656640.branch26.	98	19	is	VBZ	(VP*)	gianniizzo81	-	-	-	-	-	-	)NP_L	-	-	1_0_19
+123_950347793100656640.branch26.	98	20	.	.	*)))	gianniizzo81	-	-	-	-	CL5	-	-	-	-	1_0_20
+123_950347793100656640.branch26.	98	21	#LockHerUp	NN	*))))))))))))	gianniizzo81	-	-	-	-	-	NP_S()	NP_L()	-	-	1_0_21
+
+123_950347793100656640.branch26.	98	0	@gianniizzo81	NN	(ROOT(NP(NP(NP*)	riosangria	-	-	-	-	-	NP_S(	NP_L(	-	-	2_0_0
+123_950347793100656640.branch26.	98	1	@Independent	JJ	(RRC(ADJP*)	riosangria	-	-	-	-	-	)NP_S	)NP_L	-	-	2_0_1
+123_950347793100656640.branch26.	98	2	Very	RB	(ADVP*)))	riosangria	-	-	-	-	CL6	-	-	-	-	2_0_2
+123_950347793100656640.branch26.	98	3	bad	JJ	(NP(NP*	riosangria	-	-	-	-	-	-	-	-	-	2_0_3
+123_950347793100656640.branch26.	98	4	Hillary	NNP	*)	riosangria	-	-	ne/none	(2)	-	NP_S()	NP_L()	sbj	not_assigned	2_0_4
+123_950347793100656640.branch26.	98	5	for	IN	(PP*	riosangria	-	-	-	-	-	-	-	-	-	2_0_5
+123_950347793100656640.branch26.	98	6	sure	JJ	(NP*	riosangria	-	-	-	-	-	-	-	-	-	2_0_6
+123_950347793100656640.branch26.	98	7	criminal	NN	*)))))	riosangria	-	-	-	-	CL6	-	-	-	-	2_0_7
+
+123_950347793100656640.branch26.	98	0	@riosangria	NN	(ROOT(S(NP*)	gianniizzo81	-	-	-	-	-	NP_S(	NP_L(	-	-	3_0_0
+123_950347793100656640.branch26.	98	1	@Independent	JJ	(ADJP*	gianniizzo81	-	-	-	-	-	)NP_S	)NP_L	-	-	3_0_1
+123_950347793100656640.branch26.	98	2	It	PRP	(SBAR(S(NP*)	gianniizzo81	representative_men	-	ppers/non-referential_pronoun	(1000)	CL7	NP_S()	NP_L()	-	-	3_0_2
+123_950347793100656640.branch26.	98	3	's	VBZ	(VP*	gianniizzo81	-	-	-	-	-	-	-	-	-	3_0_3
+123_950347793100656640.branch26.	98	4	only	RB	(SBAR*	gianniizzo81	-	-	-	-	-	-	-	-	-	3_0_4
+123_950347793100656640.branch26.	98	5	because	IN	*	gianniizzo81	-	-	-	-	-	-	-	-	-	3_0_5
+123_950347793100656640.branch26.	98	6	of	IN	(S(PP*	gianniizzo81	-	-	-	-	-	-	-	-	-	3_0_6
+123_950347793100656640.branch26.	98	7	Obama	NNP	(NP*))	gianniizzo81	representative_men	-	ne/none	(1007)	CL7	NP_S()	NP_L()	-	-	3_0_7
+123_950347793100656640.branch26.	98	8	she	PRP	(NP*)	gianniizzo81	-	-	ppers/anaphora	(2)	CL8	NP_S()	NP_L()	sbj	not_assigned	3_0_8
+123_950347793100656640.branch26.	98	9	is	VBZ	(VP*	gianniizzo81	-	-	-	-	-	-	-	-	-	3_0_9
+123_950347793100656640.branch26.	98	10	n't	RB	*	gianniizzo81	-	-	-	-	-	-	-	-	-	3_0_10
+123_950347793100656640.branch26.	98	11	in	IN	(PP*	gianniizzo81	-	-	-	-	-	-	-	-	-	3_0_11
+123_950347793100656640.branch26.	98	12	jail	NN	(NP*)))))))))))	gianniizzo81	representative_men	-	defnp/none	(1006)	CL8	NP_S()	NP_L()	-	-	3_0_12
+
+#end document

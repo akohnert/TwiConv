@@ -1,0 +1,91 @@
+#begin document (060_950123727349583876.branch2.); part 43
+060_950123727349583876.branch2.	43	0	I	PRP	(ROOT(S(NP*)	Iettertodaddy	-	-	ppers/exophora	(8)	CL0	NP_S()	NP_L()	sbj	not_assigned	0_0_0
+060_950123727349583876.branch2.	43	1	have	VBP	(VP*	Iettertodaddy	-	-	-	-	-	-	-	-	-	0_0_1
+060_950123727349583876.branch2.	43	2	a	DT	(NP(NP*	Iettertodaddy	representative_men	abstract	indefnp/none	(1003	-	NP_S(	NP_L(	-	-	0_0_2
+060_950123727349583876.branch2.	43	3	personal	JJ	*	Iettertodaddy	-	-	-	-	-	-	-	-	-	0_0_3
+060_950123727349583876.branch2.	43	4	,	,	*	Iettertodaddy	-	-	-	-	-	-	-	-	-	0_0_4
+060_950123727349583876.branch2.	43	5	emotional	JJ	*	Iettertodaddy	-	-	-	-	-	-	-	-	-	0_0_5
+060_950123727349583876.branch2.	43	6	reason	NN	*)	Iettertodaddy	-	-	-	1003)	-	)NP_S	-	-	-	0_0_6
+060_950123727349583876.branch2.	43	7	for	IN	(PP*	Iettertodaddy	-	-	-	-	-	-	-	-	-	0_0_7
+060_950123727349583876.branch2.	43	8	my	PRP$	(NP(NP*	Iettertodaddy	representative_men	abstract	defnp/none|ppos/anaphora	(1004|(8)	-	NP_S(	-	prep_phrase	not_assigned	0_0_8
+060_950123727349583876.branch2.	43	9	love	NN	*)	Iettertodaddy	-	-	-	1004)	-	)NP_S	-	-	-	0_0_9
+060_950123727349583876.branch2.	43	10	for	IN	(PP*	Iettertodaddy	-	-	-	-	-	-	-	-	-	0_0_10
+060_950123727349583876.branch2.	43	11	Justine	NNP	(NP*	Iettertodaddy	representative_men	human	ne/none	(9	-	NP_S(	-	sbj	specific	0_0_11
+060_950123727349583876.branch2.	43	12	Greening	NNP	*))))))	Iettertodaddy	-	-	-	9)	-	)NP_S	)NP_L	-	-	0_0_12
+060_950123727349583876.branch2.	43	13	.	.	*))	Iettertodaddy	-	-	-	-	CL0	-	-	-	-	0_0_13
+
+060_950123727349583876.branch2.	43	0	She	PRP	(ROOT(S(S(NP*)	Iettertodaddy	-	-	ppers/anaphora	(9)	CL1	NP_S()	NP_L()	sbj	not_assigned	0_1_0
+060_950123727349583876.branch2.	43	1	came	VBD	(VP*	Iettertodaddy	-	-	-	-	-	-	-	-	-	0_1_1
+060_950123727349583876.branch2.	43	2	out	RP	(PRT*)	Iettertodaddy	-	-	-	-	-	-	-	-	-	0_1_2
+060_950123727349583876.branch2.	43	3	on	IN	(PP*	Iettertodaddy	-	-	-	-	-	-	-	-	-	0_1_3
+060_950123727349583876.branch2.	43	4	Pride	NN	(NP*	Iettertodaddy	representative_men	time	defnp/none	(1006	-	NP_S(	NP_L(	-	-	0_1_4
+060_950123727349583876.branch2.	43	5	day	NN	*))))	Iettertodaddy	-	-	-	1006)	-	)NP_S	)NP_L	-	-	0_1_5
+060_950123727349583876.branch2.	43	6	,	,	*	Iettertodaddy	-	-	-	-	CL1	-	-	-	-	0_1_6
+060_950123727349583876.branch2.	43	7	and	CC	*	Iettertodaddy	-	-	-	-	CL2	-	-	-	-	0_1_7
+060_950123727349583876.branch2.	43	8	it	PRP	(S(NP*)	Iettertodaddy	representative_men	-	ppers/anaphora	(1000)	-	NP_S()	NP_L()	-	-	0_1_8
+060_950123727349583876.branch2.	43	9	gave	VBD	(VP*	Iettertodaddy	-	-	-	-	-	-	-	-	-	0_1_9
+060_950123727349583876.branch2.	43	10	me	PRP	(NP*)	Iettertodaddy	-	-	ppers/anaphora	(8)	-	NP_S()	NP_L()	dir_obj	not_assigned	0_1_10
+060_950123727349583876.branch2.	43	11	confidence	NN	(NP*)))	Iettertodaddy	representative_men	-	defnp/none	(1002)	-	NP_S()	NP_L()	-	-	0_1_11
+060_950123727349583876.branch2.	43	12	.	.	*))	Iettertodaddy	-	-	-	-	CL2	-	-	-	-	0_1_12
+
+060_950123727349583876.branch2.	43	0	I	PRP	(ROOT(S(NP*)	Iettertodaddy	-	-	ppers/anaphora	(8)	CL3	NP_S()	NP_L()	sbj	not_assigned	0_2_0
+060_950123727349583876.branch2.	43	1	came	VBD	(VP*	Iettertodaddy	-	-	-	-	-	-	-	-	-	0_2_1
+060_950123727349583876.branch2.	43	2	out	RP	(PRT*)	Iettertodaddy	-	-	-	-	-	-	-	-	-	0_2_2
+060_950123727349583876.branch2.	43	3	to	TO	(PP*	Iettertodaddy	-	-	-	-	-	-	-	-	-	0_2_3
+060_950123727349583876.branch2.	43	4	my	PRP$	(NP*	Iettertodaddy	representative_men	human	defnp/none|ppos/anaphora	(1|(8)	-	-	NP_L(	prep_phrase|indir_obj	specific|not_assigned	0_2_4
+060_950123727349583876.branch2.	43	5	Mum	NNP	(NAC(NP*)	Iettertodaddy	-	-	-	1)	-	NP_S()	)NP_L	-	-	0_2_5
+060_950123727349583876.branch2.	43	6	the	DT	(NP*	Iettertodaddy	representative_men	time	defnp/exophora	(1005	-	NP_S(	NP_L(	-	-	0_2_6
+060_950123727349583876.branch2.	43	7	next	JJ	*	Iettertodaddy	-	-	-	-	-	-	-	-	-	0_2_7
+060_950123727349583876.branch2.	43	8	day	NN	*))	Iettertodaddy	-	-	-	1005)	-	)NP_S	)NP_L	-	-	0_2_8
+060_950123727349583876.branch2.	43	9	%smiley	NN	*)))))	Iettertodaddy	-	-	-	-	CL3	-	-	-	-	0_2_9
+
+060_950123727349583876.branch2.	43	0	I	PRP	(ROOT(S(S(NP*)	Iettertodaddy	-	-	ppers/anaphora	(8)	CL4	NP_S()	NP_L()	sbj	not_assigned	0_3_0
+060_950123727349583876.branch2.	43	1	told	VBD	(VP*	Iettertodaddy	-	-	-	-	-	-	-	-	-	0_3_1
+060_950123727349583876.branch2.	43	2	her	PRP	(NP*)	Iettertodaddy	-	-	ppers/anaphora	(1)	-	NP_S()	NP_L()	dir_obj	not_assigned	0_3_2
+060_950123727349583876.branch2.	43	3	at	IN	(PP*	Iettertodaddy	-	-	-	-	-	-	-	-	-	0_3_3
+060_950123727349583876.branch2.	43	4	Conference	NN	(NP*))))	Iettertodaddy	representative_men	-	indefnp/none	(1008)	CL4	NP_S()	NP_L()	-	-	0_3_4
+060_950123727349583876.branch2.	43	5	and	CC	*	Iettertodaddy	-	-	-	-	CL5	-	-	-	-	0_3_5
+060_950123727349583876.branch2.	43	6	she	PRP	(S(NP*)	Iettertodaddy	-	-	ppers/anaphora	(1)	-	NP_S()	NP_L()	sbj	not_assigned	0_3_6
+060_950123727349583876.branch2.	43	7	gave	VBD	(VP*	Iettertodaddy	-	-	-	-	-	-	-	-	-	0_3_7
+060_950123727349583876.branch2.	43	8	me	PRP	(NP*)	Iettertodaddy	-	-	ppers/anaphora	(8)	-	NP_S()	NP_L()	dir_obj	not_assigned	0_3_8
+060_950123727349583876.branch2.	43	9	a	DT	(NP*	Iettertodaddy	representative_men	other	indefnp/none	(1001	-	NP_S(	NP_L(	-	-	0_3_9
+060_950123727349583876.branch2.	43	10	huge	JJ	*	Iettertodaddy	-	-	-	-	-	-	-	-	-	0_3_10
+060_950123727349583876.branch2.	43	11	hug	NN	*)))	Iettertodaddy	-	-	-	1001)	-	)NP_S	)NP_L	-	-	0_3_11
+060_950123727349583876.branch2.	43	12	.	.	*))	Iettertodaddy	-	-	-	-	CL5	-	-	-	-	0_3_12
+
+060_950123727349583876.branch2.	43	0	She	PRP	(ROOT(S(NP*)	Iettertodaddy	-	-	ppers/ambiguous	(12)	CL6	NP_S()	NP_L()	sbj	not_assigned	0_4_0
+060_950123727349583876.branch2.	43	1	's	VBZ	(VP*	Iettertodaddy	-	-	-	-	-	-	-	-	-	0_4_1
+060_950123727349583876.branch2.	43	2	the	DT	(NP(NP*	Iettertodaddy	representative_men	human	defnp/none	(12	-	NP_S(	NP_L(	copula_rel	specific	0_4_2
+060_950123727349583876.branch2.	43	3	Queen	NN	*)	Iettertodaddy	-	-	-	-	-	)NP_S	-	-	-	0_4_3
+060_950123727349583876.branch2.	43	4	of	IN	(PP*	Iettertodaddy	-	-	-	-	-	-	-	-	-	0_4_4
+060_950123727349583876.branch2.	43	5	my	PRP$	(NP*	Iettertodaddy	representative_men	other	ppos/anaphora|defnp/none	(8)|(1007	-	NP_S(	-	prep_phrase	not_assigned	0_4_5
+060_950123727349583876.branch2.	43	6	life	NN	*	Iettertodaddy	-	-	-	1007)|12)	-	)NP_S	)NP_L	-	-	0_4_6
+060_950123727349583876.branch2.	43	7	tbh	NN	*))))	Iettertodaddy	-	-	-	-	-	-	-	-	-	0_4_7
+060_950123727349583876.branch2.	43	8	.	.	*))	Iettertodaddy	-	-	-	-	CL6	-	-	-	-	0_4_8
+
+060_950123727349583876.branch2.	43	0	@Iettertodaddy	JJ	(ROOT(S(S(ADJP*	Jam_Bake	-	-	-	-	-	NP_S()	NP_L()	-	-	1_0_0
+060_950123727349583876.branch2.	43	1	This	DT	(SBAR(S(NP*)	Jam_Bake	representative_men	-	pds/anaphora	(10)	CL8	NP_S()	NP_L()	sbj	specific	1_0_1
+060_950123727349583876.branch2.	43	2	is	VBZ	(VP*	Jam_Bake	-	-	-	-	-	-	-	-	-	1_0_2
+060_950123727349583876.branch2.	43	3	fantastic	JJ	(NP*	Jam_Bake	-	-	-	-	-	-	-	-	-	1_0_3
+060_950123727349583876.branch2.	43	4	Helen	NNP	*))))))	Jam_Bake	representative_men	-	ne/none	(8)	-	NP_S()	NP_L()	other/vocative	specific	1_0_4
+060_950123727349583876.branch2.	43	5	,	,	*	Jam_Bake	-	-	-	-	CL8	-	-	-	-	1_0_5
+060_950123727349583876.branch2.	43	6	I	PRP	(NP*)	Jam_Bake	representative_men	-	ppers/exophora	(11)	CLX	NP_S()	NP_L()	sbj	specific	1_0_6
+060_950123727349583876.branch2.	43	7	'm	VBP	(VP*	Jam_Bake	-	-	-	-	-	-	-	-	-	1_0_7
+060_950123727349583876.branch2.	43	8	sure	JJ	(ADJP*	Jam_Bake	-	-	-	-	-	-	-	-	-	1_0_8
+060_950123727349583876.branch2.	43	9	she	PRP	(SBAR(S(NP*)	Jam_Bake	-	-	ppers/anaphora	(12)	CL9	NP_S()	NP_L()	sbj	not_assigned	1_0_9
+060_950123727349583876.branch2.	43	10	would	MD	(VP*	Jam_Bake	-	-	-	-	-	-	-	-	-	1_0_10
+060_950123727349583876.branch2.	43	11	have	VB	(VP*	Jam_Bake	-	-	-	-	-	-	-	-	-	1_0_11
+060_950123727349583876.branch2.	43	12	been	VBN	(VP*	Jam_Bake	-	-	-	-	-	-	-	-	-	1_0_12
+060_950123727349583876.branch2.	43	13	so	RB	(ADJP*	Jam_Bake	-	-	-	-	-	-	-	-	-	1_0_13
+060_950123727349583876.branch2.	43	14	pleased	JJ	*	Jam_Bake	-	-	-	-	-	-	-	-	-	1_0_14
+060_950123727349583876.branch2.	43	15	to	TO	(S(VP*	Jam_Bake	-	-	-	-	CL10	-	-	-	-	1_0_15
+060_950123727349583876.branch2.	43	16	hear	VB	(VP*	Jam_Bake	-	-	-	-	-	-	-	-	-	1_0_16
+060_950123727349583876.branch2.	43	17	this	DT	(NP*))))))))))))	Jam_Bake	-	-	pds/anaphora	(10)	-	NP_S()	NP_L()	dir_obj	not_assigned	1_0_17
+060_950123727349583876.branch2.	43	18	!	.	*))	Jam_Bake	-	-	-	-	CL10|CL9|CLX	-	-	-	-	1_0_18
+
+060_950123727349583876.branch2.	43	0	@Jam_Bake	NNP	(ROOT(FRAG(NP*)	Iettertodaddy	-	-	-	-	-	NP_S()	NP_L()	-	-	2_0_0
+060_950123727349583876.branch2.	43	1	Thank	VB	(VP*	Iettertodaddy	-	-	-	-	CL12	-	-	-	-	2_0_1
+060_950123727349583876.branch2.	43	2	you	PRP	(S(NP*)	Iettertodaddy	-	-	ppers/anaphora	(11)	-	NP_S()	NP_L()	dir_obj	not_assigned	2_0_2
+060_950123727349583876.branch2.	43	3	%smiley	VB	(VP*)))))	Iettertodaddy	-	-	-	-	CL12	-	-	-	-	2_0_3
+
+#end document

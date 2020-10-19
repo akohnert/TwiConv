@@ -1,0 +1,85 @@
+#begin document (075_950213576840527872.branch298.); part 55
+075_950213576840527872.branch298.	55	0	CODE	NN	(ROOT(NP(NP*)	wishRBLX	representative_men	-	indefnp/none	(1009)	CL0	NP_S()	NP_L()	-	-	0_0_0
+075_950213576840527872.branch298.	55	1	OUT	NN	(NP*	wishRBLX	-	-	-	-	-	-	-	-	-	0_0_1
+075_950213576840527872.branch298.	55	2	TOMORROW	NN	*)))	wishRBLX	representative_men	-	defnp/exophora	(1008)	CL0	NP_S()	NP_L()	-	-	0_0_2
+
+075_950213576840527872.branch298.	55	0	@wishRBLX	NNP	(ROOT(NP*	Patrick_Kane__	-	-	-	-	-	NP_S()	NP_L()	-	-	1_0_0
+075_950213576840527872.branch298.	55	1	LAZY	NNP	*))	Patrick_Kane__	-	-	-	-	-	-	-	-	-	1_0_1
+
+075_950213576840527872.branch298.	55	0	@Patrick_Kane__	NN	(ROOT(FRAG(NP(NP*	FLY8NGGYARADOS	-	-	-	-	-	NP_S(	NP_L(	-	-	2_0_0
+075_950213576840527872.branch298.	55	1	@wishRBLX	NN	*	FLY8NGGYARADOS	-	-	-	-	-	)NP_S	)NP_L	-	-	2_0_1
+075_950213576840527872.branch298.	55	2	Yo	NN	*)	FLY8NGGYARADOS	-	-	-	-	CL3	-	-	-	-	2_0_2
+075_950213576840527872.branch298.	55	3	it	PRP	(SBAR(S(NP*)	FLY8NGGYARADOS	representative_men	-	ppers/non-referential_pronoun	(1002)	-	NP_S()	NP_L()	-	-	2_0_3
+075_950213576840527872.branch298.	55	4	takes	VBZ	(VP*	FLY8NGGYARADOS	-	-	-	-	-	-	-	-	-	2_0_4
+075_950213576840527872.branch298.	55	5	time	NN	(S(NP(NP*)	FLY8NGGYARADOS	representative_men	-	defnp/none	(1000)	-	NP_S()	NP_L()	-	-	2_0_5
+075_950213576840527872.branch298.	55	6	for	IN	(PP*	FLY8NGGYARADOS	-	-	-	-	-	-	-	-	-	2_0_6
+075_950213576840527872.branch298.	55	7	@wishRBLX	NN	(NP*)))	FLY8NGGYARADOS	representative_men	-	ne/none	(0)	-	NP_S()	NP_L()	prep_phrase	specific	2_0_7
+075_950213576840527872.branch298.	55	8	to	TO	(VP*	FLY8NGGYARADOS	-	-	-	-	CLX	-	-	-	-	2_0_8
+075_950213576840527872.branch298.	55	9	do	VB	(VP*	FLY8NGGYARADOS	-	-	-	-	-	-	-	-	-	2_0_9
+075_950213576840527872.branch298.	55	10	coding	VBG	(S(VP*	FLY8NGGYARADOS	representative_men	-	defnp/none	(1007)	CLX|CL3	-	-	-	-	2_0_10
+075_950213576840527872.branch298.	55	11	so	RB	(ADJP*	FLY8NGGYARADOS	-	-	-	-	CL5	-	-	-	-	2_0_11
+075_950213576840527872.branch298.	55	12	shut	VBN	*	FLY8NGGYARADOS	-	-	-	-	-	-	-	-	-	2_0_12
+075_950213576840527872.branch298.	55	13	up	RP	(PRT*)))))))))))))	FLY8NGGYARADOS	-	-	-	-	CL5	-	-	-	-	2_0_13
+
+075_950213576840527872.branch298.	55	0	@FLY8NGGYARADOS	NN	(ROOT(S(NP(NP*)	Torracat350	-	-	-	-	-	NP_S(	NP_L(	-	-	3_0_0
+075_950213576840527872.branch298.	55	1	@Patrick_Kane__	NN	(VP(NP(NP*	Torracat350	-	-	-	-	-	-	-	-	-	3_0_1
+075_950213576840527872.branch298.	55	2	@wishRBLX	NN	*)	Torracat350	-	-	-	-	-	)NP_S	)NP_L	-	-	3_0_2
+075_950213576840527872.branch298.	55	3	Yes	UH	(FRAG(INTJ*)))	Torracat350	-	-	-	-	CL7	-	-	-	-	3_0_3
+075_950213576840527872.branch298.	55	4	but	CC	(PP*	Torracat350	-	-	-	-	-	-	-	-	-	3_0_4
+075_950213576840527872.branch298.	55	5	he	PRP	(NP*))))	Torracat350	-	-	ppers/anaphora	(0)	-	NP_S()	NP_L()	sbj	not_assigned	3_0_5
+075_950213576840527872.branch298.	55	6	said	VBD	(VP*	Torracat350	-	-	-	-	-	-	-	-	-	3_0_6
+075_950213576840527872.branch298.	55	7	himself	PRP	(NP*)	Torracat350	-	-	prefl/anaphora	(0)	-	NP_S()	NP_L()	other/appositive	not_assigned	3_0_7
+075_950213576840527872.branch298.	55	8	that	IN	(SBAR*	Torracat350	-	-	-	-	CL8	-	-	-	-	3_0_8
+075_950213576840527872.branch298.	55	9	weekly	JJ	(S(NP*	Torracat350	representative_men	other	defnp/none	(1003	-	NP_S(	NP_L(	-	-	3_0_9
+075_950213576840527872.branch298.	55	10	codes	NNS	*)	Torracat350	-	-	-	1003)	-	)NP_S	)NP_L	-	-	3_0_10
+075_950213576840527872.branch298.	55	11	will	MD	(VP*	Torracat350	-	-	-	-	-	-	-	-	-	3_0_11
+075_950213576840527872.branch298.	55	12	come	VB	(VP*	Torracat350	-	-	-	-	-	-	-	-	-	3_0_12
+075_950213576840527872.branch298.	55	13	every	DT	(NP*	Torracat350	representative_men	time	indefnp/none	(1001	-	NP_S(	NP_L(	-	-	3_0_13
+075_950213576840527872.branch298.	55	14	Saturday	NNP	*)	Torracat350	-	-	-	1001)	CL7|CL8	)NP_S	)NP_L	-	-	3_0_14
+075_950213576840527872.branch298.	55	15	so	IN	(SBAR*	Torracat350	-	-	-	-	CL9	-	-	-	-	3_0_15
+075_950213576840527872.branch298.	55	16	people	NNS	(S(NP*)	Torracat350	representative_men	-	defnp/none	(1006)	-	NP_S()	NP_L()	-	-	3_0_16
+075_950213576840527872.branch298.	55	17	would	MD	(VP*	Torracat350	-	-	-	-	-	-	-	-	-	3_0_17
+075_950213576840527872.branch298.	55	18	expect	VB	(VP*	Torracat350	-	-	-	-	-	-	-	-	-	3_0_18
+075_950213576840527872.branch298.	55	19	him	PRP	(S(NP*)	Torracat350	-	-	ppers/anaphora	(0)	CL10	NP_S()	NP_L()	dir_obj	not_assigned	3_0_19
+075_950213576840527872.branch298.	55	20	to	TO	(VP*	Torracat350	-	-	-	-	-	-	-	-	-	3_0_20
+075_950213576840527872.branch298.	55	21	keep	VB	(VP*	Torracat350	-	-	-	-	-	-	-	-	-	3_0_21
+075_950213576840527872.branch298.	55	22	his	PRP$	(NP*	Torracat350	representative_men	other	ppos/anaphora|defnp/none	(0)|(1005	-	NP_S(	NP_L(	dir_obj	not_assigned	3_0_22
+075_950213576840527872.branch298.	55	23	promise	NN	*)))))))))))))))	Torracat350	-	-	-	1005)	CL10|CL9	)NP_S	)NP_L	-	-	3_0_23
+
+075_950213576840527872.branch298.	55	0	@Torracat350	NN	(ROOT(FRAG(NP(NP*	FLY8NGGYARADOS	-	-	-	-	-	NP_S(	NP_L(	-	-	4_0_0
+075_950213576840527872.branch298.	55	1	@Patrick_Kane__	NN	*	FLY8NGGYARADOS	-	-	-	-	-	-	-	-	-	4_0_1
+075_950213576840527872.branch298.	55	2	@wishRBLX	NN	*)	FLY8NGGYARADOS	-	-	-	-	-	)NP_S	)NP_L	-	-	4_0_2
+075_950213576840527872.branch298.	55	3	We	PRP	(SBAR(S(NP*)	FLY8NGGYARADOS	representative_men	-	ppers/exophora	(1004)	CL12	NP_S()	NP_L()	-	-	4_0_3
+075_950213576840527872.branch298.	55	4	can	MD	(VP*	FLY8NGGYARADOS	-	-	-	-	-	-	-	-	-	4_0_4
+075_950213576840527872.branch298.	55	5	wait	VB	(VP*)))))))	FLY8NGGYARADOS	-	-	-	-	CL12	-	-	-	-	4_0_5
+
+075_950213576840527872.branch298.	55	0	@FLY8NGGYARADOS	NN	(ROOT(FRAG(NP(NP*	Torracat350	-	-	-	-	-	NP_S(	NP_L(	-	-	5_0_0
+075_950213576840527872.branch298.	55	1	@Patrick_Kane__	NN	*	Torracat350	-	-	-	-	-	-	-	-	-	5_0_1
+075_950213576840527872.branch298.	55	2	@wishRBLX	NN	*)	Torracat350	-	-	-	-	-	)NP_S	)NP_L	-	-	5_0_2
+075_950213576840527872.branch298.	55	3	I	PRP	(SBAR(S(NP*)	Torracat350	representative_men	-	ppers/exophora	(1)	CL14	NP_S()	NP_L()	sbj	specific	5_0_3
+075_950213576840527872.branch298.	55	4	hope	VBP	(VP*	Torracat350	-	-	-	-	-	-	-	-	-	5_0_4
+075_950213576840527872.branch298.	55	5	so	IN	(ADVP*)))))))	Torracat350	-	-	-	-	CL14	-	-	-	-	5_0_5
+
+075_950213576840527872.branch298.	55	0	@Torracat350	NN	(ROOT(FRAG(NP(NP*	FLY8NGGYARADOS	-	-	-	-	-	NP_S(	NP_L(	-	-	6_0_0
+075_950213576840527872.branch298.	55	1	@Patrick_Kane__	NN	*	FLY8NGGYARADOS	-	-	-	-	-	-	-	-	-	6_0_1
+075_950213576840527872.branch298.	55	2	@wishRBLX	NN	*)	FLY8NGGYARADOS	-	-	-	-	-	)NP_S	)NP_L	-	-	6_0_2
+075_950213576840527872.branch298.	55	3	I	PRP	(SBAR(S(NP*)	FLY8NGGYARADOS	representative_men	-	ppers/exophora	(2)	CL16	NP_S()	NP_L()	sbj	specific	6_0_3
+075_950213576840527872.branch298.	55	4	can	MD	(VP*))))))	FLY8NGGYARADOS	-	-	-	-	CL16	-	-	-	-	6_0_4
+
+075_950213576840527872.branch298.	55	0	@FLY8NGGYARADOS	NN	(ROOT(FRAG(NP(NP*	Torracat350	-	-	-	-	-	NP_S(	NP_L(	-	-	7_0_0
+075_950213576840527872.branch298.	55	1	@Patrick_Kane__	NN	*	Torracat350	-	-	-	-	-	-	-	-	-	7_0_1
+075_950213576840527872.branch298.	55	2	@wishRBLX	NN	*)	Torracat350	-	-	-	-	-	)NP_S	)NP_L	-	-	7_0_2
+075_950213576840527872.branch298.	55	3	I	PRP	(SBAR(S(NP*)	Torracat350	-	-	ppers/anaphora	(1)	CL18	NP_S()	NP_L()	sbj	not_assigned	7_0_3
+075_950213576840527872.branch298.	55	4	ca	MD	(VP*	Torracat350	-	-	-	-	-	-	-	-	-	7_0_4
+075_950213576840527872.branch298.	55	5	n't	RB	*))))))	Torracat350	-	-	-	-	CL18	-	-	-	-	7_0_5
+
+075_950213576840527872.branch298.	55	0	Jks	NNS	(ROOT(FRAG(NP(NP*)	Torracat350	-	-	-	-	CL19	-	-	-	-	7_1_0
+075_950213576840527872.branch298.	55	1	I	PRP	(SBAR(S(NP*)	Torracat350	-	-	ppers/anaphora	(2)	-	NP_S()	NP_L()	sbj	not_assigned	7_1_1
+075_950213576840527872.branch298.	55	2	can	MD	(VP*))))))	Torracat350	-	-	-	-	CL19	-	-	-	-	7_1_2
+
+075_950213576840527872.branch298.	55	0	@Torracat350	NN	(ROOT(FRAG(NP*	%UsernameMissing	-	-	-	-	-	NP_S(	NP_L(	-	-	8_0_0
+075_950213576840527872.branch298.	55	1	@Patrick_Kane__	NN	*	%UsernameMissing	-	-	-	-	-	-	-	-	-	8_0_1
+075_950213576840527872.branch298.	55	2	@wishRBLX	NN	*	%UsernameMissing	-	-	-	-	-	)NP_S	)NP_L	-	-	8_0_2
+075_950213576840527872.branch298.	55	3	Idc	NN	*)))	%UsernameMissing	-	-	-	-	CL21|CL21	-	-	-	-	8_0_3
+
+#end document

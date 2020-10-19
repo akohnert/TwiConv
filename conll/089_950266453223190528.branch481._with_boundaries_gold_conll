@@ -1,0 +1,76 @@
+#begin document (089_950266453223190528.branch481.); part 68
+089_950266453223190528.branch481.	68	0	everyone	NN	(ROOT(FRAG(NP*)	BeautyChickee	representative_men	-	indefnp/none	(1005)	CL0	NP_S()	NP_L()	-	-	0_0_0
+089_950266453223190528.branch481.	68	1	tweet	VB	(VP*	BeautyChickee	-	-	-	-	-	-	-	-	-	0_0_1
+089_950266453223190528.branch481.	68	2	me	PRP	(S(NP*)	BeautyChickee	representative_men	-	ppers/exophora	(5)	-	NP_S()	NP_L()	dir_obj	specific	0_0_2
+089_950266453223190528.branch481.	68	3	a	DT	(NP(NP*	BeautyChickee	representative_men|representative_men	other|other	indefnp/none|indefnp/none	(1003|(1006	-	NP_S(	NP_L(	-	-	0_0_3
+089_950266453223190528.branch481.	68	4	confession	NN	*)	BeautyChickee	-	-	-	1003)	-	)NP_S	-	-	-	0_0_4
+089_950266453223190528.branch481.	68	5	or	CC	*	BeautyChickee	-	-	-	-	-	-	-	-	-	0_0_5
+089_950266453223190528.branch481.	68	6	a	DT	(NP*	BeautyChickee	representative_men	other	indefnp/none	(1002	-	NP_S(	-	-	-	0_0_6
+089_950266453223190528.branch481.	68	7	secret	JJ	*	BeautyChickee	-	-	-	1002)|1006)	-	)NP_S	)NP_L	-	-	0_0_7
+089_950266453223190528.branch481.	68	8	right	NN	*)))	BeautyChickee	representative_men	time	defnp/exophora	(1007	-	-	-	-	-	0_0_8
+089_950266453223190528.branch481.	68	9	now	RB	(ADVP*))))	BeautyChickee	-	-	-	1007)	CL0	-	-	-	-	0_0_9
+
+089_950266453223190528.branch481.	68	0	@BeautyChickee	NN	(ROOT(NP(NP*)	knjers	-	-	-	-	-	NP_S()	NP_L()	-	-	1_0_0
+089_950266453223190528.branch481.	68	1	i	FW	(NP*	knjers	representative_men	-	ppers/exophora	(4)	CL1	NP_S()	NP_L()	sbj	specific	1_0_1
+089_950266453223190528.branch481.	68	2	h8	FW	*)	knjers	-	-	-	-	-	-	-	-	-	1_0_2
+089_950266453223190528.branch481.	68	3	myself	PRP	(NP*)))	knjers	-	-	prefl/anaphora	(4)	CL1	NP_S()	NP_L()	dir_obj	not_assigned	1_0_3
+
+089_950266453223190528.branch481.	68	0	@knjers	NNS	(ROOT(S(NP(NP*)	skylovesknj	-	-	-	-	-	NP_S(	NP_L(	-	-	2_0_0
+089_950266453223190528.branch481.	68	1	@BeautyChickee	NN	(NP*	skylovesknj	-	-	-	-	-	)NP_S	)NP_L	-	-	2_0_1
+089_950266453223190528.branch481.	68	2	u	NN	*))	skylovesknj	-	-	ppers/anaphora	(4)	CL2	NP_S()	NP_L()	sbj	not_assigned	2_0_2
+089_950266453223190528.branch481.	68	3	came	VBD	(VP*	skylovesknj	-	-	-	-	-	-	-	-	-	2_0_3
+089_950266453223190528.branch481.	68	4	here	RB	(ADVP*)	skylovesknj	representative_men	-	padv/exophora	(1000)	CL2	-	-	-	-	2_0_4
+089_950266453223190528.branch481.	68	5	after	IN	(PP*	skylovesknj	-	-	-	-	CLX	-	-	-	-	2_0_5
+089_950266453223190528.branch481.	68	6	i	FW	(NP(NP*	skylovesknj	representative_men	-	ppers/exophora	(3)	-	NP_S()	NP_L()	sbj	specific	2_0_6
+089_950266453223190528.branch481.	68	7	rted	FW	*)	skylovesknj	-	-	-	-	-	-	-	-	-	2_0_7
+089_950266453223190528.branch481.	68	8	huh	NN	(NP*))))	skylovesknj	-	-	-	-	-	-	-	-	-	2_0_8
+089_950266453223190528.branch481.	68	9	?	.	*))	skylovesknj	-	-	-	-	CLX	-	-	-	-	2_0_9
+
+089_950266453223190528.branch481.	68	0	@skylovesknj	NN	(ROOT(S(NP(NP*	knjers	-	-	-	-	-	NP_S(	NP_L(	-	-	3_0_0
+089_950266453223190528.branch481.	68	1	@BeautyChickee	NN	*)	knjers	-	-	-	-	-	)NP_S	)NP_L	-	-	3_0_1
+089_950266453223190528.branch481.	68	2	i	FW	(SBAR(S(NP*)	knjers	-	-	ppers/anaphora	(4)	CL4	NP_S()	NP_L()	sbj	not_assigned	3_0_2
+089_950266453223190528.branch481.	68	3	follow	VB	(VP*	knjers	-	-	-	-	-	-	-	-	-	3_0_3
+089_950266453223190528.branch481.	68	4	her	PRP$	(NP*)	knjers	-	-	ppers/anaphora	(5)	CL4	NP_S()	NP_L()	dir_obj	not_assigned	3_0_4
+089_950266453223190528.branch481.	68	5	but	CC	(PP*	knjers	-	-	-	-	CLX	-	-	-	-	3_0_5
+089_950266453223190528.branch481.	68	6	yeah	JJ	(NP*	knjers	-	-	-	-	-	-	-	-	-	3_0_6
+089_950266453223190528.branch481.	68	7	i	FW	*))))))	knjers	-	-	ppers/anaphora	(4)	-	NP_S()	NP_L()	sbj	not_assigned	3_0_7
+089_950266453223190528.branch481.	68	8	saw	VBD	(VP*	knjers	-	-	-	-	-	-	-	-	-	3_0_8
+089_950266453223190528.branch481.	68	9	the	DT	(NP(NP*	knjers	representative_men	other	defnp/none	(1008	-	NP_S(	NP_L(	-	-	3_0_9
+089_950266453223190528.branch481.	68	10	tweet	NN	*	knjers	-	-	-	1008)	-	)NP_S	)NP_L	-	-	3_0_10
+089_950266453223190528.branch481.	68	11	bc	NN	*)	knjers	-	-	-	-	-	-	-	-	-	3_0_11
+089_950266453223190528.branch481.	68	12	of	IN	(PP*	knjers	-	-	-	-	-	-	-	-	-	3_0_12
+089_950266453223190528.branch481.	68	13	u	NN	(NP*))))))	knjers	-	-	ppers/anaphora	(3)	CLX	NP_S()	NP_L()	prep_phrase	not_assigned	3_0_13
+
+089_950266453223190528.branch481.	68	0	@knjers	NNS	(ROOT(S(NP*)	skylovesknj	-	-	-	-	-	NP_S(	NP_L(	-	-	4_0_0
+089_950266453223190528.branch481.	68	1	@BeautyChickee	VBP	(VP*	skylovesknj	-	-	-	-	-	)NP_S	)NP_L	-	-	4_0_1
+089_950266453223190528.branch481.	68	2	ur	NN	(S(NP*)	skylovesknj	-	-	ppers/anaphora	(4)	CL5	NP_S()	NP_L()	sbj	not_assigned	4_0_2
+089_950266453223190528.branch481.	68	3	a	DT	(NP*	skylovesknj	representative_men	other	indefnp/none	(2	-	NP_S(	NP_L(	dir_obj	generic	4_0_3
+089_950266453223190528.branch481.	68	4	chicken	NN	*)))	skylovesknj	-	-	-	2)	-	)NP_S	)NP_L	-	-	4_0_4
+089_950266453223190528.branch481.	68	5	?	.	*))	skylovesknj	-	-	-	-	CL5	-	-	-	-	4_0_5
+
+089_950266453223190528.branch481.	68	0	@knjers	NNS	(ROOT(NP(NP*)	skylovesknj	-	-	-	-	-	NP_S(	NP_L(	-	-	5_0_0
+089_950266453223190528.branch481.	68	1	@BeautyChickee	NNP	(NP(NP*	skylovesknj	-	-	-	-	-	)NP_S	)NP_L	-	-	5_0_1
+089_950266453223190528.branch481.	68	2	CHICKEN	NNP	*	skylovesknj	-	-	indefnp/none	(2)	CL6	-	-	other/other	not_assigned	5_0_2
+089_950266453223190528.branch481.	68	3	HAHHAHA	NNP	*)	skylovesknj	-	-	-	-	-	-	-	-	-	5_0_3
+089_950266453223190528.branch481.	68	4	I	PRP	(NP*))	skylovesknj	-	-	ppers/anaphora	(3)	-	NP_S()	NP_L()	sbj	not_assigned	5_0_4
+089_950266453223190528.branch481.	68	5	MWANT	JJ	(NP*	skylovesknj	-	-	-	-	-	-	-	-	-	5_0_5
+089_950266453223190528.branch481.	68	6	CHICKEE	NN	*)))	skylovesknj	representative_men	-	ne/none	(1004)	CL6	NP_S()	NP_L()	-	-	5_0_6
+
+089_950266453223190528.branch481.	68	0	@skylovesknj	NN	(ROOT(FRAG(NP*	knjers	-	-	-	-	-	NP_S(	NP_L(	-	-	6_0_0
+089_950266453223190528.branch481.	68	1	@BeautyChickee	NN	*)	knjers	-	-	-	-	-	)NP_S	)NP_L	-	-	6_0_1
+089_950266453223190528.branch481.	68	2	yes	RB	(ADJP*	knjers	-	-	-	-	CL8	-	-	-	-	6_0_2
+089_950266453223190528.branch481.	68	3	i	FW	(SBAR(S(NP*)	knjers	-	-	ppers/anaphora	(4)	-	NP_S()	NP_L()	sbj	not_assigned	6_0_3
+089_950266453223190528.branch481.	68	4	'm	VBP	(VP*	knjers	-	-	-	-	-	-	-	-	-	6_0_4
+089_950266453223190528.branch481.	68	5	a	DT	(NP*	knjers	-	-	indefnp/none	(2	-	NP_S(	NP_L(	copula_rel	not_assigned	6_0_5
+089_950266453223190528.branch481.	68	6	chicken	NN	*)))))))	knjers	-	-	-	2)	CL8	)NP_S	)NP_L	-	-	6_0_6
+
+089_950266453223190528.branch481.	68	0	@knjers	NNS	(ROOT(S(NP*)	fransdisney	-	-	-	-	-	NP_S(	NP_L(	-	-	7_0_0
+089_950266453223190528.branch481.	68	1	@skylovesknj	VBP	(VP*	fransdisney	-	-	-	-	-	-	-	-	-	7_0_1
+089_950266453223190528.branch481.	68	2	@BeautyChickee	NN	(S(NP*)	fransdisney	-	-	-	-	-	)NP_S	)NP_L	-	-	7_0_2
+089_950266453223190528.branch481.	68	3	i	FW	(NP(NP*)	fransdisney	representative_men	-	ppers/exophora	(1001)	CL9	NP_S()	NP_L()	-	-	7_0_3
+089_950266453223190528.branch481.	68	4	thought	VBN	(VP*	fransdisney	-	-	-	-	-	-	-	-	-	7_0_4
+089_950266453223190528.branch481.	68	5	you	PRP	(SBAR(S(NP*)	fransdisney	-	-	ppers/anaphora	(4)	CL10	NP_S()	NP_L()	sbj	not_assigned	7_0_5
+089_950266453223190528.branch481.	68	6	were	VBD	(VP*	fransdisney	-	-	-	-	-	-	-	-	-	7_0_6
+089_950266453223190528.branch481.	68	7	american	NN	(NP*))))))))))	fransdisney	-	-	-	-	CL9|CL10	-	-	-	-	7_0_7
+
+#end document

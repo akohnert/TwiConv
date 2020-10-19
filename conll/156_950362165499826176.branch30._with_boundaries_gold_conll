@@ -1,0 +1,78 @@
+#begin document (156_950362165499826176.branch30.); part 123
+156_950362165499826176.branch30.	123	0	Agree	VB	(ROOT(SINV(VP*	MockingTheDraft	-	-	-	-	-	-	-	-	-	0_0_0
+156_950362165499826176.branch30.	123	1	or	CC	(NP(SBAR(FRAG*	MockingTheDraft	-	-	-	-	CL1	-	-	-	-	0_0_1
+156_950362165499826176.branch30.	123	2	disagree	VB	(VP*)	MockingTheDraft	-	-	-	-	-	-	-	-	-	0_0_2
+156_950362165499826176.branch30.	123	3	?	.	*))))	MockingTheDraft	-	-	-	-	CL1	-	-	-	-	0_0_3
+156_950362165499826176.branch30.	123	4	https://t.co/kbgl85I7Fp	NN	(NP*)))	MockingTheDraft	-	-	-	-	-	-	-	-	-	0_0_4
+
+156_950362165499826176.branch30.	123	0	@MockingTheDraft	NN	(ROOT(S(NP(NP*	ChrisJBSnow	-	-	-	-	-	NP_S()	NP_L()	-	-	1_0_0
+156_950362165499826176.branch30.	123	1	Agree	NN	*)	ChrisJBSnow	-	-	-	-	CL2	-	-	-	-	1_0_1
+156_950362165499826176.branch30.	123	2	,	,	*	ChrisJBSnow	-	-	-	-	CL2	-	-	-	-	1_0_2
+156_950362165499826176.branch30.	123	3	height	NN	(NP*))	ChrisJBSnow	representative_men	-	defnp/none	(1000)	CLX	NP_S()	NP_L()	-	-	1_0_3
+156_950362165499826176.branch30.	123	4	would	MD	(VP*	ChrisJBSnow	-	-	-	-	-	-	-	-	-	1_0_4
+156_950362165499826176.branch30.	123	5	be	VB	(VP*	ChrisJBSnow	-	-	-	-	-	-	-	-	-	1_0_5
+156_950362165499826176.branch30.	123	6	a	DT	(NP*	ChrisJBSnow	representative_men	other	indefnp/none	(1001	-	NP_S(	NP_L(	-	-	1_0_6
+156_950362165499826176.branch30.	123	7	major	JJ	*	ChrisJBSnow	-	-	-	-	-	-	-	-	-	1_0_7
+156_950362165499826176.branch30.	123	8	issue	NN	*)))	ChrisJBSnow	-	-	-	1001)	-	)NP_S	)NP_L	-	-	1_0_8
+156_950362165499826176.branch30.	123	9	.	.	*))	ChrisJBSnow	-	-	-	-	CLX	-	-	-	-	1_0_9
+
+156_950362165499826176.branch30.	123	0	@ChrisJBSnow	NN	(ROOT(FRAG(NP(NP*	cmilner2	-	-	-	-	-	NP_S(	NP_L(	-	-	2_0_0
+156_950362165499826176.branch30.	123	1	@MockingTheDraft	NN	*)	cmilner2	-	-	-	-	-	)NP_S	)NP_L	-	-	2_0_1
+156_950362165499826176.branch30.	123	2	He	PRP	(SBAR(S(NP*)	cmilner2	representative_men	-	ppers/exophora	(0)	CL4	NP_S()	NP_L()	sbj	specific	2_0_2
+156_950362165499826176.branch30.	123	3	's	VBZ	(VP*	cmilner2	-	-	-	-	-	-	-	-	-	2_0_3
+156_950362165499826176.branch30.	123	4	6	CD	(NP(NP*)	cmilner2	-	-	-	-	-	NP_S()	NP_L(	-	-	2_0_4
+156_950362165499826176.branch30.	123	5	'	''	(VP*	cmilner2	-	-	-	-	-	-	-	-	-	2_0_5
+156_950362165499826176.branch30.	123	6	3	CD	(NP-TMP*)))))))))	cmilner2	-	-	-	-	CL4	NP_S()	)NP_L	-	-	2_0_6
+
+156_950362165499826176.branch30.	123	0	@cmilner2	NN	(ROOT(S(NP*	ChrisJBSnow	-	-	-	-	-	NP_S(	NP_L(	-	-	3_0_0
+156_950362165499826176.branch30.	123	1	@MockingTheDraft	NN	*	ChrisJBSnow	-	-	-	-	-	)NP_S	)NP_L	-	-	3_0_1
+156_950362165499826176.branch30.	123	2	Hmm	NN	*)	ChrisJBSnow	-	-	-	-	CL5	-	-	-	-	3_0_2
+156_950362165499826176.branch30.	123	3	,	,	*	ChrisJBSnow	-	-	-	-	-	-	-	-	-	3_0_3
+156_950362165499826176.branch30.	123	4	should	MD	(VP*	ChrisJBSnow	-	-	-	-	-	-	-	-	-	3_0_4
+156_950362165499826176.branch30.	123	5	be	VB	(VP*	ChrisJBSnow	-	-	-	-	-	-	-	-	-	3_0_5
+156_950362165499826176.branch30.	123	6	a	DT	(NP*	ChrisJBSnow	representative_men	other	indefnp/none	(1005	-	NP_S(	NP_L(	-	-	3_0_6
+156_950362165499826176.branch30.	123	7	consideration	NN	*)	ChrisJBSnow	-	-	-	1005)	-	)NP_S	)NP_L	-	-	3_0_7
+156_950362165499826176.branch30.	123	8	then	RB	(ADVP*)))	ChrisJBSnow	-	-	-	-	-	-	-	-	-	3_0_8
+156_950362165499826176.branch30.	123	9	.	.	*))	ChrisJBSnow	-	-	-	-	CL5	-	-	-	-	3_0_9
+
+156_950362165499826176.branch30.	123	0	Lets	VBZ	(ROOT(S(VP*	ChrisJBSnow	-	-	-	-	CL6	-	-	-	-	3_1_0
+156_950362165499826176.branch30.	123	1	see	VB	(VP*	ChrisJBSnow	-	-	-	-	-	-	-	-	-	3_1_1
+156_950362165499826176.branch30.	123	2	what	WP	(UCP(SBAR(WHNP*)	ChrisJBSnow	representative_men	-	prel/none	(1004)	CL7	-	-	-	-	3_1_2
+156_950362165499826176.branch30.	123	3	happens	VBZ	(S(VP*	ChrisJBSnow	-	-	-	-	-	-	-	-	-	3_1_3
+156_950362165499826176.branch30.	123	4	at	IN	(SBAR(S(NP*	ChrisJBSnow	-	-	-	-	-	NP_S(	NP_L(	-	-	3_1_4
+156_950362165499826176.branch30.	123	5	the	DT	*)	ChrisJBSnow	representative_men	other	defnp/none	(1003	-	)NP_S	)NP_L	-	-	3_1_5
+156_950362165499826176.branch30.	123	6	combine	VBP	(VP*))))))	ChrisJBSnow	-	-	-	1003)	-	-	-	-	-	3_1_6
+156_950362165499826176.branch30.	123	7	and	CC	*	ChrisJBSnow	-	-	-	-	-	-	-	-	-	3_1_7
+156_950362165499826176.branch30.	123	8	in	IN	(PP*	ChrisJBSnow	-	-	-	-	-	-	-	-	-	3_1_8
+156_950362165499826176.branch30.	123	9	the	DT	(NP*	ChrisJBSnow	representative_men	loc	defnp/none	(1002	-	NP_S(	NP_L(	-	-	3_1_9
+156_950362165499826176.branch30.	123	10	meeting	NN	*	ChrisJBSnow	-	-	-	-	-	-	-	-	-	3_1_10
+156_950362165499826176.branch30.	123	11	rooms	NNS	*)))))	ChrisJBSnow	-	-	-	1002)	CL7	)NP_S	)NP_L	-	-	3_1_11
+156_950362165499826176.branch30.	123	12	.	.	*))	ChrisJBSnow	-	-	-	-	CL6	-	-	-	-	3_1_12
+
+156_950362165499826176.branch30.	123	0	@ChrisJBSnow	NN	(ROOT(S(NP(NP*	bdbsport	-	-	-	-	-	NP_S(	NP_L(	-	-	4_0_0
+156_950362165499826176.branch30.	123	1	@cmilner2	NN	*	bdbsport	-	-	-	-	-	-	-	-	-	4_0_1
+156_950362165499826176.branch30.	123	2	@MockingTheDraft	NN	*)	bdbsport	-	-	-	-	-	)NP_S	)NP_L	-	-	4_0_2
+156_950362165499826176.branch30.	123	3	I	PRP	(SBAR(S(NP*)	bdbsport	representative_men	-	ppers/exophora	(1)	CL10	NP_S()	NP_L()	sbj	specific	4_0_3
+156_950362165499826176.branch30.	123	4	'm	VBP	(VP*	bdbsport	-	-	-	-	-	-	-	-	-	4_0_4
+156_950362165499826176.branch30.	123	5	not	RB	*	bdbsport	-	-	-	-	-	-	-	-	-	4_0_5
+156_950362165499826176.branch30.	123	6	saying	VBG	(VP*	bdbsport	-	-	-	-	-	-	-	-	-	4_0_6
+156_950362165499826176.branch30.	123	7	anything	NN	(NP*)	bdbsport	representative_men	-	indefnp/none	(1007)	CL10	NP_S()	NP_L()	-	-	4_0_7
+156_950362165499826176.branch30.	123	8	until	IN	(PP*	bdbsport	-	-	-	-	CL9	-	-	-	-	4_0_8
+156_950362165499826176.branch30.	123	9	I	PRP	(NP*)))))))	bdbsport	-	-	ppers/anaphora	(1)	-	NP_S()	NP_L()	sbj	not_assigned	4_0_9
+156_950362165499826176.branch30.	123	10	hear	VBP	(VP*	bdbsport	-	-	-	-	-	-	-	-	-	4_0_10
+156_950362165499826176.branch30.	123	11	his	PRP$	(NP*	bdbsport	representative_men	other	ppos/anaphora|defnp/none	(0)|(1006	-	NP_S(	NP_L(	dir_obj	not_assigned	4_0_11
+156_950362165499826176.branch30.	123	12	hand	NN	*	bdbsport	-	-	-	-	-	-	-	-	-	4_0_12
+156_950362165499826176.branch30.	123	13	size	NN	*))	bdbsport	-	-	-	1006)	-	)NP_S	)NP_L	-	-	4_0_13
+156_950362165499826176.branch30.	123	14	.	.	*))	bdbsport	-	-	-	-	CL9	-	-	-	-	4_0_14
+
+156_950362165499826176.branch30.	123	0	@bdbsport	NN	(ROOT(S(NP*	cmilner2	-	-	-	-	-	NP_S(	NP_L(	-	-	5_0_0
+156_950362165499826176.branch30.	123	1	@ChrisJBSnow	NN	*	cmilner2	-	-	-	-	-	-	-	-	-	5_0_1
+156_950362165499826176.branch30.	123	2	@MockingTheDraft	NN	*)	cmilner2	-	-	-	-	-	)NP_S	)NP_L	-	-	5_0_2
+156_950362165499826176.branch30.	123	3	Will	MD	(VP*	cmilner2	-	-	-	-	CL11	-	-	-	-	5_0_3
+156_950362165499826176.branch30.	123	4	be	VB	(VP*	cmilner2	-	-	-	-	-	-	-	-	-	5_0_4
+156_950362165499826176.branch30.	123	5	interesting	JJ	(ADJP*	cmilner2	-	-	-	-	-	-	-	-	-	5_0_5
+156_950362165499826176.branch30.	123	6	to	TO	(S(VP*	cmilner2	-	-	-	-	CL12	-	-	-	-	5_0_6
+156_950362165499826176.branch30.	123	7	find	VB	(VP*	cmilner2	-	-	-	-	-	-	-	-	-	5_0_7
+156_950362165499826176.branch30.	123	8	out	RP	(PRT*)))))))))	cmilner2	-	-	-	-	CL11|CL12	-	-	-	-	5_0_8
+
+#end document
