@@ -5,8 +5,8 @@ This is an instruction on how to reproduce the TwiCon Corpus as described in (TO
 ### Required
 - CoNLL skeleton files in which the words and tweet authors are anonymized (one file for each conversation/thread, provided in ``conll_skeleton``)
 - files with token differences to re-create the tokenization (one file per tweet, provided in ``diff``)
-- text files containing the message of each tweet. The tweets can be found and downloaded via their tweet ID (all IDs are listed in ``tweet_ids.txt``).
-- text files containing the author of each tweet (this is just one word per file, the username). The author can also be made available via the tweet ID.
+- text files containing the message of each tweet. The tweets can be downloaded via their tweet ID through the Twitter API (all IDs are listed in ``tweet_ids.txt``).
+- text files containing the author of each tweet (this is just one word per file, the username). The author can also be downloaded via the tweet ID.
 
 ### Make CoNLL-format files
 
@@ -45,6 +45,7 @@ As a final step, running ``python make_conll.py <PATH TO TWEET TEXT FILES> <PATH
 ### The CoNLL format
 
 The CoNLL format is inspired by the original CoNLL-2012 format with some additional annotations.
+Empty lines indicate sentence breaks.
 
 ```
 COLUMN	CONTENT
