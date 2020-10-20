@@ -1,0 +1,101 @@
+#begin document (064_950155108834308097.branch1.); part 45
+064_950155108834308097.branch1.	45	0	I	PRP	(ROOT(SINV(ADVP*	consbyname	representative_men	-	ppers/exophora	(1002)	CL0	NP_S()	NP_L()	-	-	0_0_0
+064_950155108834308097.branch1.	45	1	so	RB	*)	consbyname	-	-	-	-	-	-	-	-	-	0_0_1
+064_950155108834308097.branch1.	45	2	hope	VBP	(VP*	consbyname	-	-	-	-	-	-	-	-	-	0_0_2
+064_950155108834308097.branch1.	45	3	that	DT	(SBAR(S(NP*)	consbyname	-	-	pds/exophora	(1)	CL1	NP_S()	NP_L()	sbj	not_assigned	0_0_3
+064_950155108834308097.branch1.	45	4	's	VBZ	(VP*	consbyname	-	-	-	-	-	-	-	-	-	0_0_4
+064_950155108834308097.branch1.	45	5	true	JJ	(ADJP*))	consbyname	-	-	-	-	-	-	-	-	-	0_0_5
+064_950155108834308097.branch1.	45	6	.	.	*)))	consbyname	-	-	-	-	CL1|CL0	-	-	-	-	0_0_6
+064_950155108834308097.branch1.	45	7	https://t.co/XGN4s9U0nM	NN	(NP*)))	consbyname	-	-	-	-	-	-	-	-	-	0_0_7
+
+064_950155108834308097.branch1.	45	0	@consbyname	JJ	(ROOT(S(ADVP(NP*	HetdoxEconomics	-	-	-	-	-	NP_S()	NP_L()	-	-	1_0_0
+064_950155108834308097.branch1.	45	1	https://t.co/JioNf5zcx5	NN	*)	HetdoxEconomics	-	-	-	-	-	-	-	-	-	1_0_1
+064_950155108834308097.branch1.	45	2	Sadly	RB	*)	HetdoxEconomics	-	-	-	-	CL2	-	-	-	-	1_0_2
+064_950155108834308097.branch1.	45	3	it	PRP	(NP*)	HetdoxEconomics	-	-	ppers/anaphora	(1)	-	NP_S()	NP_L()	sbj	not_assigned	1_0_3
+064_950155108834308097.branch1.	45	4	is	VBZ	(VP*	HetdoxEconomics	-	-	-	-	-	-	-	-	-	1_0_4
+064_950155108834308097.branch1.	45	5	untrue	JJ	(ADJP*))	HetdoxEconomics	-	-	-	-	-	-	-	-	-	1_0_5
+064_950155108834308097.branch1.	45	6	.	.	*))	HetdoxEconomics	-	-	-	-	CL2	-	-	-	-	1_0_6
+
+064_950155108834308097.branch1.	45	0	I	PRP	(ROOT(S(NP*)	HetdoxEconomics	representative_men	-	ppers/exophora	(6)	CL3	NP_S()	NP_L()	sbj	specific	1_1_0
+064_950155108834308097.branch1.	45	1	got	VBD	(VP*	HetdoxEconomics	-	-	-	-	-	-	-	-	-	1_1_1
+064_950155108834308097.branch1.	45	2	the	DT	(NP*	HetdoxEconomics	representative_men	other	defnp/none	(1	-	NP_S(	NP_L(	dir_obj	specific	1_1_2
+064_950155108834308097.branch1.	45	3	story	NN	*)	HetdoxEconomics	-	-	-	1)	-	)NP_S	)NP_L	-	-	1_1_3
+064_950155108834308097.branch1.	45	4	from	IN	(PP*	HetdoxEconomics	-	-	-	-	-	-	-	-	-	1_1_4
+064_950155108834308097.branch1.	45	5	Michael	NNP	(NP*	HetdoxEconomics	representative_men	human	ne/none	(3	-	NP_S(	NP_L(	prep_phrase	specific	1_1_5
+064_950155108834308097.branch1.	45	6	Hudson	NNP	*))	HetdoxEconomics	-	-	-	3)	CL3	)NP_S	)NP_L	-	-	1_1_6
+064_950155108834308097.branch1.	45	7	so	IN	(SBAR*	HetdoxEconomics	-	-	-	-	CL4	-	-	-	-	1_1_7
+064_950155108834308097.branch1.	45	8	I	PRP	(S(NP*)	HetdoxEconomics	-	-	ppers/anaphora	(6)	-	NP_S()	NP_L()	sbj	not_assigned	1_1_8
+064_950155108834308097.branch1.	45	9	took	VBD	(VP*	HetdoxEconomics	-	-	-	-	-	-	-	-	-	1_1_9
+064_950155108834308097.branch1.	45	10	it	PRP	(NP*)	HetdoxEconomics	-	-	ppers/anaphora	(1)	-	NP_S()	NP_L()	dir_obj	not_assigned	1_1_10
+064_950155108834308097.branch1.	45	11	on	IN	(PP*	HetdoxEconomics	-	-	-	-	-	-	-	-	-	1_1_11
+064_950155108834308097.branch1.	45	12	faith	NN	(NP*))))))))	HetdoxEconomics	-	-	-	-	CL4	NP_S()	NP_L()	-	-	1_1_12
+
+064_950155108834308097.branch1.	45	0	@HetdoxEconomics	NNS	(ROOT(S(NP*)	ProfSteveKeen	-	-	-	-	-	NP_S(	NP_L(	-	-	2_0_0
+064_950155108834308097.branch1.	45	1	@consbyname	VBP	(VP*	ProfSteveKeen	-	-	-	-	-	)NP_S	)NP_L	-	-	2_0_1
+064_950155108834308097.branch1.	45	2	My	PRP$	(NP(NP*	ProfSteveKeen	representative_men	-	defnp/none|ppos/exophora	(3|(1001)	CL5	NP_S(	NP_L(	other/appositive	not_assigned	2_0_2
+064_950155108834308097.branch1.	45	3	good	JJ	*	ProfSteveKeen	-	-	-	-	-	-	-	-	-	2_0_3
+064_950155108834308097.branch1.	45	4	mate	NN	*)	ProfSteveKeen	-	-	-	3)	-	)NP_S	)NP_L	-	-	2_0_4
+064_950155108834308097.branch1.	45	5	Michael	NNP	(SBAR(S(NP*	ProfSteveKeen	-	-	ne/none	(3	-	NP_S(	NP_L(	sbj	not_assigned	2_0_5
+064_950155108834308097.branch1.	45	6	Hudson	NNP	*)	ProfSteveKeen	-	-	-	3)	-	)NP_S	)NP_L	-	-	2_0_6
+064_950155108834308097.branch1.	45	7	does	VBZ	(VP*	ProfSteveKeen	-	-	-	-	-	-	-	-	-	2_0_7
+064_950155108834308097.branch1.	45	8	occasionally	RB	(ADVP*)	ProfSteveKeen	-	-	-	-	-	-	-	-	-	2_0_8
+064_950155108834308097.branch1.	45	9	get	VB	(VP*	ProfSteveKeen	-	-	-	-	-	-	-	-	-	2_0_9
+064_950155108834308097.branch1.	45	10	anecdotes	NNS	(NP(NP(NP*)	ProfSteveKeen	representative_men	-	defnp/none	(4)	-	NP_S()	NP_L()	dir_obj	generic	2_0_10
+064_950155108834308097.branch1.	45	11	confused	VBN	(VP*))	ProfSteveKeen	-	-	-	-	-	-	-	-	-	2_0_11
+064_950155108834308097.branch1.	45	12	,	,	*	ProfSteveKeen	-	-	-	-	-	-	-	-	-	2_0_12
+064_950155108834308097.branch1.	45	13	especially	RB	*	ProfSteveKeen	-	-	-	-	-	-	-	-	-	2_0_13
+064_950155108834308097.branch1.	45	14	those	DT	(NP(NP*)	ProfSteveKeen	-	-	pds/anaphora	(4)	-	NP_S()	NP_L()	sbj	not_assigned	2_0_14
+064_950155108834308097.branch1.	45	15	recounted	VBN	(VP*	ProfSteveKeen	-	-	-	-	-	-	-	-	-	2_0_15
+064_950155108834308097.branch1.	45	16	in	IN	(PP*	ProfSteveKeen	-	-	-	-	-	-	-	-	-	2_0_16
+064_950155108834308097.branch1.	45	17	an	DT	(NP*	ProfSteveKeen	representative_men	other	indefnp/none	(1003	-	NP_S(	NP_L(	-	-	2_0_17
+064_950155108834308097.branch1.	45	18	Australian	JJ	*	ProfSteveKeen	-	-	-	-	-	-	-	-	-	2_0_18
+064_950155108834308097.branch1.	45	19	accent	NN	*)))))))))))	ProfSteveKeen	-	-	-	1003)	-	)NP_S	)NP_L	-	-	2_0_19
+064_950155108834308097.branch1.	45	20	.	.	*))	ProfSteveKeen	-	-	-	-	CL5	-	-	-	-	2_0_20
+
+064_950155108834308097.branch1.	45	0	He	PRP	(ROOT(S(NP*)	ProfSteveKeen	-	-	ppers/anaphora	(3)	CL7	NP_S()	NP_L()	sbj	not_assigned	2_1_0
+064_950155108834308097.branch1.	45	1	's	VBZ	(VP*	ProfSteveKeen	-	-	-	-	-	-	-	-	-	2_1_1
+064_950155108834308097.branch1.	45	2	great	JJ	(ADJP*	ProfSteveKeen	-	-	-	-	-	-	-	-	-	2_1_2
+064_950155108834308097.branch1.	45	3	on	IN	(PP*	ProfSteveKeen	-	-	-	-	-	-	-	-	-	2_1_3
+064_950155108834308097.branch1.	45	4	historical	JJ	(NP(NP*	ProfSteveKeen	representative_men	other	defnp/none	(1004	-	NP_S(	NP_L(	-	-	2_1_4
+064_950155108834308097.branch1.	45	5	facts	NNS	*)	ProfSteveKeen	-	-	-	1004)	-	)NP_S	)NP_L	-	-	2_1_5
+064_950155108834308097.branch1.	45	6	on	IN	(PP*	ProfSteveKeen	-	-	-	-	-	-	-	-	-	2_1_6
+064_950155108834308097.branch1.	45	7	money	NN	(NP*))	ProfSteveKeen	representative_men	-	defnp/none	(1005)	-	NP_S()	NP_L()	-	-	2_1_7
+064_950155108834308097.branch1.	45	8	,	,	*	ProfSteveKeen	-	-	-	-	-	-	-	-	-	2_1_8
+064_950155108834308097.branch1.	45	9	of	IN	(PP*	ProfSteveKeen	-	-	-	-	-	-	-	-	-	2_1_9
+064_950155108834308097.branch1.	45	10	course	NN	(NP*))))))	ProfSteveKeen	-	-	-	-	-	-	-	-	-	2_1_10
+064_950155108834308097.branch1.	45	11	.	.	*))	ProfSteveKeen	-	-	-	-	CL7	-	-	-	-	2_1_11
+
+064_950155108834308097.branch1.	45	0	@ProfSteveKeen	JJ	(ROOT(FRAG(ADJP*	HetdoxEconomics	-	-	-	-	-	NP_S(	NP_L(	-	-	3_0_0
+064_950155108834308097.branch1.	45	1	@consbyname	JJ	*)	HetdoxEconomics	-	-	-	-	-	)NP_S	)NP_L	-	-	3_0_1
+064_950155108834308097.branch1.	45	2	He	PRP	(S(NP*)	HetdoxEconomics	-	-	ppers/anaphora	(3)	CL9	NP_S()	NP_L()	sbj	not_assigned	3_0_2
+064_950155108834308097.branch1.	45	3	is	VBZ	(VP*))	HetdoxEconomics	-	-	-	-	-	-	-	-	-	3_0_3
+064_950155108834308097.branch1.	45	4	.	.	*))	HetdoxEconomics	-	-	-	-	CL9	-	-	-	-	3_0_4
+
+064_950155108834308097.branch1.	45	0	You	PRP	(ROOT(S(NP*)	HetdoxEconomics	representative_men	-	ppers/exophora	(7)	CL10	NP_S()	NP_L()	sbj	specific	3_1_0
+064_950155108834308097.branch1.	45	1	are	VBP	(VP*	HetdoxEconomics	-	-	-	-	-	-	-	-	-	3_1_1
+064_950155108834308097.branch1.	45	2	both	DT	(NP(NP*	HetdoxEconomics	-	-	other/anaphora	(7)	-	NP_S()	NP_L()	other/appositive	not_assigned	3_1_2
+064_950155108834308097.branch1.	45	3	major	JJ	*	HetdoxEconomics	representative_men	other	indefnp/none	(1007	-	NP_S(	NP_L(	-	-	3_1_3
+064_950155108834308097.branch1.	45	4	parts	NNS	*)	HetdoxEconomics	-	-	-	-	-	)NP_S	)NP_L	-	-	3_1_4
+064_950155108834308097.branch1.	45	5	of	IN	(PP*	HetdoxEconomics	-	-	-	-	-	-	-	-	-	3_1_5
+064_950155108834308097.branch1.	45	6	my	PRP$	(NP(NP*	HetdoxEconomics	representative_men	other	ppos/anaphora|defnp/none	(6)|(1006	-	NP_S(	NP_L(	prep_phrase	not_assigned	3_1_6
+064_950155108834308097.branch1.	45	7	learning	NN	*)	HetdoxEconomics	-	-	-	-	-	)NP_S	-	-	-	3_1_7
+064_950155108834308097.branch1.	45	8	of	IN	(PP*	HetdoxEconomics	-	-	-	-	-	-	-	-	-	3_1_8
+064_950155108834308097.branch1.	45	9	the	DT	(NP*	HetdoxEconomics	representative_men	other	defnp/none	(1009	-	NP_S(	-	-	-	3_1_9
+064_950155108834308097.branch1.	45	10	dismal	JJ	*	HetdoxEconomics	-	-	-	-	-	-	-	-	-	3_1_10
+064_950155108834308097.branch1.	45	11	science	NN	*))))))	HetdoxEconomics	-	-	-	1006)|1007)|1009)	-	)NP_S	)NP_L	-	-	3_1_11
+064_950155108834308097.branch1.	45	12	.	.	*))	HetdoxEconomics	-	-	-	-	CL10	-	-	-	-	3_1_12
+
+064_950155108834308097.branch1.	45	0	Thank	VB	(ROOT(S(VP*	HetdoxEconomics	-	-	-	-	CL11	-	-	-	-	3_2_0
+064_950155108834308097.branch1.	45	1	you	PRP	(NP*)	HetdoxEconomics	-	-	ppers/anaphora	(7)	-	NP_S()	NP_L()	dir_obj	not_assigned	3_2_1
+064_950155108834308097.branch1.	45	2	for	IN	(PP(PP*	HetdoxEconomics	-	-	-	-	-	-	-	-	-	3_2_2
+064_950155108834308097.branch1.	45	3	your	PRP$	(FRAG(NP*	HetdoxEconomics	representative_men	other	defnp/none|ppos/anaphora	(1008|(7)	-	NP_S(	NP_L(	prep_phrase	not_assigned	3_2_3
+064_950155108834308097.branch1.	45	4	work	NN	*)	HetdoxEconomics	-	-	-	1008)	-	)NP_S	)NP_L	-	-	3_2_4
+064_950155108834308097.branch1.	45	5	!	.	*))	HetdoxEconomics	-	-	-	-	-	-	-	-	-	3_2_5
+064_950155108834308097.branch1.	45	6	-LRB-	-LRB-	(PRN*	HetdoxEconomics	-	-	-	-	-	-	-	-	-	3_2_6
+064_950155108834308097.branch1.	45	7	and	CC	*	HetdoxEconomics	-	-	-	-	-	-	-	-	-	3_2_7
+064_950155108834308097.branch1.	45	8	the	DT	(FRAG(NP*	HetdoxEconomics	representative_men	other	defnp/none	(1000	-	NP_S(	NP_L(	-	-	3_2_8
+064_950155108834308097.branch1.	45	9	Minsky	NNP	*)	HetdoxEconomics	-	-	-	-	-	-	-	-	-	3_2_9
+064_950155108834308097.branch1.	45	10	program	NN	(NP*))	HetdoxEconomics	-	-	-	1000)	-	)NP_S	)NP_L	-	-	3_2_10
+064_950155108834308097.branch1.	45	11	-RRB-	-RRB-	*)))))	HetdoxEconomics	-	-	-	-	CL11	-	-	-	-	3_2_11
+
+#end document

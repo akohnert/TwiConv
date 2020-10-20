@@ -1,0 +1,78 @@
+#begin document (189_950380431953842176.branch3.); part 152
+189_950380431953842176.branch3.	152	0	''	''	(ROOT(S*	HSouthwellFE	-	-	-	-	CL0	-	-	-	-	0_0_0
+189_950380431953842176.branch3.	152	1	Teenage	JJ	(NP*	HSouthwellFE	representative_men	human	indefnp/none	(0	-	NP_S(	NP_L(	sbj	specific	0_0_1
+189_950380431953842176.branch3.	152	2	woman	NN	*)	HSouthwellFE	-	-	-	0)	-	)NP_S	)NP_L	-	-	0_0_2
+189_950380431953842176.branch3.	152	3	has	VBZ	(VP*	HSouthwellFE	-	-	-	-	-	-	-	-	-	0_0_3
+189_950380431953842176.branch3.	152	4	to	TO	(S(VP*	HSouthwellFE	-	-	-	-	CL1	-	-	-	-	0_0_4
+189_950380431953842176.branch3.	152	5	deal	VB	(VP*	HSouthwellFE	-	-	-	-	-	-	-	-	-	0_0_5
+189_950380431953842176.branch3.	152	6	with	IN	(PP*	HSouthwellFE	-	-	-	-	-	-	-	-	-	0_0_6
+189_950380431953842176.branch3.	152	7	abusive	JJ	(NP(NP*	HSouthwellFE	representative_men	other	defnp/none	(2	-	NP_S(	NP_L(	prep_phrase	specific	0_0_7
+189_950380431953842176.branch3.	152	8	behaviour	NN	*)	HSouthwellFE	-	-	-	2)	-	)NP_S	-	-	-	0_0_8
+189_950380431953842176.branch3.	152	9	from	IN	(PP*	HSouthwellFE	-	-	-	-	-	-	-	-	-	0_0_9
+189_950380431953842176.branch3.	152	10	34-year-old	JJ	(NP*	HSouthwellFE	representative_men	human	indefnp/none	(1	-	NP_S(	-	prep_phrase	specific	0_0_10
+189_950380431953842176.branch3.	152	11	man	NN	*))))	HSouthwellFE	-	-	-	1)	CL1|CL0	)NP_S	)NP_L	-	-	0_0_11
+189_950380431953842176.branch3.	152	12	because	IN	(SBAR*	HSouthwellFE	-	-	-	-	CL2	-	-	-	-	0_0_12
+189_950380431953842176.branch3.	152	13	he	PRP	(S(NP*)	HSouthwellFE	-	-	ppers/anaphora	(1)	-	NP_S()	NP_L()	sbj	not_assigned	0_0_13
+189_950380431953842176.branch3.	152	14	has	VBZ	(VP*	HSouthwellFE	-	-	-	-	-	-	-	-	-	0_0_14
+189_950380431953842176.branch3.	152	15	never	RB	(VP(ADVP*)	HSouthwellFE	-	-	-	-	-	-	-	-	-	0_0_15
+189_950380431953842176.branch3.	152	16	learnt	VBN	*	HSouthwellFE	-	-	-	-	-	-	-	-	-	0_0_16
+189_950380431953842176.branch3.	152	17	to	TO	(S(VP*	HSouthwellFE	-	-	-	-	CL3	-	-	-	-	0_0_17
+189_950380431953842176.branch3.	152	18	be	VB	(VP*	HSouthwellFE	-	-	-	-	-	-	-	-	-	0_0_18
+189_950380431953842176.branch3.	152	19	responsible	JJ	(ADJP*	HSouthwellFE	-	-	-	-	-	-	-	-	-	0_0_19
+189_950380431953842176.branch3.	152	20	for	IN	(PP*	HSouthwellFE	-	-	-	-	-	-	-	-	-	0_0_20
+189_950380431953842176.branch3.	152	21	his	PRP$	(NP*	HSouthwellFE	representative_men	other	ppos/anaphora|defnp/none	(1)|(1002	-	NP_S(	NP_L(	prep_phrase	not_assigned	0_0_21
+189_950380431953842176.branch3.	152	22	shitty	JJ	*	HSouthwellFE	-	-	-	-	-	-	-	-	-	0_0_22
+189_950380431953842176.branch3.	152	23	behaviour	NN	*))))))	HSouthwellFE	-	-	-	1002)	CL3	)NP_S	)NP_L	-	-	0_0_23
+189_950380431953842176.branch3.	152	24	''	''	*))))))))	HSouthwellFE	-	-	-	-	-	-	-	-	-	0_0_24
+189_950380431953842176.branch3.	152	25	.	.	*))	HSouthwellFE	-	-	-	-	CL2	-	-	-	-	0_0_25
+
+189_950380431953842176.branch3.	152	0	Gross	NNP	(ROOT(NP(NP*	HSouthwellFE	-	-	-	-	CL4	NP_S()	NP_L()	-	-	0_1_0
+189_950380431953842176.branch3.	152	1	.	.	*)	HSouthwellFE	-	-	-	-	CL4	-	-	-	-	0_1_1
+189_950380431953842176.branch3.	152	2	https://t.co/QuGCRvd5JM	NN	(NP*)))	HSouthwellFE	-	-	-	-	-	-	-	-	-	0_1_2
+
+189_950380431953842176.branch3.	152	0	@HSouthwellFE	NNP	(ROOT(NP(NP*)	GrandPrixDiary	-	-	-	-	-	NP_S()	NP_L()	-	-	1_0_0
+189_950380431953842176.branch3.	152	1	But	CC	(SBAR(S(S*	GrandPrixDiary	-	-	-	-	CL5	-	-	-	-	1_0_1
+189_950380431953842176.branch3.	152	2	she	PRP	(NP*)	GrandPrixDiary	-	-	ppers/anaphora	(0)	-	NP_S()	NP_L()	sbj	not_assigned	1_0_2
+189_950380431953842176.branch3.	152	3	''	''	*	GrandPrixDiary	-	-	-	-	-	-	-	-	-	1_0_3
+189_950380431953842176.branch3.	152	4	knows	VBZ	(VP*	GrandPrixDiary	-	-	-	-	-	-	-	-	-	1_0_4
+189_950380431953842176.branch3.	152	5	how	WRB	(SBAR(WHADVP*)	GrandPrixDiary	-	-	-	-	CL6	-	-	-	-	1_0_5
+189_950380431953842176.branch3.	152	6	to	TO	(S(VP*	GrandPrixDiary	-	-	-	-	-	-	-	-	-	1_0_6
+189_950380431953842176.branch3.	152	7	handle	VB	(VP*	GrandPrixDiary	-	-	-	-	-	-	-	-	-	1_0_7
+189_950380431953842176.branch3.	152	8	him	PRP	(NP*	GrandPrixDiary	-	-	ppers/anaphora	(1)	CL6	NP_S()	NP_L()	dir_obj	not_assigned	1_0_8
+189_950380431953842176.branch3.	152	9	''	''	*)))))))	GrandPrixDiary	-	-	-	-	CL5	-	-	-	-	1_0_9
+189_950380431953842176.branch3.	152	10	and	CC	*	GrandPrixDiary	-	-	-	-	CL7	-	-	-	-	1_0_10
+189_950380431953842176.branch3.	152	11	was	VBD	(S(VP*	GrandPrixDiary	-	-	-	-	-	-	-	-	-	1_0_11
+189_950380431953842176.branch3.	152	12	able	JJ	(ADJP*	GrandPrixDiary	-	-	-	-	-	-	-	-	-	1_0_12
+189_950380431953842176.branch3.	152	13	to	TO	(PP*))	GrandPrixDiary	-	-	-	-	-	-	-	-	-	1_0_13
+189_950380431953842176.branch3.	152	14	''	''	*	GrandPrixDiary	-	-	-	-	-	-	-	-	-	1_0_14
+189_950380431953842176.branch3.	152	15	calm	JJ	(PP*	GrandPrixDiary	-	-	-	-	-	-	-	-	-	1_0_15
+189_950380431953842176.branch3.	152	16	him	PRP	(NP(NP(NP*)	GrandPrixDiary	-	-	ppers/anaphora	(1)	-	NP_S()	NP_L()	dir_obj	not_assigned	1_0_16
+189_950380431953842176.branch3.	152	17	down	RP	(ADVP*))	GrandPrixDiary	-	-	-	-	-	-	-	-	-	1_0_17
+189_950380431953842176.branch3.	152	18	''	''	*	GrandPrixDiary	-	-	-	-	CL7	-	-	-	-	1_0_18
+189_950380431953842176.branch3.	152	19	so	IN	(SBAR*	GrandPrixDiary	-	-	-	-	CL8	-	-	-	-	1_0_19
+189_950380431953842176.branch3.	152	20	all	DT	(S(NP*)	GrandPrixDiary	-	-	-	-	-	NP_S()	NP_L()	-	-	1_0_20
+189_950380431953842176.branch3.	152	21	is	VBZ	(VP*	GrandPrixDiary	-	-	-	-	-	-	-	-	-	1_0_21
+189_950380431953842176.branch3.	152	22	well	RB	(ADVP*))))))))))	GrandPrixDiary	-	-	-	-	-	-	-	-	-	1_0_22
+189_950380431953842176.branch3.	152	23	.	.	*))	GrandPrixDiary	-	-	-	-	CL8	-	-	-	-	1_0_23
+
+189_950380431953842176.branch3.	152	0	I	PRP	(ROOT(S(NP*)	GrandPrixDiary	representative_men	-	ppers/exophora	(1001)	CL9	NP_S()	NP_L()	-	-	1_1_0
+189_950380431953842176.branch3.	152	1	think	VBP	(VP*)	GrandPrixDiary	-	-	-	-	-	-	-	-	-	1_1_1
+189_950380431953842176.branch3.	152	2	.	.	*	GrandPrixDiary	-	-	-	-	-	-	-	-	-	1_1_2
+189_950380431953842176.branch3.	152	3	.	.	*))	GrandPrixDiary	-	-	-	-	CL9	-	-	-	-	1_1_3
+
+189_950380431953842176.branch3.	152	0	@GrandPrixDiary	JJ	(ROOT(NP(NP(NP*)	HSouthwellFE	-	-	-	-	-	NP_S()	NP_L()	-	-	2_0_0
+189_950380431953842176.branch3.	152	1	So	IN	(RRC(ADVP*)	HSouthwellFE	-	-	-	-	-	-	-	-	-	2_0_1
+189_950380431953842176.branch3.	152	2	horrible	JJ	(ADJP*)))	HSouthwellFE	-	-	-	-	-	-	-	-	-	2_0_2
+189_950380431953842176.branch3.	152	3	.	.	*))	HSouthwellFE	-	-	-	-	-	-	-	-	-	2_0_3
+
+189_950380431953842176.branch3.	152	0	Such	JJ	(ROOT(NP(NP*	HSouthwellFE	representative_men	abstract	defnp/none	(1000	CL11	NP_S(	NP_L(	-	-	2_1_0
+189_950380431953842176.branch3.	152	1	total	JJ	*	HSouthwellFE	-	-	-	-	-	-	-	-	-	2_1_1
+189_950380431953842176.branch3.	152	2	abdication	NN	*)	HSouthwellFE	-	-	-	-	-	)NP_S	-	-	-	2_1_2
+189_950380431953842176.branch3.	152	3	of	IN	(PP*	HSouthwellFE	-	-	-	-	-	-	-	-	-	2_1_3
+189_950380431953842176.branch3.	152	4	responsibility	NN	(NP*))	HSouthwellFE	representative_men	-	defnp/none	1000)|(1003)	-	NP_S()	-	-	-	2_1_4
+189_950380431953842176.branch3.	152	5	for	IN	(PP*	HSouthwellFE	-	-	-	-	-	-	-	-	-	2_1_5
+189_950380431953842176.branch3.	152	6	abusive	JJ	(NP*	HSouthwellFE	-	-	defnp/none	(2	-	NP_S(	-	prep_phrase	not_assigned	2_1_6
+189_950380431953842176.branch3.	152	7	behaviour	NN	*))	HSouthwellFE	-	-	-	2)	-	)NP_S	-	-	-	2_1_7
+189_950380431953842176.branch3.	152	8	.	.	*))	HSouthwellFE	-	-	-	-	CL11	-	)NP_L	-	-	2_1_8
+
+#end document

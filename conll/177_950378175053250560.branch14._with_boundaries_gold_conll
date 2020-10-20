@@ -1,0 +1,89 @@
+#begin document (177_950378175053250560.branch14.); part 141
+177_950378175053250560.branch14.	141	0	Orin	NNP	(ROOT(S(NP*)	hankgreen	representative_men	-	ne/none	(0)	CL0	NP_S()	NP_L()	sbj	specific	0_0_0
+177_950378175053250560.branch14.	141	1	claps	VBZ	(VP*	hankgreen	-	-	-	-	CL0	-	-	-	-	0_0_1
+177_950378175053250560.branch14.	141	2	when	WRB	(SBAR(WHADVP*)	hankgreen	-	-	-	-	CL1	-	-	-	-	0_0_2
+177_950378175053250560.branch14.	141	3	other	JJ	(S(S(NP*	hankgreen	representative_men	human	indefnp/none	(1002	-	NP_S(	NP_L(	-	-	0_0_3
+177_950378175053250560.branch14.	141	4	people	NNS	*)	hankgreen	-	-	-	1002)	-	)NP_S	)NP_L	-	-	0_0_4
+177_950378175053250560.branch14.	141	5	clap	VBP	(VP*))	hankgreen	-	-	-	-	-	-	-	-	-	0_0_5
+177_950378175053250560.branch14.	141	6	,	,	*	hankgreen	-	-	-	-	CL1	-	-	-	-	0_0_6
+177_950378175053250560.branch14.	141	7	so	IN	*	hankgreen	-	-	-	-	CL2	-	-	-	-	0_0_7
+177_950378175053250560.branch14.	141	8	it	PRP	(S(NP*)	hankgreen	representative_men	-	ppers/non-referential_pronoun	(1000)	-	NP_S()	NP_L()	-	-	0_0_8
+177_950378175053250560.branch14.	141	9	was	VBD	(VP*	hankgreen	-	-	-	-	-	-	-	-	-	0_0_9
+177_950378175053250560.branch14.	141	10	pretty	RB	(NP(ADJP*	hankgreen	-	-	-	-	-	-	-	-	-	0_0_10
+177_950378175053250560.branch14.	141	11	cool	JJ	*	hankgreen	-	-	-	-	-	-	-	-	-	0_0_11
+177_950378175053250560.branch14.	141	12	to	TO	(S(VP*	hankgreen	-	-	-	-	CL3	-	-	-	-	0_0_12
+177_950378175053250560.branch14.	141	13	watch	VB	(VP*	hankgreen	-	-	-	-	-	-	-	-	-	0_0_13
+177_950378175053250560.branch14.	141	14	him	PRP	(S(NP*)	hankgreen	-	-	ppers/anaphora	(0)	CL4	NP_S()	NP_L()	dir_obj	not_assigned	0_0_14
+177_950378175053250560.branch14.	141	15	applaud	VB	(VP*	hankgreen	-	-	-	-	-	-	-	-	-	0_0_15
+177_950378175053250560.branch14.	141	16	Oprah	NNP	(NP*)	hankgreen	representative_men	-	ne/none	(4)	-	NP_S()	NP_L()	dir_obj	specific	0_0_16
+177_950378175053250560.branch14.	141	17	just	RB	(ADVP(ADVP*	hankgreen	representative_men	time	defnp/exophora	(1006	-	-	-	-	-	0_0_17
+177_950378175053250560.branch14.	141	18	now	RB	*)	hankgreen	-	-	-	1006)	CL4|CL3|CL2	-	-	-	-	0_0_18
+177_950378175053250560.branch14.	141	19	even	RB	(SBAR*	hankgreen	-	-	-	-	CL5	-	-	-	-	0_0_19
+177_950378175053250560.branch14.	141	20	though	IN	*	hankgreen	-	-	-	-	-	-	-	-	-	0_0_20
+177_950378175053250560.branch14.	141	21	he	PRP	(S(NP*)	hankgreen	-	-	ppers/anaphora	(0)	-	NP_S()	NP_L()	sbj	not_assigned	0_0_21
+177_950378175053250560.branch14.	141	22	's	VBZ	(VP*	hankgreen	-	-	-	-	-	-	-	-	-	0_0_22
+177_950378175053250560.branch14.	141	23	only	RB	(ADJP(NP*	hankgreen	-	-	-	-	-	-	-	-	-	0_0_23
+177_950378175053250560.branch14.	141	24	14	CD	*	hankgreen	representative_men	time	defnp/none	(1003	-	NP_S(	NP_L(	-	-	0_0_24
+177_950378175053250560.branch14.	141	25	months	NNS	*)	hankgreen	-	-	-	1003)	-	)NP_S	)NP_L	-	-	0_0_25
+177_950378175053250560.branch14.	141	26	old	JJ	*)))	hankgreen	-	-	-	-	-	-	-	-	-	0_0_26
+177_950378175053250560.branch14.	141	27	.	.	*))))))))	hankgreen	-	-	-	-	CL5	-	-	-	-	0_0_27
+177_950378175053250560.branch14.	141	28	https://t.co/SYixI4br3R	NN	*))))))))	hankgreen	-	-	-	-	-	-	-	-	-	0_0_28
+
+177_950378175053250560.branch14.	141	0	If	IN	(ROOT(SBAR*	hankgreen	-	-	-	-	CL6	-	-	-	-	1_0_0
+177_950378175053250560.branch14.	141	1	you	PRP	(S(NP*)	hankgreen	representative_men	-	ppers/exophora	(1010)	-	NP_S()	NP_L()	-	-	1_0_1
+177_950378175053250560.branch14.	141	2	want	VBP	(VP*	hankgreen	-	-	-	-	-	-	-	-	-	1_0_2
+177_950378175053250560.branch14.	141	3	an	DT	(NP(NP*	hankgreen	representative_men	other	indefnp/none	(1008	-	NP_S(	NP_L(	-	-	1_0_3
+177_950378175053250560.branch14.	141	4	example	NN	*)	hankgreen	-	-	-	1008)	-	)NP_S	-	-	-	1_0_4
+177_950378175053250560.branch14.	141	5	of	IN	(PP*	hankgreen	-	-	-	-	-	-	-	-	-	1_0_5
+177_950378175053250560.branch14.	141	6	someone	NN	(NP*))	hankgreen	-	-	indefnp/none	(4	-	NP_S()	-	sbj	not_assigned	1_0_6
+177_950378175053250560.branch14.	141	7	who	WP	(SBAR(WHNP*)	hankgreen	-	-	-	-	CL7	-	-	-	-	1_0_7
+177_950378175053250560.branch14.	141	8	is	VBZ	(S(VP*	hankgreen	-	-	-	-	-	-	-	-	-	1_0_8
+177_950378175053250560.branch14.	141	9	actually	RB	(ADVP*)	hankgreen	-	-	-	-	-	-	-	-	-	1_0_9
+177_950378175053250560.branch14.	141	10	a	DT	(NP(NP*	hankgreen	-	-	indefnp/none	(4	-	NP_S(	-	copula_rel	not_assigned	1_0_10
+177_950378175053250560.branch14.	141	11	cunning	JJ	*	hankgreen	-	-	-	-	-	-	-	-	-	1_0_11
+177_950378175053250560.branch14.	141	12	and	CC	*	hankgreen	-	-	-	-	-	-	-	-	-	1_0_12
+177_950378175053250560.branch14.	141	13	savvy	JJ	*	hankgreen	-	-	-	-	-	-	-	-	-	1_0_13
+177_950378175053250560.branch14.	141	14	business	NN	*	hankgreen	-	-	-	-	-	-	-	-	-	1_0_14
+177_950378175053250560.branch14.	141	15	person	NN	*)	hankgreen	-	-	-	-	-	)NP_S	-	-	-	1_0_15
+177_950378175053250560.branch14.	141	16	who	WP	(SBAR(WHNP*)	hankgreen	-	-	-	-	CL8	-	-	-	-	1_0_16
+177_950378175053250560.branch14.	141	17	built	VBD	(S(VP*	hankgreen	-	-	-	-	-	-	-	-	-	1_0_17
+177_950378175053250560.branch14.	141	18	their	PRP$	(NP*	hankgreen	representative_men	other	defnp/none|ppos/anaphora	(1013|(4)	-	NP_S(	-	dir_obj	not_assigned	1_0_18
+177_950378175053250560.branch14.	141	19	billion	CD	*	hankgreen	-	-	-	-	-	-	-	-	-	1_0_19
+177_950378175053250560.branch14.	141	20	dollar	NN	*	hankgreen	-	-	-	-	-	-	-	-	-	1_0_20
+177_950378175053250560.branch14.	141	21	empire	NN	*)	hankgreen	-	-	-	1013)	-	)NP_S	-	-	-	1_0_21
+177_950378175053250560.branch14.	141	22	from	IN	(PP*	hankgreen	-	-	-	-	-	-	-	-	-	1_0_22
+177_950378175053250560.branch14.	141	23	nothing	NN	(NP*)))))))	hankgreen	representative_men	-	indefnp/none	4)|4)|(1012)	CL8|CL7	NP_S()	)NP_L	-	-	1_0_23
+177_950378175053250560.branch14.	141	24	...	:	*)))))))	hankgreen	-	-	-	-	CL6	-	-	-	-	1_0_24
+
+177_950378175053250560.branch14.	141	0	@hankgreen	JJ	(ROOT(S(NP(NP*	Mr_Strongshell	-	-	-	-	-	NP_S(	NP_L(	-	-	2_0_0
+177_950378175053250560.branch14.	141	1	@hankgreen	NNS	*)	Mr_Strongshell	-	-	-	-	-	)NP_S	)NP_L	-	-	2_0_1
+177_950378175053250560.branch14.	141	2	Oprah	NNP	(NP*))	Mr_Strongshell	-	-	ne/none	(4)	CL9	NP_S()	NP_L()	sbj	not_assigned	2_0_2
+177_950378175053250560.branch14.	141	3	gave	VBD	(VP*	Mr_Strongshell	-	-	-	-	-	-	-	-	-	2_0_3
+177_950378175053250560.branch14.	141	4	America	NNP	(NP*)	Mr_Strongshell	representative_men	-	defnp/none	(1001)	-	NP_S()	NP_L()	-	-	2_0_4
+177_950378175053250560.branch14.	141	5	a	DT	(NP(NP*	Mr_Strongshell	representative_men	other	indefnp/none	(1005	-	NP_S(	NP_L(	-	-	2_0_5
+177_950378175053250560.branch14.	141	6	platform	NN	*)	Mr_Strongshell	-	-	-	-	-	)NP_S	-	-	-	2_0_6
+177_950378175053250560.branch14.	141	7	of	IN	(PP*	Mr_Strongshell	-	-	-	-	-	-	-	-	-	2_0_7
+177_950378175053250560.branch14.	141	8	rampant	JJ	(NP*	Mr_Strongshell	representative_men	abstract	defnp/none	(1004	-	NP_S(	-	-	-	2_0_8
+177_950378175053250560.branch14.	141	9	,	,	*	Mr_Strongshell	-	-	-	-	-	-	-	-	-	2_0_9
+177_950378175053250560.branch14.	141	10	exploitative	JJ	*	Mr_Strongshell	-	-	-	-	-	-	-	-	-	2_0_10
+177_950378175053250560.branch14.	141	11	pseudoscience	NN	*))))	Mr_Strongshell	-	-	-	1004)|1005)	-	)NP_S	)NP_L	-	-	2_0_11
+177_950378175053250560.branch14.	141	12	.	.	*))	Mr_Strongshell	-	-	-	-	CL9	-	-	-	-	2_0_12
+
+177_950378175053250560.branch14.	141	0	You	PRP	(ROOT(S(NP*)	Mr_Strongshell	representative_men	-	ppers/exophora	(1011)	CL10	NP_S()	NP_L()	-	-	2_1_0
+177_950378175053250560.branch14.	141	1	gave	VBD	(VP*	Mr_Strongshell	-	-	-	-	-	-	-	-	-	2_1_1
+177_950378175053250560.branch14.	141	2	us	PRP	(NP*)	Mr_Strongshell	-	-	-	-	-	NP_S()	NP_L()	-	-	2_1_2
+177_950378175053250560.branch14.	141	3	SciShow	NNP	(NP*))	Mr_Strongshell	representative_men	-	ne/none	(1009)	-	NP_S()	NP_L()	-	-	2_1_3
+177_950378175053250560.branch14.	141	4	.	.	*))	Mr_Strongshell	-	-	-	-	CL10	-	-	-	-	2_1_4
+
+177_950378175053250560.branch14.	141	0	I	PRP	(ROOT(S(NP*)	Mr_Strongshell	representative_men	-	ppers/exophora	(1007)	CL11	NP_S()	NP_L()	-	-	2_2_0
+177_950378175053250560.branch14.	141	1	expect	VBP	(VP*	Mr_Strongshell	-	-	-	-	-	-	-	-	-	2_2_1
+177_950378175053250560.branch14.	141	2	better	JJR	(ADJP*))	Mr_Strongshell	-	-	-	-	-	-	-	-	-	2_2_2
+177_950378175053250560.branch14.	141	3	.	.	*))	Mr_Strongshell	-	-	-	-	CL11	-	-	-	-	2_2_3
+
+177_950378175053250560.branch14.	141	0	@Mr_Strongshell	NN	(ROOT(S(NP*	slickhorrible	-	-	-	-	-	NP_S(	NP_L(	-	-	3_0_0
+177_950378175053250560.branch14.	141	1	@hankgreen	NN	*	slickhorrible	-	-	-	-	-	)NP_S	)NP_L	-	-	3_0_1
+177_950378175053250560.branch14.	141	2	%emoji	NNS	*)	slickhorrible	-	-	-	-	-	-	-	-	-	3_0_2
+177_950378175053250560.branch14.	141	3	%emoji	VBP	(VP*	slickhorrible	-	-	-	-	-	-	-	-	-	3_0_3
+177_950378175053250560.branch14.	141	4	%emoji	NNS	(NP*))))	slickhorrible	-	-	-	-	-	-	-	-	-	3_0_4
+
+#end document

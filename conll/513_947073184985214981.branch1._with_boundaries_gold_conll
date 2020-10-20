@@ -1,0 +1,247 @@
+#begin document (513_947073184985214981.branch1.); part 170
+513_947073184985214981.branch1.	170	0	@huntsdc	NN	(ROOT(FRAG(NP(NP*)	goonerneal	-	-	-	-	-	NP_S()	NP_L()	-	-	0_0_0
+513_947073184985214981.branch1.	170	1	hi	UH	(SBAR(S(PRN(SINV(FRAG(INTJ*))	goonerneal	-	-	-	-	CL0	-	-	-	-	0_0_1
+513_947073184985214981.branch1.	170	2	can	MD	(VP*)	goonerneal	-	-	-	-	-	-	-	-	-	0_0_2
+513_947073184985214981.branch1.	170	3	you	PRP	(NP*)))	goonerneal	representative_men	-	ppers/exophora	(1008)	-	NP_S()	NP_L()	-	-	0_0_3
+513_947073184985214981.branch1.	170	4	let	VB	(VP*	goonerneal	-	-	-	-	-	-	-	-	-	0_0_4
+513_947073184985214981.branch1.	170	5	me	PRP	(S(NP*)	goonerneal	-	-	ppers/exophora	(27)	CL2	NP_S()	NP_L()	dir_obj	not_assigned	0_0_5
+513_947073184985214981.branch1.	170	6	know	VB	(VP*	goonerneal	-	-	-	-	-	-	-	-	-	0_0_6
+513_947073184985214981.branch1.	170	7	who	WP	(SBAR(WHNP*)	goonerneal	-	-	-	-	CL3	-	-	-	-	0_0_7
+513_947073184985214981.branch1.	170	8	is	VBZ	(S(VP*	goonerneal	-	-	-	-	-	-	-	-	-	0_0_8
+513_947073184985214981.branch1.	170	9	responsible	JJ	(ADJP*)	goonerneal	-	-	-	-	-	-	-	-	-	0_0_9
+513_947073184985214981.branch1.	170	10	for	IN	(SBAR*	goonerneal	-	-	-	-	-	-	-	-	-	0_0_10
+513_947073184985214981.branch1.	170	11	the	DT	(S(NP*)	goonerneal	representative_men	phys_obj	defnp/none	(1006	-	NP_S()	NP_L(	-	-	0_0_11
+513_947073184985214981.branch1.	170	12	drains	VBZ	(VP*	goonerneal	-	-	-	-	-	-	-	-	-	0_0_12
+513_947073184985214981.branch1.	170	13	around	IN	(PP*	goonerneal	-	-	-	-	-	-	-	-	-	0_0_13
+513_947073184985214981.branch1.	170	14	St	NNP	(NP*	goonerneal	representative_men	loc	ne/none	(1005	-	NP_S(	-	-	-	0_0_14
+513_947073184985214981.branch1.	170	15	Neots	NNP	*))))))))))))))))	goonerneal	-	-	-	1005)|1006)	CL2|CL0|CL3	)NP_S	)NP_L	-	-	0_0_15
+
+513_947073184985214981.branch1.	170	0	please	VB	(ROOT(S(VP*	goonerneal	-	-	-	-	CL5	-	-	-	-	0_1_0
+513_947073184985214981.branch1.	170	1	been	VBN	(VP*	goonerneal	-	-	-	-	-	-	-	-	-	0_1_1
+513_947073184985214981.branch1.	170	2	like	IN	(PP*	goonerneal	-	-	-	-	-	-	-	-	-	0_1_2
+513_947073184985214981.branch1.	170	3	this	DT	(NP*))	goonerneal	representative_men	-	pds/exophora	(24)	-	NP_S()	NP_L()	sbj	specific	0_1_3
+513_947073184985214981.branch1.	170	4	for	IN	(PP*	goonerneal	-	-	-	-	-	-	-	-	-	0_1_4
+513_947073184985214981.branch1.	170	5	a	DT	(NP*	goonerneal	representative_men	time	indefnp/none	(1011	-	NP_S(	NP_L(	-	-	0_1_5
+513_947073184985214981.branch1.	170	6	long	JJ	*	goonerneal	-	-	-	-	-	-	-	-	-	0_1_6
+513_947073184985214981.branch1.	170	7	time	NN	*	goonerneal	-	-	-	1011)	CL5	)NP_S	)NP_L	-	-	0_1_7
+513_947073184985214981.branch1.	170	8	https://t.co/fobuW5YVS0	NN	*))))))	goonerneal	-	-	-	-	-	-	-	-	-	0_1_8
+
+513_947073184985214981.branch1.	170	0	@goonerneal	JJ	(ROOT(S(ADJP*	huntsdc	-	-	-	-	-	NP_S()	NP_L()	-	-	1_0_0
+513_947073184985214981.branch1.	170	1	Hi	UH	(SBAR(S(INTJ*)	huntsdc	-	-	-	-	CL6	-	-	-	-	1_0_1
+513_947073184985214981.branch1.	170	2	,	,	*	huntsdc	-	-	-	-	-	-	-	-	-	1_0_2
+513_947073184985214981.branch1.	170	3	@CambsCC	NN	(NP(NP*)	huntsdc	representative_men	-	ne/none	(1009)	-	NP_S()	NP_L(	-	-	1_0_3
+513_947073184985214981.branch1.	170	4	or	CC	*	huntsdc	-	-	-	-	-	-	-	-	-	1_0_4
+513_947073184985214981.branch1.	170	5	@AnglianWater	NN	(NP*))	huntsdc	representative_men	-	ne/none	(1010)	-	NP_S()	)NP_L	-	-	1_0_5
+513_947073184985214981.branch1.	170	6	may	MD	(VP*	huntsdc	-	-	-	-	-	-	-	-	-	1_0_6
+513_947073184985214981.branch1.	170	7	be	VB	(VP*	huntsdc	-	-	-	-	-	-	-	-	-	1_0_7
+513_947073184985214981.branch1.	170	8	able	JJ	(ADJP*	huntsdc	-	-	-	-	CL6	-	-	-	-	1_0_8
+513_947073184985214981.branch1.	170	9	to	TO	(S(VP*	huntsdc	-	-	-	-	CL7	-	-	-	-	1_0_9
+513_947073184985214981.branch1.	170	10	help	VB	(VP*	huntsdc	-	-	-	-	-	-	-	-	-	1_0_10
+513_947073184985214981.branch1.	170	11	you	PRP	(NP*))))))))))	huntsdc	-	-	ppers/anaphora	(27)	-	NP_S()	NP_L()	dir_obj	not_assigned	1_0_11
+513_947073184985214981.branch1.	170	12	.	.	*))	huntsdc	-	-	-	-	CL7	-	-	-	-	1_0_12
+
+513_947073184985214981.branch1.	170	0	Thank	VB	(ROOT(S(VP*	huntsdc	-	-	-	-	CL8	-	-	-	-	1_1_0
+513_947073184985214981.branch1.	170	1	you	PRP	(NP*))))	huntsdc	-	-	ppers/anaphora	(27)	CL8	NP_S()	NP_L()	dir_obj	not_assigned	1_1_1
+
+513_947073184985214981.branch1.	170	0	@huntsdc	NN	(ROOT(S(NP(NP*	goonerneal	-	-	-	-	-	NP_S(	NP_L(	-	-	2_0_0
+513_947073184985214981.branch1.	170	1	@CambsCC	NN	*	goonerneal	-	-	-	-	-	-	-	-	-	2_0_1
+513_947073184985214981.branch1.	170	2	@AnglianWater	NN	*	goonerneal	-	-	-	-	-	-	-	-	-	2_0_2
+513_947073184985214981.branch1.	170	3	@CambsCC	NN	*	goonerneal	-	-	-	-	-	-	-	-	-	2_0_3
+513_947073184985214981.branch1.	170	4	@AnglianWater	NN	*)	goonerneal	-	-	-	-	-	)NP_S	)NP_L	-	-	2_0_4
+513_947073184985214981.branch1.	170	5	hi	UH	(SBAR(S(INTJ*)	goonerneal	-	-	-	-	CL10	-	-	-	-	2_0_5
+513_947073184985214981.branch1.	170	6	any	DT	(NP*	goonerneal	representative_men	other	indefnp/none	(1000	-	NP_S(	NP_L(	-	-	2_0_6
+513_947073184985214981.branch1.	170	7	chance	NN	*	goonerneal	-	-	-	1000)	-	)NP_S	)NP_L	-	-	2_0_7
+513_947073184985214981.branch1.	170	8	somebody	NN	*)	goonerneal	representative_men	-	indefnp/none	(1001)	-	NP_S()	NP_L()	-	-	2_0_8
+513_947073184985214981.branch1.	170	9	could	MD	(VP*	goonerneal	-	-	-	-	-	-	-	-	-	2_0_9
+513_947073184985214981.branch1.	170	10	take	VB	(VP*	goonerneal	-	-	-	-	-	-	-	-	-	2_0_10
+513_947073184985214981.branch1.	170	11	a	DT	(NP*	goonerneal	representative_men	other	indefnp/none	(23	-	NP_S(	NP_L(	dir_obj	specific	2_0_11
+513_947073184985214981.branch1.	170	12	look	NN	*)	goonerneal	-	-	-	23)	-	)NP_S	)NP_L	-	-	2_0_12
+513_947073184985214981.branch1.	170	13	at	IN	(PP*	goonerneal	-	-	-	-	-	-	-	-	-	2_0_13
+513_947073184985214981.branch1.	170	14	this	DT	(NP*)))))))	goonerneal	-	-	pds/anaphora	(24)	-	NP_S()	NP_L()	prep_phrase	not_assigned	2_0_14
+513_947073184985214981.branch1.	170	15	please	VB	(VP*)	goonerneal	-	-	-	-	-	-	-	-	-	2_0_15
+513_947073184985214981.branch1.	170	16	?	.	*))	goonerneal	-	-	-	-	CL10	-	-	-	-	2_0_16
+
+513_947073184985214981.branch1.	170	0	Thanks	NNS	(ROOT(NP*))	goonerneal	-	-	-	-	-	NP_S()	NP_L()	-	-	2_1_0
+
+513_947073184985214981.branch1.	170	0	@goonerneal	JJ	(ROOT(S(NP(NP*	AnglianWater	-	-	-	-	-	NP_S(	NP_L(	-	-	3_0_0
+513_947073184985214981.branch1.	170	1	@huntsdc	NN	*)	AnglianWater	-	-	-	-	-	-	-	-	-	3_0_1
+513_947073184985214981.branch1.	170	2	@CambsCC	NN	(PP(NP(NP*)	AnglianWater	-	-	-	-	-	)NP_S	)NP_L	-	-	3_0_2
+513_947073184985214981.branch1.	170	3	Hi	UH	(FRAG(INTJ*)))	AnglianWater	-	-	-	-	CL14	-	-	-	-	3_0_3
+513_947073184985214981.branch1.	170	4	Neal	NNP	(NP(NP*)	AnglianWater	representative_men	-	ne/none	(27)	-	NP_S()	NP_L()	other/vocative	specific	3_0_4
+513_947073184985214981.branch1.	170	5	,	,	*	AnglianWater	-	-	-	-	-	-	-	-	-	3_0_5
+513_947073184985214981.branch1.	170	6	if	IN	(SBAR*	AnglianWater	-	-	-	-	-	-	-	-	-	3_0_6
+513_947073184985214981.branch1.	170	7	you	PRP	(S(NP*)	AnglianWater	-	-	ppers/anaphora	(27)	-	NP_S()	NP_L()	sbj	not_assigned	3_0_7
+513_947073184985214981.branch1.	170	8	can	MD	(VP*	AnglianWater	-	-	-	-	-	-	-	-	-	3_0_8
+513_947073184985214981.branch1.	170	9	let	VB	(VP*	AnglianWater	-	-	-	-	-	-	-	-	-	3_0_9
+513_947073184985214981.branch1.	170	10	me	PRP	(S(NP*)	AnglianWater	-	-	ppers/exophora	(26)	CL14	NP_S()	NP_L()	dir_obj	not_assigned	3_0_10
+513_947073184985214981.branch1.	170	11	know	VB	(VP*	AnglianWater	-	-	-	-	CLX	-	-	-	-	3_0_11
+513_947073184985214981.branch1.	170	12	your	PRP$	(S(NP*	AnglianWater	representative_men	loc	ppos/anaphora|defnp/none	(27)|(1021	-	NP_S(	NP_L(	dir_obj	not_assigned	3_0_12
+513_947073184985214981.branch1.	170	13	full	JJ	*	AnglianWater	-	-	-	-	-	-	-	-	-	3_0_13
+513_947073184985214981.branch1.	170	14	address	NN	*)	AnglianWater	-	-	-	1021)	CLX	)NP_S	)NP_L	-	-	3_0_14
+513_947073184985214981.branch1.	170	15	I	PRP	(NP*)))))))))))	AnglianWater	-	-	ppers/anaphora	(26)	CLX	NP_S()	NP_L()	sbj	not_assigned	3_0_15
+513_947073184985214981.branch1.	170	16	'll	MD	(VP*	AnglianWater	-	-	-	-	-	-	-	-	-	3_0_16
+513_947073184985214981.branch1.	170	17	have	VB	(VP*	AnglianWater	-	-	-	-	-	-	-	-	-	3_0_17
+513_947073184985214981.branch1.	170	18	a	DT	(NP*	AnglianWater	-	-	indefnp/none	(23	-	NP_S(	NP_L(	dir_obj	not_assigned	3_0_18
+513_947073184985214981.branch1.	170	19	look	NN	*)	AnglianWater	-	-	-	23)	-	)NP_S	)NP_L	-	-	3_0_19
+513_947073184985214981.branch1.	170	20	into	IN	(PP*	AnglianWater	-	-	-	-	-	-	-	-	-	3_0_20
+513_947073184985214981.branch1.	170	21	this	DT	(NP*))))	AnglianWater	-	-	pds/anaphora	(24)	-	NP_S()	NP_L()	prep_phrase	not_assigned	3_0_21
+513_947073184985214981.branch1.	170	22	.	.	*))	AnglianWater	-	-	-	-	CLX	-	-	-	-	3_0_22
+
+513_947073184985214981.branch1.	170	0	Thanks	NNS	(ROOT(NP(NP*)	AnglianWater	-	-	-	-	CL16	NP_S()	NP_L()	-	-	3_1_0
+513_947073184985214981.branch1.	170	1	,	,	*	AnglianWater	-	-	-	-	-	-	-	-	-	3_1_1
+513_947073184985214981.branch1.	170	2	Sam	NNP	(NP*	AnglianWater	representative_men	-	ne/none	(26)	CL16	NP_S()	NP_L()	other/other	specific	3_1_2
+513_947073184985214981.branch1.	170	3	https://t.co/y94x1oGRLL	NNP	*)))	AnglianWater	-	-	-	-	-	-	-	-	-	3_1_3
+
+513_947073184985214981.branch1.	170	0	@AnglianWater	NN	(ROOT(S(NP*	goonerneal	-	-	-	-	-	NP_S(	NP_L(	-	-	4_0_0
+513_947073184985214981.branch1.	170	1	@huntsdc	NN	*	goonerneal	-	-	-	-	-	-	-	-	-	4_0_1
+513_947073184985214981.branch1.	170	2	@CambsCC	NN	*)	goonerneal	-	-	-	-	-	)NP_S	)NP_L	-	-	4_0_2
+513_947073184985214981.branch1.	170	3	Hi	UH	(VP(NP(INTJ*)	goonerneal	-	-	-	-	CL17	-	-	-	-	4_0_3
+513_947073184985214981.branch1.	170	4	Sam	NNP	(NP*)))	goonerneal	-	-	ne/none	(26)	-	NP_S()	NP_L()	other/vocative	not_assigned	4_0_4
+513_947073184985214981.branch1.	170	5	.	.	*))	goonerneal	-	-	-	-	CL17	-	-	-	-	4_0_5
+
+513_947073184985214981.branch1.	170	0	Thanks	NNS	(ROOT(NP(NP*)	goonerneal	-	-	-	-	CL18	NP_S()	NP_L()	-	-	4_1_0
+513_947073184985214981.branch1.	170	1	for	IN	(PP*	goonerneal	-	-	-	-	-	-	-	-	-	4_1_1
+513_947073184985214981.branch1.	170	2	getting	VBG	(S(VP*	goonerneal	-	-	-	-	-	-	-	-	-	4_1_2
+513_947073184985214981.branch1.	170	3	back	RB	(ADVP*)	goonerneal	-	-	-	-	-	-	-	-	-	4_1_3
+513_947073184985214981.branch1.	170	4	to	TO	(PP*	goonerneal	-	-	-	-	-	-	-	-	-	4_1_4
+513_947073184985214981.branch1.	170	5	me	PRP	(NP*)))))	goonerneal	-	-	ppers/anaphora	(27)	-	NP_S()	NP_L()	prep_phrase	not_assigned	4_1_5
+513_947073184985214981.branch1.	170	6	.	.	*))	goonerneal	-	-	-	-	CL18	-	-	-	-	4_1_6
+
+513_947073184985214981.branch1.	170	0	It	PRP	(ROOT(NP(NP*)	goonerneal	representative_men	-	ppers/exophora	(16)	CL19	NP_S()	NP_L()	sbj	specific	4_2_0
+513_947073184985214981.branch1.	170	1	outside	IN	(PP*	goonerneal	-	-	-	-	-	NP_S()	NP_L()	-	-	4_2_1
+513_947073184985214981.branch1.	170	2	12	CD	(NP*	goonerneal	-	-	defnp/none	(16	-	NP_S(	NP_L(	prep_phrase	not_assigned	4_2_2
+513_947073184985214981.branch1.	170	3	Greenfield	NNP	*	goonerneal	-	-	-	-	-	-	-	-	-	4_2_3
+513_947073184985214981.branch1.	170	4	St	NNP	*	goonerneal	-	-	-	-	-	-	-	-	-	4_2_4
+513_947073184985214981.branch1.	170	5	Neots	NNP	*))	goonerneal	-	-	-	16)	-	)NP_S	)NP_L	-	-	4_2_5
+513_947073184985214981.branch1.	170	6	.	.	*))	goonerneal	-	-	-	-	CL19	-	-	-	-	4_2_6
+
+513_947073184985214981.branch1.	170	0	Thanks	NNS	(ROOT(NP(NP*)	goonerneal	-	-	-	-	-	NP_S()	NP_L()	-	-	4_3_0
+513_947073184985214981.branch1.	170	1	https://t.co/dWTjlsm02r	NN	(NP*)))	goonerneal	-	-	-	-	-	-	-	-	-	4_3_1
+
+513_947073184985214981.branch1.	170	0	@AnglianWater	NN	(ROOT(FRAG(NP(NP*	goonerneal	-	-	-	-	-	NP_S(	NP_L(	-	-	5_0_0
+513_947073184985214981.branch1.	170	1	@huntsdc	NN	*	goonerneal	-	-	-	-	-	-	-	-	-	5_0_1
+513_947073184985214981.branch1.	170	2	@CambsCC	NN	*)	goonerneal	-	-	-	-	-	)NP_S	)NP_L	-	-	5_0_2
+513_947073184985214981.branch1.	170	3	PS	NNP	(SBAR(S(NP*	goonerneal	-	-	-	-	CL22	-	-	-	-	5_0_3
+513_947073184985214981.branch1.	170	4	it	PRP	*)	goonerneal	-	-	ppers/anaphora	(16)	-	NP_S()	NP_L()	sbj	not_assigned	5_0_4
+513_947073184985214981.branch1.	170	5	's	VBZ	(VP*	goonerneal	-	-	-	-	-	-	-	-	-	5_0_5
+513_947073184985214981.branch1.	170	6	outside	JJ	(ADVP*)	goonerneal	-	-	-	-	-	NP_S()	NP_L()	-	-	5_0_6
+513_947073184985214981.branch1.	170	7	my	PRP$	(NP*	goonerneal	representative_men|representative_men	human|phys_obj	defnp/none|defnp/none|ppos/anaphora	(1012|(1015|(27)	-	NP_S(	NP_L(	prep_phrase	not_assigned	5_0_7
+513_947073184985214981.branch1.	170	8	in-laws	NNS	*	goonerneal	-	-	-	1012)	-	-	-	-	-	5_0_8
+513_947073184985214981.branch1.	170	9	house	NN	*)))))))	goonerneal	-	-	-	1015)	CL22	)NP_S	)NP_L	-	-	5_0_9
+
+513_947073184985214981.branch1.	170	0	I	PRP	(ROOT(S(NP*)	goonerneal	-	-	ppers/anaphora	(27)	CL23	NP_S()	NP_L()	sbj	not_assigned	5_1_0
+513_947073184985214981.branch1.	170	1	live	VBP	(VP*	goonerneal	-	-	-	-	-	-	-	-	-	5_1_1
+513_947073184985214981.branch1.	170	2	across	IN	(PP*	goonerneal	-	-	-	-	-	-	-	-	-	5_1_2
+513_947073184985214981.branch1.	170	3	the	DT	(NP(NP*	goonerneal	representative_men	loc	defnp/none	(21	-	NP_S(	NP_L(	prep_phrase	specific	5_1_3
+513_947073184985214981.branch1.	170	4	road	NN	*)	goonerneal	-	-	-	21)	-	)NP_S	-	-	-	5_1_4
+513_947073184985214981.branch1.	170	5	on	IN	(PP*	goonerneal	-	-	-	-	-	-	-	-	-	5_1_5
+513_947073184985214981.branch1.	170	6	Princes	NNPS	(NP*	goonerneal	representative_men	loc	ne/none	(1014	-	NP_S(	-	-	-	5_1_6
+513_947073184985214981.branch1.	170	7	Drive	NNP	*)))))	goonerneal	-	-	-	1014)	-	)NP_S	)NP_L	-	-	5_1_7
+513_947073184985214981.branch1.	170	8	.	.	*))	goonerneal	-	-	-	-	CL23	-	-	-	-	5_1_8
+
+513_947073184985214981.branch1.	170	0	@goonerneal	JJ	(ROOT(S(NP*	AnglianWater	-	-	-	-	-	NP_S(	NP_L(	-	-	6_0_0
+513_947073184985214981.branch1.	170	1	@huntsdc	NN	*	AnglianWater	-	-	-	-	-	-	-	-	-	6_0_1
+513_947073184985214981.branch1.	170	2	@CambsCC	NN	*	AnglianWater	-	-	-	-	-	)NP_S	)NP_L	-	-	6_0_2
+513_947073184985214981.branch1.	170	3	Thanks	NNS	*)	AnglianWater	-	-	-	-	CL25	-	-	-	-	6_0_3
+513_947073184985214981.branch1.	170	4	,	,	*	AnglianWater	-	-	-	-	-	-	-	-	-	6_0_4
+513_947073184985214981.branch1.	170	5	is	VBZ	(S(VP(VP*	AnglianWater	-	-	-	-	-	-	-	-	-	6_0_5
+513_947073184985214981.branch1.	170	6	it	PRP	(NP*)	AnglianWater	-	-	ppers/exophora	(20)	-	NP_S()	NP_L()	sbj	not_assigned	6_0_6
+513_947073184985214981.branch1.	170	7	still	RB	(S(VP(ADVP*)	AnglianWater	-	-	-	-	-	-	-	-	-	6_0_7
+513_947073184985214981.branch1.	170	8	leaking	VBG	*	AnglianWater	-	-	-	-	-	-	-	-	-	6_0_8
+513_947073184985214981.branch1.	170	9	out	RP	(PRT*)	AnglianWater	-	-	-	-	-	-	-	-	-	6_0_9
+513_947073184985214981.branch1.	170	10	at	IN	(PP*	AnglianWater	-	-	-	-	-	-	-	-	-	6_0_10
+513_947073184985214981.branch1.	170	11	the	DT	(NP*	AnglianWater	representative_men	time	defnp/none	(1013	-	NP_S(	NP_L(	-	-	6_0_11
+513_947073184985214981.branch1.	170	12	moment	NN	*)))))	AnglianWater	-	-	-	1013)	CL25	)NP_S	)NP_L	-	-	6_0_12
+513_947073184985214981.branch1.	170	13	or	CC	*	AnglianWater	-	-	-	-	CLX	-	-	-	-	6_0_13
+513_947073184985214981.branch1.	170	14	has	VBZ	(VP*	AnglianWater	-	-	-	-	-	-	-	-	-	6_0_14
+513_947073184985214981.branch1.	170	15	it	PRP	(NP*))))	AnglianWater	-	-	ppers/anaphora	(20)	-	NP_S()	NP_L()	sbj	not_assigned	6_0_15
+513_947073184985214981.branch1.	170	16	stopped	VBD	(VP*	AnglianWater	-	-	-	-	-	-	-	-	-	6_0_16
+513_947073184985214981.branch1.	170	17	now	RB	(ADVP*))	AnglianWater	representative_men	-	defnp/exophora	(1007)	-	-	-	-	-	6_0_17
+513_947073184985214981.branch1.	170	18	?	.	*))	AnglianWater	-	-	-	-	CLX	-	-	-	-	6_0_18
+
+513_947073184985214981.branch1.	170	0	And	CC	(ROOT(SQ*	AnglianWater	-	-	-	-	CL27	-	-	-	-	6_1_0
+513_947073184985214981.branch1.	170	1	is	VBZ	*	AnglianWater	-	-	-	-	-	-	-	-	-	6_1_1
+513_947073184985214981.branch1.	170	2	there	EX	(NP*)	AnglianWater	representative_men	-	padv/non-referential_pronoun	(1018)	-	NP_S()	NP_L()	-	-	6_1_2
+513_947073184985214981.branch1.	170	3	a	DT	(NP(NP*	AnglianWater	representative_men	other	indefnp/none	(1017	-	NP_S(	NP_L(	-	-	6_1_3
+513_947073184985214981.branch1.	170	4	smell	NN	*)	AnglianWater	-	-	-	1017)	-	)NP_S	)NP_L	-	-	6_1_4
+513_947073184985214981.branch1.	170	5	at	IN	(PP*	AnglianWater	-	-	-	-	-	-	-	-	-	6_1_5
+513_947073184985214981.branch1.	170	6	all	DT	(NP(NP*)	AnglianWater	-	-	-	-	CL27	NP_S()	NP_L()	-	-	6_1_6
+513_947073184985214981.branch1.	170	7	or	CC	*	AnglianWater	-	-	-	-	CL28	-	-	-	-	6_1_7
+513_947073184985214981.branch1.	170	8	does	VBZ	(S(VP*	AnglianWater	-	-	-	-	-	-	-	-	-	6_1_8
+513_947073184985214981.branch1.	170	9	it	PRP	(S(NP*)	AnglianWater	-	-	ppers/anaphora	(20)	-	NP_S()	NP_L()	sbj	not_assigned	6_1_9
+513_947073184985214981.branch1.	170	10	seem	VB	(VP*	AnglianWater	-	-	-	-	CL28	-	-	-	-	6_1_10
+513_947073184985214981.branch1.	170	11	to	TO	(S(VP*	AnglianWater	-	-	-	-	CL30	-	-	-	-	6_1_11
+513_947073184985214981.branch1.	170	12	be	VB	(VP*	AnglianWater	-	-	-	-	-	-	-	-	-	6_1_12
+513_947073184985214981.branch1.	170	13	rain	NN	(NP*	AnglianWater	-	-	defnp/none	(20	-	NP_S(	NP_L(	dir_obj	not_assigned	6_1_13
+513_947073184985214981.branch1.	170	14	water	NN	*)))))))))))	AnglianWater	-	-	-	20)	-	)NP_S	)NP_L	-	-	6_1_14
+513_947073184985214981.branch1.	170	15	?	.	*))	AnglianWater	-	-	-	-	CL30	-	-	-	-	6_1_15
+
+513_947073184985214981.branch1.	170	0	@AnglianWater	NN	(ROOT(NP(NP*	goonerneal	-	-	-	-	-	NP_S(	NP_L(	-	-	7_0_0
+513_947073184985214981.branch1.	170	1	@huntsdc	NN	*	goonerneal	-	-	-	-	-	-	-	-	-	7_0_1
+513_947073184985214981.branch1.	170	2	@CambsCC	NN	*	goonerneal	-	-	-	-	-	)NP_S	)NP_L	-	-	7_0_2
+513_947073184985214981.branch1.	170	3	Pretty	NNP	*)	goonerneal	-	-	-	-	CL31	-	-	-	-	7_0_3
+513_947073184985214981.branch1.	170	4	sure	JJ	(ADJP*	goonerneal	-	-	-	-	-	-	-	-	-	7_0_4
+513_947073184985214981.branch1.	170	5	it	PRP	(SBAR(S(NP*)	goonerneal	-	-	ppers/anaphora	(20)	-	NP_S()	NP_L()	sbj	not_assigned	7_0_5
+513_947073184985214981.branch1.	170	6	's	VBZ	(VP*	goonerneal	-	-	-	-	-	-	-	-	-	7_0_6
+513_947073184985214981.branch1.	170	7	rain	NN	(NP*	goonerneal	representative_men	phys_obj	defnp/none	(20	-	NP_S(	NP_L(	copula_rel	generic	7_0_7
+513_947073184985214981.branch1.	170	8	water	NN	*)	goonerneal	-	-	-	20)	CL31	)NP_S	)NP_L	-	-	7_0_8
+513_947073184985214981.branch1.	170	9	as	IN	(SBAR*	goonerneal	-	-	-	-	CL32	-	-	-	-	7_0_9
+513_947073184985214981.branch1.	170	10	it	PRP	(S(NP*)	goonerneal	representative_men	-	ppers/anaphora	(1020)	-	NP_S()	NP_L()	-	-	7_0_10
+513_947073184985214981.branch1.	170	11	only	RB	(ADVP*)	goonerneal	-	-	-	-	-	-	-	-	-	7_0_11
+513_947073184985214981.branch1.	170	12	happens	VBZ	(VP*	goonerneal	-	-	-	-	CL32	-	-	-	-	7_0_12
+513_947073184985214981.branch1.	170	13	when	WRB	(NP*)	goonerneal	-	-	-	-	CLX	-	-	-	-	7_0_13
+513_947073184985214981.branch1.	170	14	it	PRP	(NP-TMP(NP*)	goonerneal	representative_men	-	ppers/non-referential_pronoun	(1019)	-	NP_S()	NP_L()	-	-	7_0_14
+513_947073184985214981.branch1.	170	15	rains	NNS	(NP*)))))))))	goonerneal	-	-	-	-	-	-	-	-	-	7_0_15
+513_947073184985214981.branch1.	170	16	.	.	*))	goonerneal	-	-	-	-	CLX	-	-	-	-	7_0_16
+
+513_947073184985214981.branch1.	170	0	It	PRP	(ROOT(S(NP*)	goonerneal	-	-	ppers/anaphora	(20)	CL33	NP_S()	NP_L()	sbj	not_assigned	7_1_0
+513_947073184985214981.branch1.	170	1	then	RB	(VP(ADVP*)	goonerneal	-	-	-	-	-	-	-	-	-	7_1_1
+513_947073184985214981.branch1.	170	2	goes	VBZ	*	goonerneal	-	-	-	-	-	-	-	-	-	7_1_2
+513_947073184985214981.branch1.	170	3	down	IN	(ADVP*	goonerneal	-	-	-	-	-	-	-	-	-	7_1_3
+513_947073184985214981.branch1.	170	4	the	DT	(NP*	goonerneal	-	-	defnp/none	(21	-	NP_S(	NP_L(	prep_phrase	not_assigned	7_1_4
+513_947073184985214981.branch1.	170	5	road	NN	*))	goonerneal	-	-	-	21)	-	)NP_S	)NP_L	-	-	7_1_5
+513_947073184985214981.branch1.	170	6	straight	RB	(ADVP*)	goonerneal	-	-	-	-	-	-	-	-	-	7_1_6
+513_947073184985214981.branch1.	170	7	into	IN	(PP*	goonerneal	-	-	-	-	-	-	-	-	-	7_1_7
+513_947073184985214981.branch1.	170	8	the	DT	(NP*	goonerneal	representative_men	phys_obj	defnp/none	(1016	-	NP_S(	NP_L(	-	-	7_1_8
+513_947073184985214981.branch1.	170	9	gully	NN	*)))))	goonerneal	-	-	-	1016)	CL33	)NP_S	)NP_L	-	-	7_1_9
+
+513_947073184985214981.branch1.	170	0	@goonerneal	JJ	(ROOT(NP(S(NP*	AnglianWater	-	-	-	-	-	NP_S(	NP_L(	-	-	8_0_0
+513_947073184985214981.branch1.	170	1	@huntsdc	NN	*	AnglianWater	-	-	-	-	-	-	-	-	-	8_0_1
+513_947073184985214981.branch1.	170	2	@CambsCC	NN	*	AnglianWater	-	-	-	-	-	)NP_S	)NP_L	-	-	8_0_2
+513_947073184985214981.branch1.	170	3	Thanks	NNS	*)	AnglianWater	-	-	-	-	CL34	-	-	-	-	8_0_3
+513_947073184985214981.branch1.	170	4	,	,	*	AnglianWater	-	-	-	-	-	-	-	-	-	8_0_4
+513_947073184985214981.branch1.	170	5	I	PRP	(NP*)	AnglianWater	-	-	ppers/anaphora	(26)	-	NP_S()	NP_L()	sbj	not_assigned	8_0_5
+513_947073184985214981.branch1.	170	6	'll	MD	(VP*	AnglianWater	-	-	-	-	-	-	-	-	-	8_0_6
+513_947073184985214981.branch1.	170	7	get	VB	(VP*	AnglianWater	-	-	-	-	-	-	-	-	-	8_0_7
+513_947073184985214981.branch1.	170	8	someone	NN	(NP*)	AnglianWater	representative_men	-	indefnp/none	(1003)	-	NP_S()	NP_L()	-	-	8_0_8
+513_947073184985214981.branch1.	170	9	out	IN	(ADVP*	AnglianWater	-	-	-	-	-	-	-	-	-	8_0_9
+513_947073184985214981.branch1.	170	10	in	IN	(PP*	AnglianWater	-	-	-	-	-	-	-	-	-	8_0_10
+513_947073184985214981.branch1.	170	11	the	DT	(NP-TMP*	AnglianWater	representative_men	time	defnp/exophora	(1002	-	NP_S(	NP_L(	-	-	8_0_11
+513_947073184985214981.branch1.	170	12	next	JJ	*	AnglianWater	-	-	-	-	-	-	-	-	-	8_0_12
+513_947073184985214981.branch1.	170	13	3	CD	*	AnglianWater	-	-	-	-	-	-	-	-	-	8_0_13
+513_947073184985214981.branch1.	170	14	days	NNS	*)))	AnglianWater	-	-	-	1002)	CL34	)NP_S	)NP_L	-	-	8_0_14
+513_947073184985214981.branch1.	170	15	to	TO	(S(VP*	AnglianWater	-	-	-	-	CL35	-	-	-	-	8_0_15
+513_947073184985214981.branch1.	170	16	take	VB	(VP*	AnglianWater	-	-	-	-	-	-	-	-	-	8_0_16
+513_947073184985214981.branch1.	170	17	a	DT	(NP*	AnglianWater	-	-	indefnp/none	(23	-	NP_S(	NP_L(	dir_obj	not_assigned	8_0_17
+513_947073184985214981.branch1.	170	18	look	NN	*)	AnglianWater	-	-	-	23)	-	)NP_S	)NP_L	-	-	8_0_18
+513_947073184985214981.branch1.	170	19	at	IN	(PP*	AnglianWater	-	-	-	-	-	-	-	-	-	8_0_19
+513_947073184985214981.branch1.	170	20	this	DT	(NP(NP*)	AnglianWater	-	-	pds/anaphora	(24)	CL35	NP_S()	NP_L()	prep_phrase	not_assigned	8_0_20
+513_947073184985214981.branch1.	170	21	and	CC	*	AnglianWater	-	-	-	-	CLX	-	-	-	-	8_0_21
+513_947073184985214981.branch1.	170	22	the	DT	(NP*	AnglianWater	representative_men	other	defnp/none	(25	-	NP_S(	NP_L(	sbj	specific	8_0_22
+513_947073184985214981.branch1.	170	23	reference	NN	*	AnglianWater	-	-	-	-	-	-	-	-	-	8_0_23
+513_947073184985214981.branch1.	170	24	number	NN	*)))	AnglianWater	-	-	-	25)	-	)NP_S	-	-	-	8_0_24
+513_947073184985214981.branch1.	170	25	for	IN	(SBAR*	AnglianWater	-	-	-	-	-	-	-	-	-	8_0_25
+513_947073184985214981.branch1.	170	26	that	DT	(S(NP*)	AnglianWater	representative_men	-	pds/anaphora	(1004)	-	NP_S()	)NP_L	-	-	8_0_26
+513_947073184985214981.branch1.	170	27	is	VBZ	(VP*	AnglianWater	-	-	-	-	-	-	-	-	-	8_0_27
+513_947073184985214981.branch1.	170	28	54439396	CD	(NP*))))))))))))	AnglianWater	-	-	ne/none	(25)	CLX	NP_S()	NP_L()	copula_rel	not_assigned	8_0_28
+
+513_947073184985214981.branch1.	170	0	@AnglianWater	NN	(ROOT(S(NP*	goonerneal	-	-	-	-	-	NP_S(	NP_L(	-	-	9_0_0
+513_947073184985214981.branch1.	170	1	@huntsdc	NN	*	goonerneal	-	-	-	-	-	-	-	-	-	9_0_1
+513_947073184985214981.branch1.	170	2	@CambsCC	NN	*)	goonerneal	-	-	-	-	-	)NP_S	)NP_L	-	-	9_0_2
+513_947073184985214981.branch1.	170	3	Thank	VB	(VP*	goonerneal	-	-	-	-	CL37	-	-	-	-	9_0_3
+513_947073184985214981.branch1.	170	4	you	PRP	(NP*))	goonerneal	-	-	ppers/anaphora	(26)	-	NP_S()	NP_L()	dir_obj	not_assigned	9_0_4
+513_947073184985214981.branch1.	170	5	.	.	*))	goonerneal	-	-	-	-	CL37	-	-	-	-	9_0_5
+
+513_947073184985214981.branch1.	170	0	Neal	NNP	(ROOT(NP*))	goonerneal	-	-	ne/none	(27)	-	NP_S()	NP_L()	other/other	not_assigned	9_1_0
+
+#end document

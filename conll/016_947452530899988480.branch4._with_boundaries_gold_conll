@@ -1,0 +1,121 @@
+#begin document (016_947452530899988480.branch4.); part 12
+016_947452530899988480.branch4.	12	0	So	RB	(ROOT(S(ADVP*)	SheRa_Marley	-	-	-	-	CL0	-	-	-	-	0_0_0
+016_947452530899988480.branch4.	12	1	let	VB	(VP*	SheRa_Marley	-	-	-	-	-	-	-	-	-	0_0_1
+016_947452530899988480.branch4.	12	2	's	POS	(S(NP*)	SheRa_Marley	representative_men	-	ppers/exophora	(1014)	-	NP_S()	NP_L()	-	-	0_0_2
+016_947452530899988480.branch4.	12	3	address	VB	(VP*	SheRa_Marley	-	-	-	-	-	-	-	-	-	0_0_3
+016_947452530899988480.branch4.	12	4	your	PRP$	(NP*	SheRa_Marley	representative_men	other	defnp/none|ppos/cataphora	(1001|(0)	-	NP_S(	NP_L(	dir_obj	not_assigned	0_0_4
+016_947452530899988480.branch4.	12	5	points	NNS	*)	SheRa_Marley	-	-	-	1001)	-	)NP_S	)NP_L	-	-	0_0_5
+016_947452530899988480.branch4.	12	6	here	RB	(ADVP*)	SheRa_Marley	representative_men	-	padv/exophora	(1002)	-	-	-	-	-	0_0_6
+016_947452530899988480.branch4.	12	7	,	,	*	SheRa_Marley	-	-	-	-	-	-	-	-	-	0_0_7
+016_947452530899988480.branch4.	12	8	@OwenJones84	NN	(SBAR(NP*)	SheRa_Marley	representative_men	-	ne/none	(0)	CL0	NP_S()	NP_L()	other/vocative	specific	0_0_8
+016_947452530899988480.branch4.	12	9	as	IN	*	SheRa_Marley	-	-	-	-	CL2	-	-	-	-	0_0_9
+016_947452530899988480.branch4.	12	10	you	PRP	(S(NP*)	SheRa_Marley	-	-	ppers/anaphora	(0)	-	NP_S()	NP_L()	sbj	not_assigned	0_0_10
+016_947452530899988480.branch4.	12	11	appear	VBP	(VP*	SheRa_Marley	-	-	-	-	-	-	-	-	-	0_0_11
+016_947452530899988480.branch4.	12	12	to	TO	(S(VP*	SheRa_Marley	-	-	-	-	CL3	-	-	-	-	0_0_12
+016_947452530899988480.branch4.	12	13	be	VB	(VP*	SheRa_Marley	-	-	-	-	-	-	-	-	-	0_0_13
+016_947452530899988480.branch4.	12	14	living	VBG	(VP*	SheRa_Marley	-	-	-	-	-	-	-	-	-	0_0_14
+016_947452530899988480.branch4.	12	15	in	IN	(PP*	SheRa_Marley	-	-	-	-	-	-	-	-	-	0_0_15
+016_947452530899988480.branch4.	12	16	a	DT	(NP*	SheRa_Marley	representative_men	other	indefnp/none	(1006	-	NP_S(	NP_L(	-	-	0_0_16
+016_947452530899988480.branch4.	12	17	vacuum	NN	*)))))))	SheRa_Marley	-	-	-	1006)	CL3|CL2	)NP_S	)NP_L	-	-	0_0_17
+016_947452530899988480.branch4.	12	18	whilst	IN	(SBAR*	SheRa_Marley	-	-	-	-	CL4	-	-	-	-	0_0_18
+016_947452530899988480.branch4.	12	19	claiming	VBG	(S(VP*	SheRa_Marley	-	-	-	-	-	-	-	-	-	0_0_19
+016_947452530899988480.branch4.	12	20	to	TO	(S(VP*	SheRa_Marley	-	-	-	-	CL5	-	-	-	-	0_0_20
+016_947452530899988480.branch4.	12	21	hear	VB	(VP*	SheRa_Marley	-	-	-	-	-	-	-	-	-	0_0_21
+016_947452530899988480.branch4.	12	22	the	DT	(NP(NP(NP*	SheRa_Marley	representative_men	abstract	defnp/none	(1	-	NP_S(	NP_L(	dir_obj	specific	0_0_22
+016_947452530899988480.branch4.	12	23	voices	NNS	*)	SheRa_Marley	-	-	-	-	-	)NP_S	-	-	-	0_0_23
+016_947452530899988480.branch4.	12	24	of	IN	(PP*	SheRa_Marley	-	-	-	-	-	-	-	-	-	0_0_24
+016_947452530899988480.branch4.	12	25	the	DT	(NP*	SheRa_Marley	representative_men	human	defnp/none	(1005	-	NP_S(	-	-	-	0_0_25
+016_947452530899988480.branch4.	12	26	people	NNS	*)))	SheRa_Marley	-	-	-	1005)|1)	-	)NP_S	)NP_L	-	-	0_0_26
+016_947452530899988480.branch4.	12	27	:	:	*	SheRa_Marley	-	-	-	-	CL5|CL4	-	-	-	-	0_0_27
+016_947452530899988480.branch4.	12	28	https://t.co/2m2syyHQHD	NN	(NP*)))))))))))))))	SheRa_Marley	-	-	-	-	-	-	-	-	-	0_0_28
+
+016_947452530899988480.branch4.	12	0	@SheRa_Marley	NN	(ROOT(S(VP(NP(NP*	valko665	-	-	-	-	-	NP_S(	NP_L(	-	-	1_0_0
+016_947452530899988480.branch4.	12	1	@OwenJones84	NN	*)	valko665	-	-	-	-	-	)NP_S	)NP_L	-	-	1_0_1
+016_947452530899988480.branch4.	12	2	''	''	*	valko665	-	-	-	-	CL7	-	-	-	-	1_0_2
+016_947452530899988480.branch4.	12	3	Remainers	NNPS	(SBAR(S(NP(NP(NP*)	valko665	representative_men	-	defnp/none	(1012)	-	NP_S()	NP_L()	-	-	1_0_3
+016_947452530899988480.branch4.	12	4	''	''	*	valko665	-	-	-	-	-	-	-	-	-	1_0_4
+016_947452530899988480.branch4.	12	5	like	IN	(PP*	valko665	-	-	-	-	-	-	-	-	-	1_0_5
+016_947452530899988480.branch4.	12	6	Owen	NNP	(NP*)))	valko665	-	-	ne/none	(0)	-	NP_S()	NP_L()	dir_obj	not_assigned	1_0_6
+016_947452530899988480.branch4.	12	7	spending	VBG	(VP*	valko665	-	-	-	-	-	-	-	-	-	1_0_7
+016_947452530899988480.branch4.	12	8	more	JJR	(NP*	valko665	-	-	-	-	-	NP_S(	NP_L(	-	-	1_0_8
+016_947452530899988480.branch4.	12	9	time	NN	*)	valko665	representative_men	-	defnp/none	(1003)	-	)NP_S	)NP_L	-	-	1_0_9
+016_947452530899988480.branch4.	12	10	bashing	VBG	(S(VP*))))	valko665	-	-	-	-	CL8	-	-	-	-	1_0_10
+016_947452530899988480.branch4.	12	11	remain	VBP	(VP*	valko665	representative_men	other	defnp/none	(1011	-	NP_S(	NP_L(	-	-	1_0_11
+016_947452530899988480.branch4.	12	12	cause	NN	(S(NP(NP*	valko665	-	-	-	1011)	-	)NP_S	-	-	-	1_0_12
+016_947452530899988480.branch4.	12	13	&	CC	*	valko665	-	-	-	-	-	-	-	-	-	1_0_13
+016_947452530899988480.branch4.	12	14	people	NNS	*)	valko665	representative_men	-	defnp/none	(1010)	-	-	-	-	-	1_0_14
+016_947452530899988480.branch4.	12	15	like	IN	(PP*	valko665	-	-	-	-	-	-	-	-	-	1_0_15
+016_947452530899988480.branch4.	12	16	Blair	NNP	(NP*	valko665	representative_men	-	ne/none	(1009)	-	NP_S()	-	-	-	1_0_16
+016_947452530899988480.branch4.	12	17	&	CC	*	valko665	-	-	-	-	-	-	-	-	-	1_0_17
+016_947452530899988480.branch4.	12	18	Adonis	NNP	*)))	valko665	representative_men	-	ne/none	(1008)	CL8	NP_S()	)NP_L	-	-	1_0_18
+016_947452530899988480.branch4.	12	19	than	IN	(VP(ADVP*	valko665	-	-	-	-	-	-	-	-	-	1_0_19
+016_947452530899988480.branch4.	12	20	the	DT	*)	valko665	representative_men	human	defnp/none	(1013	-	-	NP_L(	-	-	1_0_20
+016_947452530899988480.branch4.	12	21	Leave	VB	*	valko665	-	-	-	-	-	-	-	-	-	1_0_21
+016_947452530899988480.branch4.	12	22	campaigners	NNS	(NP*))))))))	valko665	-	-	-	1013)	-	NP_S()	)NP_L	-	-	1_0_22
+016_947452530899988480.branch4.	12	23	.	.	*))	valko665	-	-	-	-	CL7	-	-	-	-	1_0_23
+
+016_947452530899988480.branch4.	12	0	Agreeing	VBG	(ROOT(S(S(VP*	valko665	-	-	-	-	CL10	-	-	-	-	1_1_0
+016_947452530899988480.branch4.	12	1	more	RBR	(PP*	valko665	-	-	-	-	-	-	-	-	-	1_1_1
+016_947452530899988480.branch4.	12	2	with	IN	*	valko665	-	-	-	-	-	-	-	-	-	1_1_2
+016_947452530899988480.branch4.	12	3	Leave	VB	(VP*	valko665	representative_men	other	defnp/none	(1015	-	-	NP_L(	-	-	1_1_3
+016_947452530899988480.branch4.	12	4	lies	NNS	(NP(NP*)	valko665	-	-	-	1015)	-	NP_S()	-	-	-	1_1_4
+016_947452530899988480.branch4.	12	5	like	IN	(PP*	valko665	-	-	-	-	-	-	-	-	-	1_1_5
+016_947452530899988480.branch4.	12	6	imaginary	JJ	(NP*))	valko665	-	-	-	-	-	-	-	-	-	1_1_6
+016_947452530899988480.branch4.	12	7	''	''	*)))))	valko665	-	-	-	-	-	-	-	-	-	1_1_7
+016_947452530899988480.branch4.	12	8	will	MD	(VP*	valko665	-	-	defnp/none	(1	-	NP_S()	-	other/other	not_assigned	1_1_8
+016_947452530899988480.branch4.	12	9	of	IN	(PP*	valko665	-	-	-	-	-	-	-	-	-	1_1_9
+016_947452530899988480.branch4.	12	10	the	DT	(NP(NP*	valko665	representative_men	human	defnp/none	(1007	-	NP_S(	-	-	-	1_1_10
+016_947452530899988480.branch4.	12	11	people	NNS	*)	valko665	-	-	-	1007)|1)	-	)NP_S	-	-	-	1_1_11
+016_947452530899988480.branch4.	12	12	''	''	*	valko665	-	-	-	-	-	-	)NP_L	-	-	1_1_12
+016_947452530899988480.branch4.	12	13	then	RB	(PP*	valko665	-	-	-	-	-	-	-	-	-	1_1_13
+016_947452530899988480.branch4.	12	14	UKIP	NNP	(NP*)))))	valko665	representative_men	-	ne/none	(1018)	-	NP_S()	NP_L()	-	-	1_1_14
+016_947452530899988480.branch4.	12	15	.	.	*))	valko665	-	-	-	-	CL10	-	-	-	-	1_1_15
+
+016_947452530899988480.branch4.	12	0	Asking	VBG	(ROOT(S(VP*	valko665	-	-	-	-	CL12	-	-	-	-	1_2_0
+016_947452530899988480.branch4.	12	1	to	TO	(S(VP*	valko665	-	-	-	-	CL13	-	-	-	-	1_2_1
+016_947452530899988480.branch4.	12	2	hear	VB	(VP*	valko665	-	-	-	-	-	-	-	-	-	1_2_2
+016_947452530899988480.branch4.	12	3	us	PRP	(NP*)))))	valko665	representative_men	-	ppers/exophora	(1017)	-	NP_S()	NP_L()	-	-	1_2_3
+016_947452530899988480.branch4.	12	4	.	.	*))	valko665	-	-	-	-	CL13|CL12	-	-	-	-	1_2_4
+
+016_947452530899988480.branch4.	12	0	Read	VB	(ROOT(S(VP*	valko665	-	-	-	-	CL14	-	-	-	-	1_3_0
+016_947452530899988480.branch4.	12	1	what	WP	(SBAR(WHNP*)	valko665	representative_men	-	prel/anaphora	(1016)	CL15	-	-	-	-	1_3_1
+016_947452530899988480.branch4.	12	2	you	PRP	(S(NP*)	valko665	representative_men	-	ppers/anaphora	(2)	-	NP_S()	NP_L()	sbj	specific	1_3_2
+016_947452530899988480.branch4.	12	3	write	VB	(VP*	valko665	-	-	-	-	-	-	-	-	-	1_3_3
+016_947452530899988480.branch4.	12	4	for	IN	(PP*	valko665	-	-	-	-	-	-	-	-	-	1_3_4
+016_947452530899988480.branch4.	12	5	gawd	NN	(NP*	valko665	-	-	-	-	-	NP_S(	NP_L(	-	-	1_3_5
+016_947452530899988480.branch4.	12	6	sake	NN	*))))))	valko665	-	-	-	-	-	)NP_S	)NP_L	-	-	1_3_6
+016_947452530899988480.branch4.	12	7	.	.	*))	valko665	-	-	-	-	CL15|CL14	-	-	-	-	1_3_7
+
+016_947452530899988480.branch4.	12	0	You	PRP	(ROOT(S(NP*)	valko665	-	-	ppers/anaphora	(2)	CL16	NP_S()	NP_L()	sbj	not_assigned	1_4_0
+016_947452530899988480.branch4.	12	1	're	VBP	(VP*	valko665	-	-	-	-	-	-	-	-	-	1_4_1
+016_947452530899988480.branch4.	12	2	the	DT	(NP*	valko665	-	-	defnp/none	(2	-	NP_S(	NP_L(	copula_rel	not_assigned	1_4_2
+016_947452530899988480.branch4.	12	3	problem	NN	*))	valko665	-	-	-	2)	-	)NP_S	)NP_L	-	-	1_4_3
+016_947452530899988480.branch4.	12	4	.	.	*))	valko665	-	-	-	-	CL16	-	-	-	-	1_4_4
+
+016_947452530899988480.branch4.	12	0	@valko665	NN	(ROOT(NP(NP(NP*	fascinatorfun	-	-	-	-	-	NP_S(	NP_L(	-	-	2_0_0
+016_947452530899988480.branch4.	12	1	@SheRa_Marley	NN	*	fascinatorfun	-	-	-	-	-	-	-	-	-	2_0_1
+016_947452530899988480.branch4.	12	2	@OwenJones84	NN	*)	fascinatorfun	-	-	-	-	-	)NP_S	)NP_L	-	-	2_0_2
+016_947452530899988480.branch4.	12	3	He	PRP	(SBAR(S(NP*)	fascinatorfun	-	-	ppers/anaphora	(0)	CL17	NP_S()	NP_L()	copula_rel	not_assigned	2_0_3
+016_947452530899988480.branch4.	12	4	's	VBZ	(VP*	fascinatorfun	-	-	-	-	-	-	-	-	-	2_0_4
+016_947452530899988480.branch4.	12	5	a	DT	(NP*	fascinatorfun	-	-	indefnp/none	(0	-	NP_S(	NP_L(	copula_rel	not_assigned	2_0_5
+016_947452530899988480.branch4.	12	6	leaver	NN	*)))))	fascinatorfun	-	-	-	0)	-	)NP_S	)NP_L	-	-	2_0_6
+016_947452530899988480.branch4.	12	7	...	:	*))	fascinatorfun	-	-	-	-	CL17	-	-	-	-	2_0_7
+
+016_947452530899988480.branch4.	12	0	Loves	VBZ	(ROOT(S(VP*	fascinatorfun	-	-	-	-	CL18	-	-	-	-	2_1_0
+016_947452530899988480.branch4.	12	1	dishing	VBG	(S(VP*	fascinatorfun	-	-	-	-	CL19	-	-	-	-	2_1_1
+016_947452530899988480.branch4.	12	2	out	RP	(PRT*)	fascinatorfun	-	-	-	-	-	-	-	-	-	2_1_2
+016_947452530899988480.branch4.	12	3	the	DT	(NP(NP*	fascinatorfun	representative_men	other	defnp/none	(1019	-	NP_S(	NP_L(	-	-	2_1_3
+016_947452530899988480.branch4.	12	4	criticism	NN	*)	fascinatorfun	-	-	-	1019)	-	)NP_S	-	-	-	2_1_4
+016_947452530899988480.branch4.	12	5	about	IN	(PP*	fascinatorfun	-	-	-	-	-	-	-	-	-	2_1_5
+016_947452530899988480.branch4.	12	6	others	NNS	(NP*))))))	fascinatorfun	representative_men	-	other/none	(1004)	-	NP_S()	)NP_L	-	-	2_1_6
+016_947452530899988480.branch4.	12	7	.	.	*))	fascinatorfun	-	-	-	-	CL19|CL18	-	-	-	-	2_1_7
+
+016_947452530899988480.branch4.	12	0	Ca	MD	(ROOT(SINV(VP*	fascinatorfun	-	-	-	-	CL20	-	-	-	-	2_2_0
+016_947452530899988480.branch4.	12	1	n't	RB	*	fascinatorfun	-	-	-	-	-	-	-	-	-	2_2_1
+016_947452530899988480.branch4.	12	2	take	VB	(VP*	fascinatorfun	-	-	-	-	-	-	-	-	-	2_2_2
+016_947452530899988480.branch4.	12	3	it	PRP	(NP*)	fascinatorfun	representative_men	-	ppers/anaphora	(1000)	-	NP_S()	NP_L()	-	-	2_2_3
+016_947452530899988480.branch4.	12	4	himself	PRP	(FRAG(NP*)	fascinatorfun	-	-	prefl/anaphora	(0)	-	NP_S()	NP_L()	other/appositive	not_assigned	2_2_4
+016_947452530899988480.branch4.	12	5	.	.	*)))	fascinatorfun	-	-	-	-	CL20	-	-	-	-	2_2_5
+016_947452530899988480.branch4.	12	6	https://t.co/dE01DM5YEk	NN	(NP*)))	fascinatorfun	-	-	-	-	-	-	-	-	-	2_2_6
+
+#end document

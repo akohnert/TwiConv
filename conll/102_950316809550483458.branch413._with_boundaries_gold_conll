@@ -1,0 +1,162 @@
+#begin document (102_950316809550483458.branch413.); part 81
+102_950316809550483458.branch413.	81	0	One	CD	(ROOT(S(NP(NP(NP*	JeremyClarkson	representative_men	human	indefnp/none	(0	CL0	NP_S(	NP_L(	sbj	specific	0_0_0
+102_950316809550483458.branch413.	81	1	cock	NN	*	JeremyClarkson	-	-	-	-	-	-	-	-	-	0_0_1
+102_950316809550483458.branch413.	81	2	job	NN	*	JeremyClarkson	-	-	-	0)	-	)NP_S	)NP_L	-	-	0_0_2
+102_950316809550483458.branch413.	81	3	parks	NNS	*)	JeremyClarkson	-	-	-	-	-	-	-	-	-	0_0_3
+102_950316809550483458.branch413.	81	4	his	PRP$	(NP-TMP(NP*	JeremyClarkson	representative_men	phys_obj	ppos/anaphora|defnp/none	(0)|(1007	-	NP_S(	NP_L(	dir_obj	not_assigned	0_0_4
+102_950316809550483458.branch413.	81	5	lorry	NN	*)	JeremyClarkson	-	-	-	1007)	-	)NP_S	)NP_L	-	-	0_0_5
+102_950316809550483458.branch413.	81	6	badly	RB	(ADVP*)))	JeremyClarkson	-	-	-	-	CL0	-	-	-	-	0_0_6
+102_950316809550483458.branch413.	81	7	and	CC	*	JeremyClarkson	-	-	-	-	CLX	-	-	-	-	0_0_7
+102_950316809550483458.branch413.	81	8	my	PRP$	(NP*	JeremyClarkson	representative_men|representative_men	other	defnp/none|ppos/exophora	(1003|(1005)	-	NP_S(	NP_L(	-	-	0_0_8
+102_950316809550483458.branch413.	81	9	three	CD	*	JeremyClarkson	-	-	-	-	-	-	-	-	-	0_0_9
+102_950316809550483458.branch413.	81	10	mile	NN	*	JeremyClarkson	-	-	-	-	-	-	-	-	-	0_0_10
+102_950316809550483458.branch413.	81	11	commute	NN	*))	JeremyClarkson	-	-	-	1003)	-	)NP_S	)NP_L	-	-	0_0_11
+102_950316809550483458.branch413.	81	12	takes	VBZ	(VP*	JeremyClarkson	-	-	-	-	-	-	-	-	-	0_0_12
+102_950316809550483458.branch413.	81	13	an	DT	(NP*	JeremyClarkson	representative_men	time	indefnp/none	(1009	-	NP_S(	NP_L(	-	-	0_0_13
+102_950316809550483458.branch413.	81	14	hour	NN	*))	JeremyClarkson	-	-	-	1009)	-	)NP_S	)NP_L	-	-	0_0_14
+102_950316809550483458.branch413.	81	15	.	.	*))	JeremyClarkson	-	-	-	-	CLX	-	-	-	-	0_0_15
+
+102_950316809550483458.branch413.	81	0	Wanker	NNP	(ROOT(NP*))	JeremyClarkson	-	-	defnp/none	(0)	CL1|CL1	NP_S()	NP_L()	other/vocative	not_assigned	0_1_0
+
+102_950316809550483458.branch413.	81	0	@JeremyClarkson	NN	(ROOT(NP(NP*)	KMansParts	-	-	-	-	-	NP_S()	NP_L()	-	-	1_0_0
+102_950316809550483458.branch413.	81	1	British	JJ	(NP(NP*	KMansParts	representative_men	other	defnp/none	(2	CL2	NP_S(	NP_L(	sbj	specific	1_0_1
+102_950316809550483458.branch413.	81	2	English	JJ	*	KMansParts	-	-	-	2)	-	)NP_S	)NP_L	-	-	1_0_2
+102_950316809550483458.branch413.	81	3	cracks	NNS	*)	KMansParts	-	-	-	-	-	-	-	-	-	1_0_3
+102_950316809550483458.branch413.	81	4	me	PRP	(NP-TMP(NP*)	KMansParts	representative_men	-	ppers/exophora	(1)	-	NP_S()	NP_L()	dir_obj	specific	1_0_4
+102_950316809550483458.branch413.	81	5	up	RP	(ADVP*)))	KMansParts	-	-	-	-	-	-	-	-	-	1_0_5
+102_950316809550483458.branch413.	81	6	.	.	*))	KMansParts	-	-	-	-	CL2	-	-	-	-	1_0_6
+
+102_950316809550483458.branch413.	81	0	@KMansParts	NNS	(ROOT(FRAG(NP(NP*	MaxBorken	-	-	-	-	-	NP_S(	NP_L(	-	-	2_0_0
+102_950316809550483458.branch413.	81	1	@JeremyClarkson	NN	*)	MaxBorken	-	-	-	-	-	)NP_S	)NP_L	-	-	2_0_1
+102_950316809550483458.branch413.	81	2	You	PRP	(SBAR(S(NP*)	MaxBorken	-	-	ppers/anaphora	(1)	CL4	NP_S()	NP_L()	sbj	not_assigned	2_0_2
+102_950316809550483458.branch413.	81	3	mean	VBP	(VP*	MaxBorken	-	-	-	-	-	-	-	-	-	2_0_3
+102_950316809550483458.branch413.	81	4	proper	JJ	(NP*	MaxBorken	representative_men	other	defnp/none	(1011	-	NP_S(	NP_L(	-	-	2_0_4
+102_950316809550483458.branch413.	81	5	English	NNP	*)))))	MaxBorken	-	-	-	1011)	-	)NP_S	)NP_L	-	-	2_0_5
+102_950316809550483458.branch413.	81	6	?	.	*))	MaxBorken	-	-	-	-	CL4	-	-	-	-	2_0_6
+
+102_950316809550483458.branch413.	81	0	@MaxBorken	JJ	(ROOT(NP(NP(NP(NP*	ahknight	-	-	-	-	-	NP_S(	NP_L(	-	-	3_0_0
+102_950316809550483458.branch413.	81	1	@KMansParts	NNS	*)	ahknight	-	-	-	-	-	-	-	-	-	3_0_1
+102_950316809550483458.branch413.	81	2	@JeremyClarkson	NN	(VP*	ahknight	-	-	-	-	-	)NP_S	)NP_L	-	-	3_0_2
+102_950316809550483458.branch413.	81	3	No	UH	(NP*)))	ahknight	-	-	-	-	CL5	-	-	-	-	3_0_3
+102_950316809550483458.branch413.	81	4	,	,	*	ahknight	-	-	-	-	-	-	-	-	-	3_0_4
+102_950316809550483458.branch413.	81	5	British	NNP	(NP*))	ahknight	-	-	defnp/none	(2)	-	NP_S()	NP_L()	dir_obj	not_assigned	3_0_5
+102_950316809550483458.branch413.	81	6	.	.	*))	ahknight	-	-	-	-	CL5	-	-	-	-	3_0_6
+
+102_950316809550483458.branch413.	81	0	@ahknight	JJ	(ROOT(S(NP*	hsjawanda	-	-	-	-	-	NP_S(	NP_L(	-	-	4_0_0
+102_950316809550483458.branch413.	81	1	@MaxBorken	NN	*	hsjawanda	-	-	-	-	-	-	-	-	-	4_0_1
+102_950316809550483458.branch413.	81	2	@KMansParts	NNS	*)	hsjawanda	-	-	-	-	-	-	-	-	-	4_0_2
+102_950316809550483458.branch413.	81	3	@JeremyClarkson	NN	(VP*	hsjawanda	-	-	-	-	-	)NP_S	)NP_L	-	-	4_0_3
+102_950316809550483458.branch413.	81	4	No	UH	(NP(INTJ(INTJ*)	hsjawanda	-	-	-	-	CL6	-	-	-	-	4_0_4
+102_950316809550483458.branch413.	81	5	,	,	*	hsjawanda	-	-	-	-	-	-	-	-	-	4_0_5
+102_950316809550483458.branch413.	81	6	real	JJ	(INTJ*))	hsjawanda	representative_men	other	defnp/none	(3	-	-	NP_L(	dir_obj	specific	4_0_6
+102_950316809550483458.branch413.	81	7	English	NNP	(NP*)))	hsjawanda	-	-	-	3)	-	NP_S()	)NP_L	-	-	4_0_7
+102_950316809550483458.branch413.	81	8	.	.	*))	hsjawanda	-	-	-	-	CL6	-	-	-	-	4_0_8
+
+102_950316809550483458.branch413.	81	0	You	PRP	(ROOT(S(NP*)	hsjawanda	representative_men	-	ppers/exophora	(1017)	CL7	NP_S()	NP_L()	-	-	4_1_0
+102_950316809550483458.branch413.	81	1	know	VBP	(VP*	hsjawanda	-	-	-	-	-	-	-	-	-	4_1_1
+102_950316809550483458.branch413.	81	2	,	,	*	hsjawanda	-	-	-	-	-	-	-	-	-	4_1_2
+102_950316809550483458.branch413.	81	3	English	JJ	(S(NP*)	hsjawanda	-	-	defnp/none	(3	-	NP_S()	NP_L(	dir_obj	not_assigned	4_1_3
+102_950316809550483458.branch413.	81	4	English	JJ	(ADJP*)))	hsjawanda	-	-	-	3)	-	-	)NP_L	-	-	4_1_4
+102_950316809550483458.branch413.	81	5	...	:	*))	hsjawanda	-	-	-	-	CL7	-	-	-	-	4_1_5
+
+102_950316809550483458.branch413.	81	0	@hsjawanda	NN	(ROOT(S(NP(NP*	KMansParts	-	-	-	-	-	NP_S(	NP_L(	-	-	5_0_0
+102_950316809550483458.branch413.	81	1	@ahknight	NN	*	KMansParts	-	-	-	-	-	-	-	-	-	5_0_1
+102_950316809550483458.branch413.	81	2	@MaxBorken	NN	*	KMansParts	-	-	-	-	-	-	-	-	-	5_0_2
+102_950316809550483458.branch413.	81	3	@JeremyClarkson	NN	*)	KMansParts	-	-	-	-	-	)NP_S	)NP_L	-	-	5_0_3
+102_950316809550483458.branch413.	81	4	We	PRP	(NP*))	KMansParts	representative_men	-	ppers/exophora	(1016)	CL8	NP_S()	NP_L()	-	-	5_0_4
+102_950316809550483458.branch413.	81	5	just	RB	(ADVP*)	KMansParts	-	-	-	-	-	-	-	-	-	5_0_5
+102_950316809550483458.branch413.	81	6	do	VBP	(VP*	KMansParts	-	-	-	-	-	-	-	-	-	5_0_6
+102_950316809550483458.branch413.	81	7	n't	RB	*	KMansParts	-	-	-	-	-	-	-	-	-	5_0_7
+102_950316809550483458.branch413.	81	8	get	VB	(VP*	KMansParts	-	-	-	-	CL8	-	-	-	-	5_0_8
+102_950316809550483458.branch413.	81	9	to	TO	(S(VP*	KMansParts	-	-	-	-	CL9	-	-	-	-	5_0_9
+102_950316809550483458.branch413.	81	10	use	VB	(VP*	KMansParts	-	-	-	-	-	-	-	-	-	5_0_10
+102_950316809550483458.branch413.	81	11	wanker	NN	(NP(NP*)	KMansParts	representative_men|representative_men	other	ne/none|ne/none	(1015)|(1018	-	NP_S()	NP_L(	-	-	5_0_11
+102_950316809550483458.branch413.	81	12	,	,	*	KMansParts	-	-	-	-	-	-	-	-	-	5_0_12
+102_950316809550483458.branch413.	81	13	cock	NN	(NP*	KMansParts	representative_men	other	ne/none	(1014	-	NP_S(	-	-	-	5_0_13
+102_950316809550483458.branch413.	81	14	job	NN	*)	KMansParts	-	-	-	1014)	-	)NP_S	-	-	-	5_0_14
+102_950316809550483458.branch413.	81	15	and	CC	*	KMansParts	-	-	-	-	-	-	-	-	-	5_0_15
+102_950316809550483458.branch413.	81	16	lorry	NN	(NP*))	KMansParts	representative_men	-	ne/none	1018)|(1022)	-	NP_S()	)NP_L	-	-	5_0_16
+102_950316809550483458.branch413.	81	17	here	RB	(PP(ADVP*)	KMansParts	representative_men	-	padv/exophora	(1021)	-	-	-	-	-	5_0_17
+102_950316809550483458.branch413.	81	18	in	IN	*	KMansParts	-	-	-	-	-	-	-	-	-	5_0_18
+102_950316809550483458.branch413.	81	19	most	JJS	(NP*	KMansParts	representative_men	other	indefnp/none	(1020	-	NP_S(	NP_L(	-	-	5_0_19
+102_950316809550483458.branch413.	81	20	company	NN	*)))))))	KMansParts	-	-	-	1020)	-	)NP_S	)NP_L	-	-	5_0_20
+102_950316809550483458.branch413.	81	21	.	.	*))	KMansParts	-	-	-	-	CL9	-	-	-	-	5_0_21
+
+102_950316809550483458.branch413.	81	0	It	PRP	(ROOT(S(NP*)	KMansParts	representative_men	-	ppers/anaphora	(1000)	CL10	NP_S()	NP_L()	-	-	5_1_0
+102_950316809550483458.branch413.	81	1	's	VBZ	(VP*	KMansParts	-	-	-	-	-	-	-	-	-	5_1_1
+102_950316809550483458.branch413.	81	2	much	RB	(ADJP*	KMansParts	-	-	-	-	-	-	-	-	-	5_1_2
+102_950316809550483458.branch413.	81	3	more	RBR	*	KMansParts	-	-	-	-	-	-	-	-	-	5_1_3
+102_950316809550483458.branch413.	81	4	colorful	JJ	*))))	KMansParts	-	-	-	-	CL10	-	-	-	-	5_1_4
+
+102_950316809550483458.branch413.	81	0	@KMansParts	NNS	(ROOT(S(S(NP*)	AndyMRoberts86	-	-	-	-	-	NP_S(	NP_L(	-	-	6_0_0
+102_950316809550483458.branch413.	81	1	@hsjawanda	VBP	(VP*	AndyMRoberts86	-	-	-	-	-	-	-	-	-	6_0_1
+102_950316809550483458.branch413.	81	2	@ahknight	JJ	(NP*	AndyMRoberts86	-	-	-	-	-	-	-	-	-	6_0_2
+102_950316809550483458.branch413.	81	3	@MaxBorken	NN	*	AndyMRoberts86	-	-	-	-	-	-	-	-	-	6_0_3
+102_950316809550483458.branch413.	81	4	@JeremyClarkson	NN	*	AndyMRoberts86	-	-	-	-	-	)NP_S	)NP_L	-	-	6_0_4
+102_950316809550483458.branch413.	81	5	Alright	JJ	*	AndyMRoberts86	-	-	-	-	CL12	-	-	-	-	6_0_5
+102_950316809550483458.branch413.	81	6	guys	NNS	*)))	AndyMRoberts86	representative_men	-	defnp/none	(1019)	-	NP_S()	NP_L()	-	-	6_0_6
+102_950316809550483458.branch413.	81	7	,	,	*	AndyMRoberts86	-	-	-	-	-	-	-	-	-	6_0_7
+102_950316809550483458.branch413.	81	8	the	DT	(NP*	AndyMRoberts86	representative_men	abstract	defnp/none	(1002	-	NP_S(	NP_L(	-	-	6_0_8
+102_950316809550483458.branch413.	81	9	whole	JJ	*	AndyMRoberts86	-	-	-	-	-	-	-	-	-	6_0_9
+102_950316809550483458.branch413.	81	10	world	NN	*)	AndyMRoberts86	-	-	-	1002)	-	)NP_S	)NP_L	-	-	6_0_10
+102_950316809550483458.branch413.	81	11	knows	VBZ	(VP*	AndyMRoberts86	-	-	-	-	CL12	-	-	-	-	6_0_11
+102_950316809550483458.branch413.	81	12	the	DT	(SBAR(S(NP*	AndyMRoberts86	representative_men	other	defnp/none	(1001	CL13	NP_S(	NP_L(	-	-	6_0_12
+102_950316809550483458.branch413.	81	13	English	JJ	*	AndyMRoberts86	-	-	-	-	-	-	-	-	-	6_0_13
+102_950316809550483458.branch413.	81	14	language	NN	*)	AndyMRoberts86	-	-	-	1001)	-	)NP_S	)NP_L	-	-	6_0_14
+102_950316809550483458.branch413.	81	15	belongs	VBZ	(VP*	AndyMRoberts86	-	-	-	-	-	-	-	-	-	6_0_15
+102_950316809550483458.branch413.	81	16	to	TO	(S(VP*	AndyMRoberts86	-	-	-	-	-	-	-	-	-	6_0_16
+102_950316809550483458.branch413.	81	17	us	PRP	(NP*	AndyMRoberts86	-	-	ppers/exophora	(7)	-	NP_S(	NP_L(	prep_phrase	not_assigned	6_0_17
+102_950316809550483458.branch413.	81	18	Brits	NNPS	*)))))))	AndyMRoberts86	representative_men	-	defnp/none	(7)	-	)NP_S	)NP_L	other/appositive	specific	6_0_18
+102_950316809550483458.branch413.	81	19	.	.	*))	AndyMRoberts86	-	-	-	-	CL13	-	-	-	-	6_0_19
+
+102_950316809550483458.branch413.	81	0	Do	VB	(ROOT(S(VP*	AndyMRoberts86	-	-	-	-	CL15	-	-	-	-	6_1_0
+102_950316809550483458.branch413.	81	1	we	PRP	(SBAR(S(NP*)	AndyMRoberts86	-	-	ppers/anaphora	(7)	-	NP_S()	NP_L()	sbj	not_assigned	6_1_1
+102_950316809550483458.branch413.	81	2	really	RB	(ADVP*)	AndyMRoberts86	-	-	-	-	-	-	-	-	-	6_1_2
+102_950316809550483458.branch413.	81	3	need	VBP	(VP*	AndyMRoberts86	-	-	-	-	CL15	-	-	-	-	6_1_3
+102_950316809550483458.branch413.	81	4	to	TO	(S(VP*	AndyMRoberts86	-	-	-	-	CL17	-	-	-	-	6_1_4
+102_950316809550483458.branch413.	81	5	take	VB	(VP*	AndyMRoberts86	-	-	-	-	-	-	-	-	-	6_1_5
+102_950316809550483458.branch413.	81	6	offence	NN	(NP*)	AndyMRoberts86	representative_men	-	defnp/none	(1006)	CL17	NP_S()	NP_L()	-	-	6_1_6
+102_950316809550483458.branch413.	81	7	if	IN	(SBAR*	AndyMRoberts86	-	-	-	-	CL18	-	-	-	-	6_1_7
+102_950316809550483458.branch413.	81	8	certain	JJ	(S(NP*	AndyMRoberts86	representative_men	other	indefnp/none	(1004	-	NP_S(	NP_L(	-	-	6_1_8
+102_950316809550483458.branch413.	81	9	words/phrases	NNS	*)	AndyMRoberts86	-	-	-	1004)	-	)NP_S	)NP_L	-	-	6_1_9
+102_950316809550483458.branch413.	81	10	are	VBP	(VP*	AndyMRoberts86	-	-	-	-	-	-	-	-	-	6_1_10
+102_950316809550483458.branch413.	81	11	not	RB	*	AndyMRoberts86	-	-	-	-	-	-	-	-	-	6_1_11
+102_950316809550483458.branch413.	81	12	well	RB	(ADVP*)	AndyMRoberts86	-	-	-	-	-	-	-	-	-	6_1_12
+102_950316809550483458.branch413.	81	13	known	VBN	(VP*	AndyMRoberts86	-	-	-	-	-	-	-	-	-	6_1_13
+102_950316809550483458.branch413.	81	14	in	IN	(PP*	AndyMRoberts86	-	-	-	-	-	-	-	-	-	6_1_14
+102_950316809550483458.branch413.	81	15	other	JJ	(NP(NP*	AndyMRoberts86	representative_men	loc	indefnp/none	(1010	-	NP_S(	NP_L(	-	-	6_1_15
+102_950316809550483458.branch413.	81	16	English	JJ	*	AndyMRoberts86	-	-	-	-	-	-	-	-	-	6_1_16
+102_950316809550483458.branch413.	81	17	speaking	VBG	*	AndyMRoberts86	-	-	-	-	-	-	-	-	-	6_1_17
+102_950316809550483458.branch413.	81	18	nations	NNS	*)	AndyMRoberts86	-	-	-	1010)	-	)NP_S	)NP_L	-	-	6_1_18
+102_950316809550483458.branch413.	81	19	?!	VBP	(SBAR(S(VP*))))))))))))))))))	AndyMRoberts86	-	-	-	-	CL18	-	-	-	-	6_1_19
+
+102_950316809550483458.branch413.	81	0	Just	RB	(ROOT(S(ADVP*)	AndyMRoberts86	-	-	-	-	CL20	-	-	-	-	6_2_0
+102_950316809550483458.branch413.	81	1	be	VB	(VP*	AndyMRoberts86	-	-	-	-	-	-	-	-	-	6_2_1
+102_950316809550483458.branch413.	81	2	glad	JJ	(ADJP*	AndyMRoberts86	-	-	-	-	CL20	-	-	-	-	6_2_2
+102_950316809550483458.branch413.	81	3	we	PRP	(SBAR(S(NP*)	AndyMRoberts86	representative_men	-	ppers/exophora	(6)	CL21	NP_S()	NP_L()	sbj	specific	6_2_3
+102_950316809550483458.branch413.	81	4	can	MD	(VP*	AndyMRoberts86	-	-	-	-	-	-	-	-	-	6_2_4
+102_950316809550483458.branch413.	81	5	all	RB	*	AndyMRoberts86	-	-	other/anaphora	(6)	-	-	-	other/appositive	not_assigned	6_2_5
+102_950316809550483458.branch413.	81	6	communicate	VB	(VP*	AndyMRoberts86	-	-	-	-	CL21	-	-	-	-	6_2_6
+102_950316809550483458.branch413.	81	7	without	IN	(PP*	AndyMRoberts86	-	-	-	-	CL22	-	-	-	-	6_2_7
+102_950316809550483458.branch413.	81	8	reaching	VBG	(S(VP*	AndyMRoberts86	-	-	-	-	-	-	-	-	-	6_2_8
+102_950316809550483458.branch413.	81	9	for	IN	(PP*	AndyMRoberts86	-	-	-	-	-	-	-	-	-	6_2_9
+102_950316809550483458.branch413.	81	10	a	DT	(NP*	AndyMRoberts86	representative_men	phys_obj	indefnp/none	(1008	-	NP_S(	NP_L(	-	-	6_2_10
+102_950316809550483458.branch413.	81	11	dictionary	NN	*)))))))))))	AndyMRoberts86	-	-	-	1008)	-	)NP_S	)NP_L	-	-	6_2_11
+102_950316809550483458.branch413.	81	12	.	.	*))	AndyMRoberts86	-	-	-	-	CL22	-	-	-	-	6_2_12
+
+102_950316809550483458.branch413.	81	0	@AndyMRoberts86	NN	(ROOT(S(NP*	u676785	-	-	-	-	-	NP_S(	NP_L(	-	-	7_0_0
+102_950316809550483458.branch413.	81	1	@KMansParts	NNS	*)	u676785	-	-	-	-	-	-	-	-	-	7_0_1
+102_950316809550483458.branch413.	81	2	@hsjawanda	VBP	(VP*	u676785	-	-	-	-	-	-	-	-	-	7_0_2
+102_950316809550483458.branch413.	81	3	@ahknight	JJ	(NP(NP*	u676785	-	-	-	-	-	-	-	-	-	7_0_3
+102_950316809550483458.branch413.	81	4	@MaxBorken	NN	*	u676785	-	-	-	-	-	-	-	-	-	7_0_4
+102_950316809550483458.branch413.	81	5	@JeremyClarkson	NN	*)	u676785	-	-	-	-	-	)NP_S	)NP_L	-	-	7_0_5
+102_950316809550483458.branch413.	81	6	That	WDT	(SBAR(WHNP*)	u676785	representative_men	-	pds/anaphora	(1013)	CL24	NP_S()	NP_L()	-	-	7_0_6
+102_950316809550483458.branch413.	81	7	's	VBZ	(S(VP*	u676785	-	-	-	-	CL24	-	-	-	-	7_0_7
+102_950316809550483458.branch413.	81	8	cause	NN	(NP(NP*)	u676785	-	-	-	-	CL25	NP_S()	NP_L()	-	-	7_0_8
+102_950316809550483458.branch413.	81	9	we	PRP	(SBAR(S(NP*)	u676785	-	-	ppers/anaphora	(7)	-	NP_S()	NP_L()	sbj	not_assigned	7_0_9
+102_950316809550483458.branch413.	81	10	know	VBP	(VP*	u676785	-	-	-	-	-	-	-	-	-	7_0_10
+102_950316809550483458.branch413.	81	11	more	RBR	(ADVP*)	u676785	representative_men	other	defnp/none	(1012	-	-	NP_L(	-	-	7_0_11
+102_950316809550483458.branch413.	81	12	words	NNS	(NP*))))))))))	u676785	-	-	-	1012)	-	NP_S()	)NP_L	-	-	7_0_12
+102_950316809550483458.branch413.	81	13	!	.	*))	u676785	-	-	-	-	CL25	-	-	-	-	7_0_13
+
+#end document

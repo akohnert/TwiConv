@@ -1,0 +1,126 @@
+#begin document (142_950357346483687427.branch1.); part 111
+142_950357346483687427.branch1.	111	0	Keep	VB	(ROOT(S(S(VP*	lee_harris6	-	-	-	-	CL0	-	-	-	-	0_0_0
+142_950357346483687427.branch1.	111	1	going	VBG	(S(NP(NP*)	lee_harris6	-	-	-	-	CL1	-	-	-	-	0_0_1
+142_950357346483687427.branch1.	111	2	on	IN	(PP*	lee_harris6	-	-	-	-	-	-	-	-	-	0_0_2
+142_950357346483687427.branch1.	111	3	Twitter	NNP	(NP*))	lee_harris6	representative_men	-	ne/none	(1)	CL1|CL0	NP_S()	NP_L()	prep_phrase	specific	0_0_3
+142_950357346483687427.branch1.	111	4	thinking	VBG	(VP*	lee_harris6	-	-	-	-	CLX	-	-	-	-	0_0_4
+142_950357346483687427.branch1.	111	5	to	TO	(PP*	lee_harris6	-	-	-	-	-	-	-	-	-	0_0_5
+142_950357346483687427.branch1.	111	6	myself	PRP	(NP*))))	lee_harris6	representative_men	-	prefl/exophora	(4)	-	NP_S()	NP_L()	prep_phrase	specific	0_0_6
+142_950357346483687427.branch1.	111	7	,	,	*	lee_harris6	-	-	-	-	-	-	-	-	-	0_0_7
+142_950357346483687427.branch1.	111	8	''	''	*	lee_harris6	-	-	-	-	-	-	-	-	-	0_0_8
+142_950357346483687427.branch1.	111	9	okay	JJ	(ADJP*))))	lee_harris6	-	-	-	-	-	-	-	-	-	0_0_9
+142_950357346483687427.branch1.	111	10	,	,	*	lee_harris6	-	-	-	-	CLX	-	-	-	-	0_0_10
+142_950357346483687427.branch1.	111	11	it	PRP	(NP*)	lee_harris6	representative_men	-	ppers/non-referential_pronoun	(1000)	CLX	NP_S()	NP_L()	-	-	0_0_11
+142_950357346483687427.branch1.	111	12	's	VBZ	(VP*	lee_harris6	-	-	-	-	-	-	-	-	-	0_0_12
+142_950357346483687427.branch1.	111	13	been	VBN	(VP*	lee_harris6	-	-	-	-	-	-	-	-	-	0_0_13
+142_950357346483687427.branch1.	111	14	a	DT	(NP*	lee_harris6	representative_men	time	indefnp/none	(1002	-	NP_S(	NP_L(	-	-	0_0_14
+142_950357346483687427.branch1.	111	15	week	NN	*)	lee_harris6	-	-	-	1002)	-	)NP_S	)NP_L	-	-	0_0_15
+142_950357346483687427.branch1.	111	16	now	RB	(ADVP*	lee_harris6	representative_men	-	defnp/exophora	(5)	CLX	-	-	adv	specific	0_0_16
+142_950357346483687427.branch1.	111	17	surely	RB	*	lee_harris6	-	-	-	-	CL2	-	-	-	-	0_0_17
+142_950357346483687427.branch1.	111	18	we	PRP	(SBAR(S(NP*)	lee_harris6	representative_men	-	ppers/exophora	(1001)	-	NP_S()	NP_L()	-	-	0_0_18
+142_950357346483687427.branch1.	111	19	'll	MD	(VP*	lee_harris6	-	-	-	-	-	-	-	-	-	0_0_19
+142_950357346483687427.branch1.	111	20	be	VB	(VP*	lee_harris6	-	-	-	-	-	-	-	-	-	0_0_20
+142_950357346483687427.branch1.	111	21	close	JJ	(ADJP*	lee_harris6	-	-	-	-	-	-	-	-	-	0_0_21
+142_950357346483687427.branch1.	111	22	to	TO	(PP*	lee_harris6	-	-	-	-	-	-	-	-	-	0_0_22
+142_950357346483687427.branch1.	111	23	signing	VBG	(S(VP*	lee_harris6	-	-	-	-	CL3	-	-	-	-	0_0_23
+142_950357346483687427.branch1.	111	24	someone	NN	(NP*)))))))	lee_harris6	representative_men	-	indefnp/none	(1004)	CL3	NP_S()	NP_L()	-	-	0_0_24
+142_950357346483687427.branch1.	111	25	.	.	*)))))	lee_harris6	-	-	-	-	-	-	-	-	-	0_0_25
+142_950357346483687427.branch1.	111	26	.	.	*	lee_harris6	-	-	-	-	-	-	-	-	-	0_0_26
+142_950357346483687427.branch1.	111	27	''	''	*))	lee_harris6	-	-	-	-	CL2	-	-	-	-	0_0_27
+
+142_950357346483687427.branch1.	111	0	*	SYM	(ROOT(X(X*)	lee_harris6	-	-	-	-	CL4	-	-	-	-	0_1_0
+142_950357346483687427.branch1.	111	1	checks	NNS	(NP(NP*)	lee_harris6	-	-	-	-	-	-	-	-	-	0_1_1
+142_950357346483687427.branch1.	111	2	Twitter	NNP	(SBAR(S(NP*)	lee_harris6	-	-	ne/none	(1)	-	NP_S()	NP_L()	dir_obj	not_assigned	0_1_2
+142_950357346483687427.branch1.	111	3	*	SYM	(VP(X*)	lee_harris6	-	-	-	-	-	-	-	-	-	0_1_3
+142_950357346483687427.branch1.	111	4	...	:	*	lee_harris6	-	-	-	-	-	-	-	-	-	0_1_4
+142_950357346483687427.branch1.	111	5	...	:	(VP*)))))))	lee_harris6	-	-	-	-	CL4	-	-	-	-	0_1_5
+
+142_950357346483687427.branch1.	111	0	Nothing	NN	(ROOT(NP*	lee_harris6	representative_men	-	indefnp/none	(2)	CL5|CL5	NP_S()	NP_L()	other/other	generic	0_2_0
+142_950357346483687427.branch1.	111	1	...	:	*	lee_harris6	-	-	-	-	-	-	-	-	-	0_2_1
+142_950357346483687427.branch1.	111	2	...	:	*))	lee_harris6	-	-	-	-	-	-	-	-	-	0_2_2
+
+142_950357346483687427.branch1.	111	0	Checks	NNS	(ROOT(NP(NP(NP*)	lee_harris6	-	-	-	-	CL6	-	-	-	-	0_3_0
+142_950357346483687427.branch1.	111	1	@zonalmista	NN	(NP(NP*	lee_harris6	representative_men|representative_men	other	ne/none|defnp/none	(1003)|(1005	-	NP_S(	NP_L(	-	-	0_3_1
+142_950357346483687427.branch1.	111	2	's	POS	*)	lee_harris6	-	-	-	-	-	)NP_S	-	-	-	0_3_2
+142_950357346483687427.branch1.	111	3	page	NN	*	lee_harris6	-	-	-	1005)	-	-	)NP_L	-	-	0_3_3
+142_950357346483687427.branch1.	111	4	...	:	*))	lee_harris6	-	-	-	-	-	-	-	-	-	0_3_4
+142_950357346483687427.branch1.	111	5	...	:	*))	lee_harris6	-	-	-	-	CL6	-	-	-	-	0_3_5
+
+142_950357346483687427.branch1.	111	0	Still	RB	(ROOT(S(NP*	lee_harris6	-	-	-	-	CL7	-	-	-	-	0_4_0
+142_950357346483687427.branch1.	111	1	nothing	NN	*)	lee_harris6	-	-	indefnp/none	(2)	-	NP_S()	NP_L()	other/other	not_assigned	0_4_1
+142_950357346483687427.branch1.	111	2	...	:	(VP*)	lee_harris6	-	-	-	-	-	-	-	-	-	0_4_2
+142_950357346483687427.branch1.	111	3	...	:	*))	lee_harris6	-	-	-	-	CL7	-	-	-	-	0_4_3
+
+142_950357346483687427.branch1.	111	0	*	SYM	(ROOT(FRAG(X*)	lee_harris6	-	-	-	-	CL8	-	-	-	-	0_5_0
+142_950357346483687427.branch1.	111	1	scrolling	VBG	(VP*	lee_harris6	-	-	-	-	-	-	-	-	-	0_5_1
+142_950357346483687427.branch1.	111	2	up	RP	(PRT*)	lee_harris6	-	-	-	-	-	-	-	-	-	0_5_2
+142_950357346483687427.branch1.	111	3	*	SYM	(S(VP(X*)	lee_harris6	-	-	-	-	-	-	-	-	-	0_5_3
+142_950357346483687427.branch1.	111	4	...	:	*	lee_harris6	-	-	-	-	-	-	-	-	-	0_5_4
+142_950357346483687427.branch1.	111	5	...	:	(VP*))))))	lee_harris6	-	-	-	-	CL8	-	-	-	-	0_5_5
+
+142_950357346483687427.branch1.	111	0	Gino	NNP	(ROOT(NP(NP(NP*	lee_harris6	representative_men	-	ne/none	(1006)	CL10	NP_S()	NP_L()	-	-	0_6_0
+142_950357346483687427.branch1.	111	1	?!	NNP	*)	lee_harris6	-	-	-	-	-	-	-	-	-	0_6_1
+142_950357346483687427.branch1.	111	2	*	SYM	(SBAR(S(VP*	lee_harris6	-	-	-	-	-	-	-	-	-	0_6_2
+142_950357346483687427.branch1.	111	3	repeat	NN	(NP*)))))	lee_harris6	-	-	-	-	-	-	-	-	-	0_6_3
+142_950357346483687427.branch1.	111	4	10	CD	(NP(NP*)	lee_harris6	representative_men	time	defnp/none	(1008	-	NP_S()	NP_L(	-	-	0_6_4
+142_950357346483687427.branch1.	111	5	mins	NNS	(SBAR(S(VP(NP(NP(NP*)	lee_harris6	-	-	-	1008)	-	-	)NP_L	-	-	0_6_5
+142_950357346483687427.branch1.	111	6	later	RB	(ADVP*))	lee_harris6	-	-	-	-	-	-	-	-	-	0_6_6
+142_950357346483687427.branch1.	111	7	*	SYM	(X*))))))))	lee_harris6	-	-	-	-	CL10	-	-	-	-	0_6_7
+
+142_950357346483687427.branch1.	111	0	@lee_harris6	NN	(ROOT(FRAG(NP(NP*	rillo15	-	-	-	-	-	NP_S(	NP_L(	-	-	1_0_0
+142_950357346483687427.branch1.	111	1	@zonalmista	NN	*)	rillo15	-	-	-	-	-	)NP_S	)NP_L	-	-	1_0_1
+142_950357346483687427.branch1.	111	2	You	PRP	(SBAR(S(NP*)	rillo15	-	-	ppers/anaphora	(4)	-	NP_S()	NP_L()	sbj	not_assigned	1_0_2
+142_950357346483687427.branch1.	111	3	forgot	VBD	(VP*	rillo15	-	-	-	-	-	-	-	-	-	1_0_3
+142_950357346483687427.branch1.	111	4	Holebas	NNP	(NP*)))))))	rillo15	representative_men	-	ne/none	(0)	-	NP_S()	NP_L()	sbj	specific	1_0_4
+
+142_950357346483687427.branch1.	111	0	@rillo15	NN	(ROOT(S(NP(NP*	lee_harris6	-	-	-	-	-	NP_S(	NP_L(	-	-	2_0_0
+142_950357346483687427.branch1.	111	1	@zonalmista	NN	*)	lee_harris6	-	-	-	-	-	)NP_S	)NP_L	-	-	2_0_1
+142_950357346483687427.branch1.	111	2	And	CC	*	lee_harris6	-	-	-	-	CL14	-	-	-	-	2_0_2
+142_950357346483687427.branch1.	111	3	I	PRP	(NP*))	lee_harris6	-	-	ppers/anaphora	(4)	-	NP_S()	NP_L()	sbj	not_assigned	2_0_3
+142_950357346483687427.branch1.	111	4	'm	VBP	(VP*	lee_harris6	-	-	-	-	-	-	-	-	-	2_0_4
+142_950357346483687427.branch1.	111	5	going	VBG	(VP*	lee_harris6	-	-	-	-	-	-	-	-	-	2_0_5
+142_950357346483687427.branch1.	111	6	to	TO	(S(VP*	lee_harris6	-	-	-	-	CL15	-	-	-	-	2_0_6
+142_950357346483687427.branch1.	111	7	continue	VB	(VP*	lee_harris6	-	-	-	-	-	-	-	-	-	2_0_7
+142_950357346483687427.branch1.	111	8	to	TO	(S(VP*	lee_harris6	-	-	-	-	CL16	-	-	-	-	2_0_8
+142_950357346483687427.branch1.	111	9	do	VB	(VP*	lee_harris6	-	-	-	-	-	-	-	-	-	2_0_9
+142_950357346483687427.branch1.	111	10	so	RB	(SBAR*	lee_harris6	-	-	-	-	CL16|CL15|CL14	-	-	-	-	2_0_10
+142_950357346483687427.branch1.	111	11	until	IN	*	lee_harris6	-	-	-	-	CL17	-	-	-	-	2_0_11
+142_950357346483687427.branch1.	111	12	he	PRP	(S(NP*)	lee_harris6	-	-	ppers/anaphora	(0)	-	NP_S()	NP_L()	sbj	not_assigned	2_0_12
+142_950357346483687427.branch1.	111	13	leaves	VBZ	(VP*	lee_harris6	-	-	-	-	-	-	-	-	-	2_0_13
+142_950357346483687427.branch1.	111	14	haha	NN	(NP*))))))))))))))	lee_harris6	-	-	-	-	CL17	NP_S()	NP_L()	-	-	2_0_14
+
+142_950357346483687427.branch1.	111	0	@lee_harris6	NN	(ROOT(FRAG(NP*	rillo15	-	-	-	-	-	NP_S(	NP_L(	-	-	3_0_0
+142_950357346483687427.branch1.	111	1	@zonalmista	NN	*)	rillo15	-	-	-	-	-	)NP_S	)NP_L	-	-	3_0_1
+142_950357346483687427.branch1.	111	2	Not	RB	(ADVP*	rillo15	-	-	-	-	CL18	-	-	-	-	3_0_2
+142_950357346483687427.branch1.	111	3	for	IN	(PP*	rillo15	-	-	-	-	-	-	-	-	-	3_0_3
+142_950357346483687427.branch1.	111	4	two	CD	(ADVP(NP*	rillo15	representative_men	time	defnp/none	(1007	-	NP_S(	NP_L(	-	-	3_0_4
+142_950357346483687427.branch1.	111	5	years	NNS	*)	rillo15	-	-	-	1007)	-	)NP_S	)NP_L	-	-	3_0_5
+142_950357346483687427.branch1.	111	6	now	RB	*)))	rillo15	-	-	defnp/anaphora	(5)	-	-	-	adv	not_assigned	3_0_6
+142_950357346483687427.branch1.	111	7	!	.	*))	rillo15	-	-	-	-	CL18	-	-	-	-	3_0_7
+
+142_950357346483687427.branch1.	111	0	@rillo15	NN	(ROOT(S(NP*	lee_harris6	-	-	-	-	-	NP_S(	NP_L(	-	-	4_0_0
+142_950357346483687427.branch1.	111	1	@zonalmista	NN	*)	lee_harris6	-	-	-	-	-	)NP_S	)NP_L	-	-	4_0_1
+142_950357346483687427.branch1.	111	2	He	PRP	(NP*)	lee_harris6	-	-	ppers/anaphora	(0)	CL19	NP_S()	NP_L()	sbj	not_assigned	4_0_2
+142_950357346483687427.branch1.	111	3	wo	MD	(VP(VP*	lee_harris6	-	-	-	-	-	-	-	-	-	4_0_3
+142_950357346483687427.branch1.	111	4	n't	RB	*	lee_harris6	-	-	-	-	-	-	-	-	-	4_0_4
+142_950357346483687427.branch1.	111	5	be	VB	(VP*	lee_harris6	-	-	-	-	-	-	-	-	-	4_0_5
+142_950357346483687427.branch1.	111	6	here	RB	(SBAR(ADVP*)	lee_harris6	representative_men	-	padv/exophora	(1011)	-	-	-	-	-	4_0_6
+142_950357346483687427.branch1.	111	7	that	IN	*	lee_harris6	-	-	-	-	-	-	-	-	-	4_0_7
+142_950357346483687427.branch1.	111	8	long	RB	(FRAG(ADVP*)))))	lee_harris6	-	-	-	-	-	-	-	-	-	4_0_8
+142_950357346483687427.branch1.	111	9	,	,	*	lee_harris6	-	-	-	-	CL19	-	-	-	-	4_0_9
+142_950357346483687427.branch1.	111	10	pretty	RB	(VP(ADJP*	lee_harris6	-	-	-	-	CL20	-	-	-	-	4_0_10
+142_950357346483687427.branch1.	111	11	certain	JJ	*)	lee_harris6	-	-	-	-	-	-	-	-	-	4_0_11
+142_950357346483687427.branch1.	111	12	of	IN	(PP*	lee_harris6	-	-	-	-	-	-	-	-	-	4_0_12
+142_950357346483687427.branch1.	111	13	that	DT	(NP*))))	lee_harris6	representative_men	-	pds/anaphora	(1010)	-	NP_S()	NP_L()	-	-	4_0_13
+142_950357346483687427.branch1.	111	14	.	.	*))	lee_harris6	-	-	-	-	CL20	-	-	-	-	4_0_14
+
+142_950357346483687427.branch1.	111	0	Doubt	NN	(ROOT(S(NP*)	lee_harris6	-	-	-	-	CL21	-	-	-	-	4_1_0
+142_950357346483687427.branch1.	111	1	he	PRP	(NP*)	lee_harris6	-	-	ppers/anaphora	(0)	CLX	NP_S()	NP_L()	sbj	not_assigned	4_1_1
+142_950357346483687427.branch1.	111	2	'll	MD	(VP*	lee_harris6	-	-	-	-	-	-	-	-	-	4_1_2
+142_950357346483687427.branch1.	111	3	last	VB	(VP*	lee_harris6	-	-	-	-	-	-	-	-	-	4_1_3
+142_950357346483687427.branch1.	111	4	past	IN	(PP*	lee_harris6	-	-	-	-	-	-	-	-	-	4_1_4
+142_950357346483687427.branch1.	111	5	the	DT	(NP*	lee_harris6	representative_men	time	defnp/none	(1009	-	NP_S(	NP_L(	-	-	4_1_5
+142_950357346483687427.branch1.	111	6	Summer	NN	*))))	lee_harris6	-	-	-	1009)	-	)NP_S	)NP_L	-	-	4_1_6
+142_950357346483687427.branch1.	111	7	.	.	*))	lee_harris6	-	-	-	-	CLX|CL21	-	-	-	-	4_1_7
+
+#end document

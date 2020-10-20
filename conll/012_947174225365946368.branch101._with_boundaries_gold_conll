@@ -1,0 +1,65 @@
+#begin document (012_947174225365946368.branch101.); part 9
+012_947174225365946368.branch101.	9	0	Lusaka	NNP	(ROOT(FRAG(NP*)	citizentvkenya	representative_men	-	ne/none	(0)	-	NP_S()	NP_L()	other/other	specific	0_0_0
+012_947174225365946368.branch101.	9	1	:	:	*	citizentvkenya	-	-	-	-	-	-	-	-	-	0_0_1
+012_947174225365946368.branch101.	9	2	I	PRP	(S(NP*)	citizentvkenya	-	-	ppers/exophora	(0)	CL1	NP_S()	NP_L()	sbj	not_assigned	0_0_2
+012_947174225365946368.branch101.	9	3	am	VBP	(VP*	citizentvkenya	-	-	-	-	-	-	-	-	-	0_0_3
+012_947174225365946368.branch101.	9	4	holding	VBG	(VP*	citizentvkenya	-	-	-	-	-	-	-	-	-	0_0_4
+012_947174225365946368.branch101.	9	5	the	DT	(NP(NP*	citizentvkenya	representative_men	other	defnp/none	(1000	-	NP_S(	NP_L(	-	-	0_0_5
+012_947174225365946368.branch101.	9	6	highest	JJS	*	citizentvkenya	-	-	-	-	-	-	-	-	-	0_0_6
+012_947174225365946368.branch101.	9	7	office	NN	*)	citizentvkenya	-	-	-	1000)	-	)NP_S	-	-	-	0_0_7
+012_947174225365946368.branch101.	9	8	in	IN	(PP*	citizentvkenya	-	-	-	-	-	-	-	-	-	0_0_8
+012_947174225365946368.branch101.	9	9	Western	JJ	(NP*	citizentvkenya	representative_men	loc	defnp/none	(1003	-	NP_S(	-	-	-	0_0_9
+012_947174225365946368.branch101.	9	10	region	NN	*	citizentvkenya	-	-	-	1003)	CL1	)NP_S	)NP_L	-	-	0_0_10
+012_947174225365946368.branch101.	9	11	#Events2017	NN	*	citizentvkenya	-	-	-	-	-	NP_S()	NP_L()	-	-	0_0_11
+012_947174225365946368.branch101.	9	12	https://t.co/PNzURLw1so	NN	*))))))))	citizentvkenya	-	-	-	-	-	-	-	-	-	0_0_12
+
+012_947174225365946368.branch101.	9	0	@citizentvkenya	NN	(ROOT(NP(NP*)	ngungah	-	-	-	-	-	NP_S()	NP_L()	-	-	1_0_0
+012_947174225365946368.branch101.	9	1	Higher	JJR	(NP(NP*)	ngungah	-	-	-	-	CL2	-	-	-	-	1_0_1
+012_947174225365946368.branch101.	9	2	than	IN	(PP*	ngungah	-	-	-	-	-	-	-	-	-	1_0_2
+012_947174225365946368.branch101.	9	3	a	DT	(NP(NP*	ngungah	-	-	-	-	-	-	-	-	-	1_0_3
+012_947174225365946368.branch101.	9	4	the	DT	*	ngungah	representative_men	other	defnp/none	(1002	-	NP_S(	NP_L(	-	-	1_0_4
+012_947174225365946368.branch101.	9	5	office	NN	*)	ngungah	-	-	-	-	-	)NP_S	-	-	-	1_0_5
+012_947174225365946368.branch101.	9	6	of	IN	(PP*	ngungah	-	-	-	-	-	-	-	-	-	1_0_6
+012_947174225365946368.branch101.	9	7	a	DT	(NP*	ngungah	representative_men	human	indefnp/none	(1	-	NP_S(	-	prep_phrase	generic	1_0_7
+012_947174225365946368.branch101.	9	8	Governor	NN	*)))))	ngungah	-	-	-	1)|1002)	-	)NP_S	)NP_L	-	-	1_0_8
+012_947174225365946368.branch101.	9	9	??	.	*))	ngungah	-	-	-	-	CL2	-	-	-	-	1_0_9
+
+012_947174225365946368.branch101.	9	0	Or	CC	(ROOT(S*	ngungah	-	-	-	-	CL3	-	-	-	-	1_1_0
+012_947174225365946368.branch101.	9	1	he	PRP	(NP*)	ngungah	-	-	ppers/anaphora	(0)	-	NP_S()	NP_L()	sbj	not_assigned	1_1_1
+012_947174225365946368.branch101.	9	2	's	VBZ	(VP*	ngungah	-	-	-	-	-	-	-	-	-	1_1_2
+012_947174225365946368.branch101.	9	3	talking	VBG	(VP*	ngungah	-	-	-	-	-	-	-	-	-	1_1_3
+012_947174225365946368.branch101.	9	4	of	IN	(PP*	ngungah	-	-	-	-	-	-	-	-	-	1_1_4
+012_947174225365946368.branch101.	9	5	the	DT	(NP*	ngungah	representative_men	other	defnp/none	(1001	-	NP_S(	NP_L(	-	-	1_1_5
+012_947174225365946368.branch101.	9	6	offices	NNS	*))	ngungah	-	-	-	-	-	)NP_S	-	-	-	1_1_6
+012_947174225365946368.branch101.	9	7	when	WRB	(SBAR(WHADVP*)	ngungah	-	-	-	-	CL4	-	-	-	-	1_1_7
+012_947174225365946368.branch101.	9	8	turned	VBN	(S(VP*	ngungah	-	-	-	-	-	-	-	-	-	1_1_8
+012_947174225365946368.branch101.	9	9	upside	RB	(ADVP*	ngungah	-	-	-	-	-	-	-	-	-	1_1_9
+012_947174225365946368.branch101.	9	10	down	RB	*))))))	ngungah	-	-	-	1001)	CL4	-	)NP_L	-	-	1_1_10
+012_947174225365946368.branch101.	9	11	?	.	*))	ngungah	-	-	-	-	CL3	-	-	-	-	1_1_11
+
+012_947174225365946368.branch101.	9	0	@ngungah	JJ	(ROOT(S(NP(NP*	edwinfanice	-	-	-	-	-	NP_S(	NP_L(	-	-	2_0_0
+012_947174225365946368.branch101.	9	1	@citizentvkenya	NN	*)	edwinfanice	-	-	-	-	-	)NP_S	)NP_L	-	-	2_0_1
+012_947174225365946368.branch101.	9	2	A	DT	(NP*	edwinfanice	representative_men	human	indefnp/none	(1006	CL5	NP_S(	NP_L(	-	-	2_0_2
+012_947174225365946368.branch101.	9	3	speaker	NN	*))	edwinfanice	-	-	-	1006)	-	)NP_S	)NP_L	-	-	2_0_3
+012_947174225365946368.branch101.	9	4	is	VBZ	(VP*	edwinfanice	-	-	-	-	-	-	-	-	-	2_0_4
+012_947174225365946368.branch101.	9	5	higher	JJR	(ADJP(ADJP*)	edwinfanice	-	-	-	-	-	-	-	-	-	2_0_5
+012_947174225365946368.branch101.	9	6	than	IN	(PP*	edwinfanice	-	-	-	-	-	-	-	-	-	2_0_6
+012_947174225365946368.branch101.	9	7	the	DT	(NP*	edwinfanice	-	-	defnp/none	(1	-	NP_S(	NP_L(	other/other	not_assigned	2_0_7
+012_947174225365946368.branch101.	9	8	governor	NN	*))))))	edwinfanice	-	-	-	1)	CL5	)NP_S	)NP_L	-	-	2_0_8
+
+012_947174225365946368.branch101.	9	0	@edwinfanice	NN	(ROOT(S(NP*	TheRealAgassi	-	-	-	-	-	NP_S(	NP_L(	-	-	3_0_0
+012_947174225365946368.branch101.	9	1	@ngungah	NN	*	TheRealAgassi	-	-	-	-	-	-	-	-	-	3_0_1
+012_947174225365946368.branch101.	9	2	@citizentvkenya	NN	*)	TheRealAgassi	-	-	-	-	-	)NP_S	)NP_L	-	-	3_0_2
+012_947174225365946368.branch101.	9	3	He	PRP	(NP*)	TheRealAgassi	-	-	ppers/anaphora	(0)	CL6	NP_S()	NP_L()	sbj	not_assigned	3_0_3
+012_947174225365946368.branch101.	9	4	was	VBD	(VP*	TheRealAgassi	-	-	-	-	-	-	-	-	-	3_0_4
+012_947174225365946368.branch101.	9	5	rejected	VBN	(VP*	TheRealAgassi	-	-	-	-	-	-	-	-	-	3_0_5
+012_947174225365946368.branch101.	9	6	by	IN	(PP*	TheRealAgassi	-	-	-	-	-	-	-	-	-	3_0_6
+012_947174225365946368.branch101.	9	7	the	DT	(NP*	TheRealAgassi	representative_men	org	defnp/none	(1005	-	NP_S(	NP_L(	-	-	3_0_7
+012_947174225365946368.branch101.	9	8	electorate	NN	*))))	TheRealAgassi	-	-	-	1005)	-	)NP_S	)NP_L	-	-	3_0_8
+012_947174225365946368.branch101.	9	9	.	.	*))	TheRealAgassi	-	-	-	-	CL6	-	-	-	-	3_0_9
+
+012_947174225365946368.branch101.	9	0	Accepted	JJ	(ROOT(NP(NP*)	TheRealAgassi	-	-	-	-	CL7	-	-	-	-	3_1_0
+012_947174225365946368.branch101.	9	1	by	IN	(PP*	TheRealAgassi	-	-	-	-	-	-	-	-	-	3_1_1
+012_947174225365946368.branch101.	9	2	Jubilee	NN	(NP*))))	TheRealAgassi	representative_men	-	ne/none	(1004)	CL7	NP_S()	NP_L()	-	-	3_1_2
+
+#end document

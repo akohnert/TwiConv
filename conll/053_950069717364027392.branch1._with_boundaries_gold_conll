@@ -1,0 +1,103 @@
+#begin document (053_950069717364027392.branch1.); part 37
+053_950069717364027392.branch1.	37	0	Sixers	NNS	(ROOT(S(NP(NP*)	AmericanNumbers	representative_men	-	ne/none	(2)	CL0	NP_S()	NP_L()	sbj	specific	0_0_0
+053_950069717364027392.branch1.	37	1	adding	VBG	(VP*	AmericanNumbers	-	-	-	-	-	-	-	-	-	0_0_1
+053_950069717364027392.branch1.	37	2	Booker	NNP	(NP*)))	AmericanNumbers	representative_men	-	ne/none	(1002)	-	NP_S()	NP_L()	-	-	0_0_2
+053_950069717364027392.branch1.	37	3	was	VBD	(VP*	AmericanNumbers	-	-	-	-	-	-	-	-	-	0_0_3
+053_950069717364027392.branch1.	37	4	good	JJ	(ADJP*))	AmericanNumbers	-	-	-	-	-	-	-	-	-	0_0_4
+053_950069717364027392.branch1.	37	5	.	.	*))	AmericanNumbers	-	-	-	-	CL0	-	-	-	-	0_0_5
+
+053_950069717364027392.branch1.	37	0	Simmons	NNP	(ROOT(S(NP*)	AmericanNumbers	representative_men	-	ne/none	(1001)	CL1	NP_S()	NP_L()	-	-	0_1_0
+053_950069717364027392.branch1.	37	1	slowed	VBD	(VP*	AmericanNumbers	-	-	-	-	-	-	-	-	-	0_1_1
+053_950069717364027392.branch1.	37	2	down	RP	(PRT*))	AmericanNumbers	-	-	-	-	-	-	-	-	-	0_1_2
+053_950069717364027392.branch1.	37	3	.	.	*))	AmericanNumbers	-	-	-	-	CL1	-	-	-	-	0_1_3
+
+053_950069717364027392.branch1.	37	0	The	DT	(ROOT(S(NP*	AmericanNumbers	representative_men	other	defnp/none	(1005	CL2	NP_S(	NP_L(	-	-	0_2_0
+053_950069717364027392.branch1.	37	1	big	JJ	*	AmericanNumbers	-	-	-	-	-	-	-	-	-	0_2_1
+053_950069717364027392.branch1.	37	2	problem	NN	*)	AmericanNumbers	-	-	-	1005)	-	)NP_S	)NP_L	-	-	0_2_2
+053_950069717364027392.branch1.	37	3	is	VBZ	(VP*	AmericanNumbers	-	-	-	-	-	-	-	-	-	0_2_3
+053_950069717364027392.branch1.	37	4	too	RB	(ADVP*	AmericanNumbers	representative_men	time	defnp/none	(1004	-	NP_S(	NP_L(	-	-	0_2_4
+053_950069717364027392.branch1.	37	5	many	JJ	(NP*	AmericanNumbers	-	-	-	-	-	-	-	-	-	0_2_5
+053_950069717364027392.branch1.	37	6	minutes	NNS	*)	AmericanNumbers	-	-	-	1004)	-	)NP_S	)NP_L	-	-	0_2_6
+053_950069717364027392.branch1.	37	7	to	TO	(PP*	AmericanNumbers	-	-	-	-	-	-	-	-	-	0_2_7
+053_950069717364027392.branch1.	37	8	Bayless	NNP	(NP*	AmericanNumbers	representative_men	-	ne/none	(1)	-	NP_S()	NP_L(	prep_phrase	specific	0_2_8
+053_950069717364027392.branch1.	37	9	and	CC	*	AmericanNumbers	-	-	-	-	-	-	-	-	-	0_2_9
+053_950069717364027392.branch1.	37	10	Luwawu	NNP	*)))	AmericanNumbers	representative_men	-	ne/none	(0)	CL2	NP_S()	)NP_L	indir_obj	specific	0_2_10
+053_950069717364027392.branch1.	37	11	https://t.co/3oI5nesWNS	NN	(NP*))))	AmericanNumbers	-	-	-	-	-	-	-	-	-	0_2_11
+
+053_950069717364027392.branch1.	37	0	@AmericanNumbers	NNS	(ROOT(S(NP-TMP(NP*)	WayneIzardry	-	-	-	-	-	NP_S()	NP_L()	-	-	1_0_0
+053_950069717364027392.branch1.	37	1	Luwawu	NNP	(SBAR(S(NP*)	WayneIzardry	-	-	ne/none	(0)	CL4	NP_S()	NP_L()	sbj	not_assigned	1_0_1
+053_950069717364027392.branch1.	37	2	is	VBZ	(VP*	WayneIzardry	-	-	-	-	-	-	-	-	-	1_0_2
+053_950069717364027392.branch1.	37	3	still	RB	(ADVP*)	WayneIzardry	-	-	-	-	-	-	-	-	-	1_0_3
+053_950069717364027392.branch1.	37	4	a	DT	(NP*	WayneIzardry	-	-	indefnp/none	(0	-	NP_S(	NP_L(	copula_rel	not_assigned	1_0_4
+053_950069717364027392.branch1.	37	5	bloody	JJ	*	WayneIzardry	-	-	-	-	-	-	-	-	-	1_0_5
+053_950069717364027392.branch1.	37	6	kid	NN	*)))))	WayneIzardry	-	-	-	0)	-	)NP_S	)NP_L	-	-	1_0_6
+053_950069717364027392.branch1.	37	7	,	,	*	WayneIzardry	-	-	-	-	CL4	-	-	-	-	1_0_7
+053_950069717364027392.branch1.	37	8	he	PRP	(NP*)	WayneIzardry	-	-	ppers/anaphora	(0)	CLX	NP_S()	NP_L()	sbj	not_assigned	1_0_8
+053_950069717364027392.branch1.	37	9	's	VBZ	(VP*	WayneIzardry	-	-	-	-	-	-	-	-	-	1_0_9
+053_950069717364027392.branch1.	37	10	shown	VBN	(VP*	WayneIzardry	-	-	-	-	-	-	-	-	-	1_0_10
+053_950069717364027392.branch1.	37	11	plenty	RB	(NP*)	WayneIzardry	-	-	-	-	-	-	-	-	-	1_0_11
+053_950069717364027392.branch1.	37	12	at	IN	(PP*	WayneIzardry	-	-	-	-	-	-	-	-	-	1_0_12
+053_950069717364027392.branch1.	37	13	times	NNS	(NP*))	WayneIzardry	representative_men	-	indefnp/none	(1003)	-	NP_S()	NP_L()	-	-	1_0_13
+053_950069717364027392.branch1.	37	14	to	TO	(S(VP*	WayneIzardry	-	-	-	-	CL5	-	-	-	-	1_0_14
+053_950069717364027392.branch1.	37	15	suggest	VB	(VP*	WayneIzardry	-	-	-	-	-	-	-	-	-	1_0_15
+053_950069717364027392.branch1.	37	16	he	PRP	(SBAR(S(NP*)	WayneIzardry	-	-	ppers/anaphora	(0)	CL6	NP_S()	NP_L()	sbj	not_assigned	1_0_16
+053_950069717364027392.branch1.	37	17	can	MD	(VP*	WayneIzardry	-	-	-	-	-	-	-	-	-	1_0_17
+053_950069717364027392.branch1.	37	18	further	RB	(ADVP*)	WayneIzardry	-	-	-	-	-	-	-	-	-	1_0_18
+053_950069717364027392.branch1.	37	19	improve	VB	(VP*)))))))))	WayneIzardry	-	-	-	-	-	-	-	-	-	1_0_19
+053_950069717364027392.branch1.	37	20	.	.	*))	WayneIzardry	-	-	-	-	CLX|CL5|CL6	-	-	-	-	1_0_20
+
+053_950069717364027392.branch1.	37	0	Only	RB	(ROOT(S(NP*	WayneIzardry	-	-	-	-	CL7	-	-	-	-	1_1_0
+053_950069717364027392.branch1.	37	1	second	JJ	*	WayneIzardry	representative_men	time	defnp/none	(1006	-	NP_S(	NP_L(	-	-	1_1_1
+053_950069717364027392.branch1.	37	2	year	NN	*)	WayneIzardry	-	-	-	1006)	CL7	)NP_S	)NP_L	-	-	1_1_2
+053_950069717364027392.branch1.	37	3	and	CC	(VP*	WayneIzardry	-	-	-	-	CLX	-	-	-	-	1_1_3
+053_950069717364027392.branch1.	37	4	got	VBD	(VP*	WayneIzardry	-	-	-	-	-	-	-	-	-	1_1_4
+053_950069717364027392.branch1.	37	5	much	RB	(ADVP*	WayneIzardry	-	-	-	-	-	-	-	-	-	1_1_5
+053_950069717364027392.branch1.	37	6	more	RBR	*	WayneIzardry	-	-	-	-	-	-	-	-	-	1_1_6
+053_950069717364027392.branch1.	37	7	upside	RB	*)	WayneIzardry	-	-	-	-	-	-	-	-	-	1_1_7
+053_950069717364027392.branch1.	37	8	than	IN	(PP*	WayneIzardry	-	-	-	-	-	-	-	-	-	1_1_8
+053_950069717364027392.branch1.	37	9	Bayliss	NNP	(NP*))))))	WayneIzardry	-	-	ne/none	(1)	CLX	NP_S()	NP_L()	other/other	not_assigned	1_1_9
+
+053_950069717364027392.branch1.	37	0	@WayneIzardry	NN	(ROOT(S(NP*)	AmericanNumbers	-	-	-	-	-	NP_S()	NP_L()	-	-	2_0_0
+053_950069717364027392.branch1.	37	1	He	PRP	(NP*)	AmericanNumbers	-	-	ppers/anaphora	(0)	CL8	NP_S()	NP_L()	sbj	not_assigned	2_0_1
+053_950069717364027392.branch1.	37	2	's	VBZ	(VP*	AmericanNumbers	-	-	-	-	-	-	-	-	-	2_0_2
+053_950069717364027392.branch1.	37	3	22	CD	(NP*)	AmericanNumbers	-	-	-	-	-	NP_S()	NP_L()	-	-	2_0_3
+053_950069717364027392.branch1.	37	4	on	IN	(PP*	AmericanNumbers	-	-	-	-	-	-	-	-	-	2_0_4
+053_950069717364027392.branch1.	37	5	his	PRP$	(NP(NP*	AmericanNumbers	representative_men	other	ppos/anaphora|defnp/none	(0)|(1007	-	NP_S(	NP_L(	prep_phrase	not_assigned	2_0_5
+053_950069717364027392.branch1.	37	6	4th	JJ	*	AmericanNumbers	-	-	-	-	-	-	-	-	-	2_0_6
+053_950069717364027392.branch1.	37	7	full	JJ	*	AmericanNumbers	-	-	-	-	-	-	-	-	-	2_0_7
+053_950069717364027392.branch1.	37	8	professional	JJ	*	AmericanNumbers	-	-	-	-	-	-	-	-	-	2_0_8
+053_950069717364027392.branch1.	37	9	season	NN	*)	AmericanNumbers	-	-	-	1007)	-	)NP_S	)NP_L	-	-	2_0_9
+053_950069717364027392.branch1.	37	10	and	CC	*	AmericanNumbers	-	-	-	-	-	-	-	-	-	2_0_10
+053_950069717364027392.branch1.	37	11	6th	JJ	(NP*	AmericanNumbers	representative_men	other	defnp/none	(1011	-	NP_S(	NP_L(	-	-	2_0_11
+053_950069717364027392.branch1.	37	12	professional	JJ	*	AmericanNumbers	-	-	-	-	-	-	-	-	-	2_0_12
+053_950069717364027392.branch1.	37	13	season	NN	*)))	AmericanNumbers	-	-	-	1011)	-	)NP_S	)NP_L	-	-	2_0_13
+053_950069717364027392.branch1.	37	14	overall	NN	(ADVP*))	AmericanNumbers	-	-	-	-	-	-	-	-	-	2_0_14
+053_950069717364027392.branch1.	37	15	.	.	*))	AmericanNumbers	-	-	-	-	CL8	-	-	-	-	2_0_15
+
+053_950069717364027392.branch1.	37	0	Same	JJ	(ROOT(NP(NP*	AmericanNumbers	representative_men	other	defnp/none	(1010	CL9	NP_S(	NP_L(	-	-	2_1_0
+053_950069717364027392.branch1.	37	1	age	NN	*	AmericanNumbers	-	-	-	1010)	-	)NP_S	-	-	-	2_1_1
+053_950069717364027392.branch1.	37	2	and	CC	*	AmericanNumbers	-	-	-	-	-	-	-	-	-	2_1_2
+053_950069717364027392.branch1.	37	3	experience	NN	*)	AmericanNumbers	representative_men	-	defnp/none	(1009)	-	NP_S()	)NP_L	-	-	2_1_3
+053_950069717364027392.branch1.	37	4	as	IN	(PP*	AmericanNumbers	-	-	-	-	-	-	-	-	-	2_1_4
+053_950069717364027392.branch1.	37	5	Wiggins	NNP	(NP*))	AmericanNumbers	representative_men	-	ne/none	(1008)	-	NP_S()	NP_L()	-	-	2_1_5
+053_950069717364027392.branch1.	37	6	.	.	*))	AmericanNumbers	-	-	-	-	CL9	-	-	-	-	2_1_6
+
+053_950069717364027392.branch1.	37	0	It	PRP	(ROOT(S(NP*)	AmericanNumbers	representative_men	-	ppers/non-referential_pronoun	(1000)	CL10	NP_S()	NP_L()	-	-	2_2_0
+053_950069717364027392.branch1.	37	1	's	VBZ	(VP*	AmericanNumbers	-	-	-	-	-	-	-	-	-	2_2_1
+053_950069717364027392.branch1.	37	2	fair	JJ	(ADJP*	AmericanNumbers	-	-	-	-	-	-	-	-	-	2_2_2
+053_950069717364027392.branch1.	37	3	to	TO	(S(VP*	AmericanNumbers	-	-	-	-	CL11	-	-	-	-	2_2_3
+053_950069717364027392.branch1.	37	4	say	VB	(VP*	AmericanNumbers	-	-	-	-	-	-	-	-	-	2_2_4
+053_950069717364027392.branch1.	37	5	that	IN	(SBAR*	AmericanNumbers	-	-	-	-	CL12	-	-	-	-	2_2_5
+053_950069717364027392.branch1.	37	6	they	PRP	(S(NP*)	AmericanNumbers	-	-	ppers/anaphora	(2)	-	NP_S()	NP_L()	sbj	not_assigned	2_2_6
+053_950069717364027392.branch1.	37	7	likely	RB	(ADVP*)	AmericanNumbers	-	-	-	-	-	-	-	-	-	2_2_7
+053_950069717364027392.branch1.	37	8	should	MD	(VP*	AmericanNumbers	-	-	-	-	-	-	-	-	-	2_2_8
+053_950069717364027392.branch1.	37	9	be	VB	(VP*	AmericanNumbers	-	-	-	-	-	-	-	-	-	2_2_9
+053_950069717364027392.branch1.	37	10	playing	VBG	(VP*	AmericanNumbers	-	-	-	-	-	-	-	-	-	2_2_10
+053_950069717364027392.branch1.	37	11	him	PRP	(NP*)	AmericanNumbers	-	-	ppers/anaphora	(0)	-	NP_S()	NP_L()	dir_obj	not_assigned	2_2_11
+053_950069717364027392.branch1.	37	12	in	IN	(PP*	AmericanNumbers	-	-	-	-	-	-	-	-	-	2_2_12
+053_950069717364027392.branch1.	37	13	the	DT	(ADVP(NP*	AmericanNumbers	representative_men	other	defnp/none	(1012	-	NP_S(	NP_L(	-	-	2_2_13
+053_950069717364027392.branch1.	37	14	gleague	NN	*)	AmericanNumbers	-	-	-	1012)	-	)NP_S	)NP_L	-	-	2_2_14
+053_950069717364027392.branch1.	37	15	more	RBR	*))))))))))))	AmericanNumbers	-	-	-	-	-	-	-	-	-	2_2_15
+053_950069717364027392.branch1.	37	16	.	.	*))	AmericanNumbers	-	-	-	-	CL12|CL11|CL10	-	-	-	-	2_2_16
+
+#end document
