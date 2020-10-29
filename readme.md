@@ -48,7 +48,7 @@ The CoNLL format is inspired by the original CoNLL-2012 format with some additio
 Empty lines indicate sentence breaks.
 
 ```
-COLUMN	CONTENT
+COLUMN 		CONTENT
 0 		Thread ID
 1 		Thread number
 2 		Token number in sentence
