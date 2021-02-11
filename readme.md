@@ -1,6 +1,6 @@
 ## TwiConv Corpus
 
-This is an instruction on how to reproduce the TwiConv Corpus as described in _TwiConv: A Coreference-annotated Corpus of Twitter Conversations_. TwiConv is an annotated corpus for nominal coreference in Twitter conversations (Twitter threads). To conform with Twitter's Developer Policy, we only share our annotations as text files without including the full tweet contents and authors. Instead we provide the tweet IDs and also share an additional script and data to map our tokenization and annotations to the original tweets.
+This is an instruction on how to reproduce the TwiConv Corpus as described in [TwiConv: A Coreference-annotated Corpus of Twitter Conversations](https://www.aclweb.org/anthology/2020.crac-1.6.pdf). TwiConv is an annotated corpus for nominal coreference in Twitter conversations (Twitter threads). To conform with Twitter's Developer Policy, we only share our annotations as text files without including the full tweet contents and authors. Instead we provide the tweet IDs and also share an additional script and data to map our tokenization and annotations to the original tweets.
 
 ### Required Data
 - CoNLL skeleton files in which the words and tweet authors are anonymized (one file for each conversation/thread, provided in ``conll_skeleton``)
